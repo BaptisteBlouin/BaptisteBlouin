@@ -20,7 +20,7 @@ Data Scientist and AI Engineer with a PhD in Computer Science (Aix-Marseille Uni
 
 - 🎓 **PhD in Computer Science** — Aix-Marseille Université, LIS / IrAsia — ERC Advanced Grant ENP-China (n° 788476)
 - 📄 **7 peer-reviewed publications** — LREC-COLING, NLP4DH, TALN, PACLIC, JDMDH, JHNR
-- 🌍 Presented research in **4 countries** (France, Japan, India, Vietnam)
+- 🌍 Presented research in **7 countries** (France, USA, China, Italy, Japan, India, Vietnam)
 - 🔭 Currently building a **Data & AI SaaS platform** — RAG pipeline, text-to-SQL, multi-tenant architecture
 
 ---
