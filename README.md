@@ -66,7 +66,7 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 | Project | Description | |
 |---|---|---|
 | [**HistText**](https://github.com/BaptisteBlouin/HistText) | Full-stack platform for large-scale analysis of historical Chinese texts (billions of tokens). Rust backend, React UI, Apache Solr, multilingual NER pipeline, R package on CRAN. Deployed for the international digital humanities community. | [🌐 Live](https://histtext.enpchina.eu/) |
-| [**EventExtractionPapers**](https://github.com/BaptisteBlouin/EventExtractionPapers) | Curated and actively maintained list of NLP papers, datasets and models for event extraction. Widely used reference in the research community. | ⭐ <!-- STARS_START -->580<!-- STARS_END --> stars |
+| [**EventExtractionPapers**](https://github.com/BaptisteBlouin/EventExtractionPapers) | Curated and actively maintained list of NLP papers, datasets and models for event extraction. Widely used reference in the research community. | ⭐ <!-- STARS_START -->580<!-- STARS_END --> |
 
 ---
 
