@@ -10,6 +10,7 @@
   <a href="https://www.linkedin.com/in/baptiste-blouin/"><img src="https://img.shields.io/badge/LinkedIn-baptiste--blouin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=UCP_hKIAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Baptiste_Blouin-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
   <a href="https://cv.hal.science/baptiste-blouin"><img src="https://img.shields.io/badge/HAL-baptiste--blouin-C10000?style=flat-square"/></a>
+  <a href="https://orcid.org/0000-0002-7171-3628"><img src="https://img.shields.io/badge/ORCID-0000--0002--7171--3628-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
 </p>
 
 ---
