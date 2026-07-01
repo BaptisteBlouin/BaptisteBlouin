@@ -71,6 +71,24 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 
 ---
 
+## Tech-Watch
+
+A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
+
+<!-- TECH-BRIEF:START -->
+#### 📰 Tech Brief — latest digest (2026-07-01)
+
+- Anthropic releases **Claude Sonnet 5** as the new default mid-tier model, emphasizing agentic capabilities like planning and tool use (browser/terminal), with immediate availability across Claude, Claude Code, API, and partners.
+- Anthropic confirms US Department of Commerce **lifts export controls on Claude Fable 5 and Mythos 5**, with access restoration beginning the next day.
+- Google launches **Gemini 3.1 Flash Lite Image** (aka Nano Banana 2 Lite), billed as the fastest and cheapest Gemini image model for high-velocity, large-scale generation.
+- At AI Engineer World’s Fair, **agent loops and automation** dominate discussions; swyx frames the evolution as chat → tools → goals → automations/cron jobs, with "Loopcraft" (stacking loops) as a core theme for AI engineering.
+- **Software Factories** and persistent agent workers (e.g., "Ralph loops") are highlighted as a pattern for turning AI coding agents into reliable, restartable workers against fixed specs.
+
+➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
+<!-- TECH-BRIEF:END -->
+
+---
+
 ## Selected Publications
 
 | Year | Title | Venue |

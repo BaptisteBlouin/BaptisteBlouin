@@ -1,0 +1,36 @@
+name: Tech Brief on profile
+
+# Rafraîchit le digest injecté dans le README du profil, peu après le Worker (11:00/23:00 UTC).
+on:
+  schedule:
+    - cron: '20 11 * * *'
+    - cron: '20 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tech-brief
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/update-tech-brief.mjs
+      - name: Commit & push si changement
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Rien à committer."
+          else
+            git commit -m "tech-brief: refresh $(date -u +%Y-%m-%d)"
+            git push
+          fi
