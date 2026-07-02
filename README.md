@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-01)
+#### 📰 Tech Brief — latest digest (2026-07-02)
 
-- Anthropic releases **Claude Sonnet 5** as the new default mid-tier model, emphasizing agentic capabilities like planning and tool use (browser/terminal), with immediate availability across Claude, Claude Code, API, and partners.
-- Anthropic confirms US Department of Commerce **lifts export controls on Claude Fable 5 and Mythos 5**, with access restoration beginning the next day.
-- Google launches **Gemini 3.1 Flash Lite Image** (aka Nano Banana 2 Lite), billed as the fastest and cheapest Gemini image model for high-velocity, large-scale generation.
-- Anthropic announces **Claude Science**, an AI workbench app for scientists, integrating fragmented scientific tools into a single environment, natively rendering 3D protein structures, genome browser tracks, and chemical structures.
-- Hugging Face and Cerebras bring **Gemma 4 to real-time voice AI**, enabling voice chat over WebSocket.
+- Anthropic relaunches Claude Fable 5 with visible safety fallbacks, routing some requests to Opus 4.8 while acknowledging overly broad biology/chemistry classifiers.
+- Google Research introduces TabFM, a zero-shot foundation model for tabular classification and regression that outperforms tuned tree-based baselines on TabArena without per-dataset training or feature engineering.
+- Meta’s internal DeMate assistant for data engineers combines RAG over internal catalogs, multi-step reasoning, and human-in-the-loop feedback to scale SQL, pipeline generation, and code review.
+- ZCode, the official development environment for GLM-5.2, is now available on macOS, Windows, and Linux, with increased usage quotas for GLM Coding Plan subscribers.
+- AIEWF highlights **autoresearch** as an "outer loop" where agents maintain and improve primary systems using feedback, evals, and human input; Introspection frames it as infrastructure for self-improving agents.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
