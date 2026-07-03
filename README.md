@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-02)
+#### 📰 Tech Brief — latest digest (2026-07-03)
 
-- Anthropic redeployed Claude Fable 5 and Mythos 5, with Fable 5 included for up to 50% of weekly usage until July 7, then via credits; Mythos 5 restored for some US orgs in the Glasswing program.
-- Google is testing a new Gemini Flash upgrade on LM Arena, with potential labels like "Gemini 3.6 Flash" or "Gemini 4 Flash".
-- Adobe demonstrated an "agentic site" that dynamically assembles personalized web pages in real time by interpreting visitor intent and retrieving relevant content.
-- ZCode 3.0 introduces an optimized platform for AI agent collaboration, enabling plan/code/review/deploy workflows.
-- AIEWF highlights **autoresearch** as an outer loop where agents use feedback, evals, and human input to maintain and improve primary systems.
+- A live debate at AI Engineer World’s Fair centers on whether autonomous "loops" (self-improving agentic workflows) are production-ready today or if engineering rigor still lags the ambition; proponents argue loops are inevitable and already usable, while skeptics emphasize the need for verifiability and human oversight in generated code.
+- Vercel’s Chief of Software argues agents are a fundamentally new kind of software, detailing lessons from building agent frameworks (e.g., eve) and MCP libraries, and framing agents as a shift from traditional web apps.
+- Meta’s internal progress on AI agents is slower than expected, with Zuckerberg noting improvements from current investments may take 3–6 months to materialize.
+- Industry commentary highlights "understanding" as the new bottleneck: verifying agent output and maintaining human participation in the creative process remain critical for correctness and trust.
+- A practical case study shows how a Slack-based AI "intern" agent was built over four months, with human review and steering baked into the workflow; full source is shared.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
