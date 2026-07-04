@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-03)
 
-- A live debate at AI Engineer World’s Fair centers on whether autonomous "loops" (self-improving agentic workflows) are production-ready today or if engineering rigor still lags the ambition; proponents argue loops are inevitable and already usable, while skeptics emphasize the need for verifiability and human oversight in generated code.
-- Vercel’s Chief of Software argues agents are a fundamentally new kind of software, detailing lessons from building agent frameworks (e.g., eve) and MCP libraries, and framing agents as a shift from traditional web apps.
-- Meta’s internal progress on AI agents is slower than expected, with Zuckerberg noting improvements from current investments may take 3–6 months to materialize.
-- Industry commentary highlights "understanding" as the new bottleneck: verifying agent output and maintaining human participation in the creative process remain critical for correctness and trust.
-- A practical case study shows how a Slack-based AI "intern" agent was built over four months, with human review and steering baked into the workflow; full source is shared.
+- Meta’s Watermelon model is reported to match GPT‑5.5 on key benchmarks while still in training, using an order of magnitude more compute than Meta’s prior Muse Spark.
+- Google DeepMind and A24 announced a first-of-its-kind research partnership to co-develop AI tools anchored in creative workflows, with Google also making an investment in A24.
+- Apple Research proposes Residual Context Diffusion for diffusion LLMs, recycling discarded token representations to improve accuracy with minimal overhead.
+- Seed2.0 model card emphasizes long-tail knowledge, complex instruction following, reasoning, visual understanding, and search-driven evaluation for real-world tasks.
+- Debate continues on whether autonomous agent “loops” are production-ready; proponents see inevitability, skeptics stress verifiability and human oversight in generated code.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
