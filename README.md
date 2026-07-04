@@ -76,13 +76,9 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-03)
+#### 📰 Tech Brief — latest digest (2026-07-04)
 
-- Meta’s Watermelon model is reported to match GPT‑5.5 on key benchmarks while still in training, using an order of magnitude more compute than Meta’s prior Muse Spark.
-- Google DeepMind and A24 announced a first-of-its-kind research partnership to co-develop AI tools anchored in creative workflows, with Google also making an investment in A24.
-- Apple Research proposes Residual Context Diffusion for diffusion LLMs, recycling discarded token representations to improve accuracy with minimal overhead.
-- Seed2.0 model card emphasizes long-tail knowledge, complex instruction following, reasoning, visual understanding, and search-driven evaluation for real-world tasks.
-- Debate continues on whether autonomous agent “loops” are production-ready; proponents see inevitability, skeptics stress verifiability and human oversight in generated code.
+- Current AI, a non-profit building a public option for AI, launches the **Open Source AI Gap Map v0.1**, indexing 421 open-source AI products: 266 tools/libraries, 85 models, 50 datasets, and 20 hardware projects across 14 categories and 3 stack layers (model components, product/UX, infrastructure), with 24,400 additional uncategorized artifacts pending review.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
