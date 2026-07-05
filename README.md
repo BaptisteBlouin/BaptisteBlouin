@@ -76,10 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-04)
+#### 📰 Tech Brief — latest digest (2026-07-05)
 
-- Current AI releases the **Open Source AI Gap Map v0.1**, indexing 421 open-source AI products: 266 tools/libraries, 85 models, 50 datasets, and 20 hardware projects across 14 categories and 3 stack layers (model components, product/UX, infrastructure), with 24,400 additional uncategorized artifacts pending review.
-- Traditional anti-bot defenses (rate limits by IP, CAPTCHA, phone verification, device fingerprinting) increasingly fail as adversaries exploit their reliance on proxies (IP, phone, device) rather than direct human verification.
+- Claude Fable contributes significantly to sqlite-utils 4.0rc2, identifying major pre-release issues and accelerating the path to a stable 4.0; the work cost about $149.25 in API calls.
+- Newer Anthropic models (Opus 4.8, Sonnet 5) are observed to emit malformed tool calls—adding invented fields to tool schemas—where older models did not, suggesting a regression in strict schema adherence for tool use.
+- sqlite-utils 4.0rc2 is released as a Python CLI utility and library for manipulating SQLite databases, with the RC2 milestone driven by agent-assisted review.
+- A 445-byte ASCII world map demo showcases a clever combination of deflate compression and JavaScript’s `fetch` with `data:` URIs plus `DecompressionStream` to render the map in the browser.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
