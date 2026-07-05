@@ -78,7 +78,8 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-04)
 
-- Current AI, a non-profit building a public option for AI, launches the **Open Source AI Gap Map v0.1**, indexing 421 open-source AI products: 266 tools/libraries, 85 models, 50 datasets, and 20 hardware projects across 14 categories and 3 stack layers (model components, product/UX, infrastructure), with 24,400 additional uncategorized artifacts pending review.
+- Current AI releases the **Open Source AI Gap Map v0.1**, indexing 421 open-source AI products: 266 tools/libraries, 85 models, 50 datasets, and 20 hardware projects across 14 categories and 3 stack layers (model components, product/UX, infrastructure), with 24,400 additional uncategorized artifacts pending review.
+- Traditional anti-bot defenses (rate limits by IP, CAPTCHA, phone verification, device fingerprinting) increasingly fail as adversaries exploit their reliance on proxies (IP, phone, device) rather than direct human verification.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
