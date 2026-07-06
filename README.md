@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-05)
+#### 📰 Tech Brief — latest digest (2026-07-06)
 
-- An AI tutor deployed in a Dartmouth course achieved a 0.71–1.30 standard deviation effect size on learning outcomes.
-- Meta’s internal update indicates AI agent development has not accelerated as expected; leadership had restructured teams and cut roles to speed adaptation, with Zuckerberg noting benefits may appear in 3–6 months.
-- Claude Fable contributed to sqlite-utils 4.0rc2 by surfacing major pre-release issues, accelerating the path to 4.0 at an API cost of about $149.25.
-- Newer Anthropic models (Opus 4.8, Sonnet 5) have been observed emitting malformed tool calls—adding invented fields to tool schemas—suggesting a regression in strict schema adherence for tool use.
-- sqlite-utils 4.0rc2 was released as a Python CLI utility and library for manipulating SQLite databases, with the RC2 milestone driven by agent-assisted review.
+- Hugging Face introduces a dedicated "kernel" repository type for Kernels, with improved security (trusted publishers, kernel signing), revamped CLIs, broader framework/backend coverage, and foundations for agentic kernel development.
+- GPT-5.6 Sol Ultra is confirmed to be integrated into GitHub Codex.
+- t0-alpha, a 102M-parameter open-weights time-series LLM, demonstrates strong zero-shot forecasting with causal transformer architecture and probabilistic outputs, outperforming classical baselines on 96/97 configurations.
+- Newer Anthropic models may solve tasks correctly but fail stricter tool schemas by adding invalid fields, indicating overfitting to forgiving tool formats and a need for stricter schema validation in agent harnesses.
+- Claude Science, an AI workbench for scientists, launches to support literature review, hypothesis generation, data analysis, experiment design, and code writing.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
