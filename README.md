@@ -78,10 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-05)
 
-- Claude Fable contributes significantly to sqlite-utils 4.0rc2, identifying major pre-release issues and accelerating the path to a stable 4.0; the work cost about $149.25 in API calls.
-- Newer Anthropic models (Opus 4.8, Sonnet 5) are observed to emit malformed tool calls—adding invented fields to tool schemas—where older models did not, suggesting a regression in strict schema adherence for tool use.
-- sqlite-utils 4.0rc2 is released as a Python CLI utility and library for manipulating SQLite databases, with the RC2 milestone driven by agent-assisted review.
-- A 445-byte ASCII world map demo showcases a clever combination of deflate compression and JavaScript’s `fetch` with `data:` URIs plus `DecompressionStream` to render the map in the browser.
+- An AI tutor deployed in a Dartmouth course achieved a 0.71–1.30 standard deviation effect size on learning outcomes.
+- Meta’s internal update indicates AI agent development has not accelerated as expected; leadership had restructured teams and cut roles to speed adaptation, with Zuckerberg noting benefits may appear in 3–6 months.
+- Claude Fable contributed to sqlite-utils 4.0rc2 by surfacing major pre-release issues, accelerating the path to 4.0 at an API cost of about $149.25.
+- Newer Anthropic models (Opus 4.8, Sonnet 5) have been observed emitting malformed tool calls—adding invented fields to tool schemas—suggesting a regression in strict schema adherence for tool use.
+- sqlite-utils 4.0rc2 was released as a Python CLI utility and library for manipulating SQLite databases, with the RC2 milestone driven by agent-assisted review.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
