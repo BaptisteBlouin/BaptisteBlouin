@@ -80,9 +80,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - Hugging Face introduces a dedicated "kernel" repository type for Kernels, with improved security (trusted publishers, kernel signing), revamped CLIs, broader framework/backend coverage, and foundations for agentic kernel development.
 - GPT-5.6 Sol Ultra is confirmed to be integrated into GitHub Codex.
+- OpenAI is preparing GPT-5.6 for release next week, split into Sol, Terra, and Luna tiers, with a new reasoning-effort control slider and an "ultra" mode for complex tasks.
 - t0-alpha, a 102M-parameter open-weights time-series LLM, demonstrates strong zero-shot forecasting with causal transformer architecture and probabilistic outputs, outperforming classical baselines on 96/97 configurations.
-- Newer Anthropic models may solve tasks correctly but fail stricter tool schemas by adding invalid fields, indicating overfitting to forgiving tool formats and a need for stricter schema validation in agent harnesses.
-- Claude Science, an AI workbench for scientists, launches to support literature review, hypothesis generation, data analysis, experiment design, and code writing.
+- Fable (Claude) wrote the first genuine megakernel submitted to KernelBench-Mega, achieving an 18.71X speedup on an RTX PRO 6000 Blackwell vs. an optimized PyTorch baseline, surpassing other models like Claude Opus 4.8 (14.4X, Triton) and GPT-5.5 (4.34X, Triton).
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
