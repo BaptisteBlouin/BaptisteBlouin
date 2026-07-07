@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-06)
+#### 📰 Tech Brief — latest digest (2026-07-07)
 
-- Hugging Face introduces a dedicated "kernel" repository type for Kernels, with improved security (trusted publishers, kernel signing), revamped CLIs, broader framework/backend coverage, and foundations for agentic kernel development.
-- GPT-5.6 Sol Ultra is confirmed to be integrated into GitHub Codex.
-- OpenAI is preparing GPT-5.6 for release next week, split into Sol, Terra, and Luna tiers, with a new reasoning-effort control slider and an "ultra" mode for complex tasks.
-- t0-alpha, a 102M-parameter open-weights time-series LLM, demonstrates strong zero-shot forecasting with causal transformer architecture and probabilistic outputs, outperforming classical baselines on 96/97 configurations.
-- Fable (Claude) wrote the first genuine megakernel submitted to KernelBench-Mega, achieving an 18.71X speedup on an RTX PRO 6000 Blackwell vs. an optimized PyTorch baseline, surpassing other models like Claude Opus 4.8 (14.4X, Triton) and GPT-5.5 (4.34X, Triton).
+- Tencent releases **Hy3**, a 295B-parameter MoE model (21B active) under Apache 2.0, with a 256K context window; the FP8-quantized version is 300GB and available for free on OpenRouter until July 21, outperforming similar-size models and rivaling larger open-source alternatives.
+- **LeRobot v0.6.0** introduces new robotics evaluation and improvement workflows, including the **Robometer-4B** benchmark for assessing robotic task performance.
+- Community focus shifts to stress-testing **Fable 5** before its free-tier subsidy ends, with guidance on rethinking prompts and constraints to unlock new model behaviors.
+- PyTorch **Monarch** (single-controller distributed training) is now ported to **AMD GPUs via ROCm**, addressing reliability at scale for multi-GPU LLM training and expanding beyond CUDA ecosystems.
+- Nvidia delays its next-gen **Kyber rack-scale AI system** (144 Rubin Ultra chips) to **2028** due to manufacturing challenges with a key circuit board, signaling constraints in its annual release cadence.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
