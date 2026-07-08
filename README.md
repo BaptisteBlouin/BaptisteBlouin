@@ -79,10 +79,10 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-07-07)
 
 - Tencent releases **Hy3**, a 295B-parameter MoE model (21B active) under Apache 2.0, with a 256K context window; the FP8-quantized version is 300GB and available for free on OpenRouter until July 21, outperforming similar-size models and rivaling larger open-source alternatives.
-- **LeRobot v0.6.0** introduces new robotics evaluation and improvement workflows, including the **Robometer-4B** benchmark for assessing robotic task performance.
-- Community focus shifts to stress-testing **Fable 5** before its free-tier subsidy ends, with guidance on rethinking prompts and constraints to unlock new model behaviors.
-- PyTorch **Monarch** (single-controller distributed training) is now ported to **AMD GPUs via ROCm**, addressing reliability at scale for multi-GPU LLM training and expanding beyond CUDA ecosystems.
-- Nvidia delays its next-gen **Kyber rack-scale AI system** (144 Rubin Ultra chips) to **2028** due to manufacturing challenges with a key circuit board, signaling constraints in its annual release cadence.
+- Meta launches **Muse Image** and previews **Muse Video**, agentic media generation models that use tool invocation (search, coding), self-refinement, and joint planning with Muse Spark; Muse Image is live across Meta AI, Instagram, and WhatsApp (limited regions).
+- Anthropic research reveals **J-space** in Claude models—internal neural patterns enabling deliberate reasoning, thought monitoring, and multi-step problem-solving, emerging without explicit design.
+- **LeRobot v0.6.0** adds **Robometer-4B** benchmark for robotic task performance evaluation.
+- Community stress-tests **Fable 5** before its free-tier subsidy ends, refining prompts and constraints to surface new behaviors.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
