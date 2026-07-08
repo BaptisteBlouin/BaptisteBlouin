@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-07)
+#### 📰 Tech Brief — latest digest (2026-07-08)
 
-- Tencent releases **Hy3**, a 295B-parameter MoE model (21B active) under Apache 2.0, with a 256K context window; the FP8-quantized version is 300GB and available for free on OpenRouter until July 21, outperforming similar-size models and rivaling larger open-source alternatives.
-- Meta launches **Muse Image** and previews **Muse Video**, agentic media generation models that use tool invocation (search, coding), self-refinement, and joint planning with Muse Spark; Muse Image is live across Meta AI, Instagram, and WhatsApp (limited regions).
-- Anthropic research reveals **J-space** in Claude models—internal neural patterns enabling deliberate reasoning, thought monitoring, and multi-step problem-solving, emerging without explicit design.
-- **LeRobot v0.6.0** adds **Robometer-4B** benchmark for robotic task performance evaluation.
-- Community stress-tests **Fable 5** before its free-tier subsidy ends, refining prompts and constraints to surface new behaviors.
+- Meta releases Muse Image, a new consumer-facing image-generation model available via Meta AI, WhatsApp, and Instagram Stories, with free tier and subscription options; it will also power advertiser tools in Advantage Plus.
+- Microsoft replaces OpenAI and Anthropic models with its own MAI models in some apps like Excel and Outlook.
+- Chinese AI models gain traction among US companies as costs from OpenAI and Anthropic rise.
+- China considers restricting foreign access to its most advanced AI models, potentially limiting them to domestic use.
+- Tesla’s Cybercab features upgraded FSD hardware with more memory to run larger autonomous driving models, enabling SAE Level 4 autonomy.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
