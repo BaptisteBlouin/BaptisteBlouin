@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-08)
 
-- Meta releases Muse Image, a new consumer-facing image-generation model available via Meta AI, WhatsApp, and Instagram Stories, with free tier and subscription options; it will also power advertiser tools in Advantage Plus.
-- Microsoft replaces OpenAI and Anthropic models with its own MAI models in some apps like Excel and Outlook.
-- Chinese AI models gain traction among US companies as costs from OpenAI and Anthropic rise.
-- China considers restricting foreign access to its most advanced AI models, potentially limiting them to domestic use.
-- Tesla’s Cybercab features upgraded FSD hardware with more memory to run larger autonomous driving models, enabling SAE Level 4 autonomy.
+- Meta releases Muse Image, a consumer-facing image-generation model available via Meta AI, WhatsApp, and Instagram Stories, with free and subscription tiers; it will also power advertiser tools in Advantage Plus.
+- OpenAI announces public launch of GPT-5.6 Sol (flagship), Terra (2× cheaper than GPT-5.5 with competitive performance), and Luna (fast, lowest cost) this week.
+- OpenAI introduces GPT-Live, a new generation of voice models for natural human–AI interaction now powering ChatGPT Voice.
+- Google demonstrates an AI Race Coach using Antigravity and Gemini to deliver split-second, physics-grounded, actionable advice to drivers, closing the AI trust gap for high-stakes decisions.
+- Tesla’s Cybercab upgrades FSD hardware with more memory to run larger models, enabling SAE Level 4 autonomy.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
