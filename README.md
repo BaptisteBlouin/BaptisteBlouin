@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-08)
+#### 📰 Tech Brief — latest digest (2026-07-09)
 
-- Meta releases Muse Image, a consumer-facing image-generation model available via Meta AI, WhatsApp, and Instagram Stories, with free and subscription tiers; it will also power advertiser tools in Advantage Plus.
-- OpenAI announces public launch of GPT-5.6 Sol (flagship), Terra (2× cheaper than GPT-5.5 with competitive performance), and Luna (fast, lowest cost) this week.
-- OpenAI introduces GPT-Live, a new generation of voice models for natural human–AI interaction now powering ChatGPT Voice.
-- Google demonstrates an AI Race Coach using Antigravity and Gemini to deliver split-second, physics-grounded, actionable advice to drivers, closing the AI trust gap for high-stakes decisions.
-- Tesla’s Cybercab upgrades FSD hardware with more memory to run larger models, enabling SAE Level 4 autonomy.
+- SpaceXAI releases Grok 4.5, an Opus-class model with twice the token efficiency of peers and pricing at $2/$6 per million input/output tokens; it is positioned as a GPT‑5.5 equivalent and performs comparably to current top models on standard evals, though some benchmarks like SWE-Bench Pro are now considered saturated.
+- OpenAI upgrades ChatGPT’s voice mode with GPT‑Live, which maintains natural conversation while offloading complex tasks to GPT‑5.5 (and future frontier models) in the background, enabling hour-long, uninterrupted interactions.
+- Modal argues that cloud infrastructure must evolve for agent workloads: agents need tight feedback loops, inspectable environments, and rich context to debug and iterate, unlike human developers who can fill gaps manually.
+- HubSpot details scaling a vector retrieval platform to 20B+ vectors across 140+ clusters, moving from manual Helm to Kubernetes operators to automate provisioning, scaling, and recovery, reducing spin-up from hours to minutes.
+- Apache Hudi adds native vector search to the lakehouse, enabling semantic search and RAG directly on Hudi tables with HNSW indexing and hybrid search, removing the need for a separate vector DB.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
