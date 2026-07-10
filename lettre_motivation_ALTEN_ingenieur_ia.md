@@ -22,3 +22,9 @@ Basé à Aix-en-Provence, disponible rapidement pour rejoindre vos équipes à V
 
 Cordialement,
 Baptiste Blouin
+
+---
+
+Version courte (200 caractères max, ex. message d'accompagnement LinkedIn) :
+
+Docteur NLP/IA générative, je conçois et déploie des IA de bout en bout : RAG, text-to-SQL, plateforme SaaS en prod. Basé à Aix, dispo pour rejoindre ALTEN à Vitrolles. Échangeons sur vos projets IA.
