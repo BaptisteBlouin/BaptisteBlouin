@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-09)
 
-- SpaceXAI releases Grok 4.5, an Opus-class model with twice the token efficiency of peers and pricing at $2/$6 per million input/output tokens; it is positioned as a GPT‑5.5 equivalent and performs comparably to current top models on standard evals, though some benchmarks like SWE-Bench Pro are now considered saturated.
-- OpenAI upgrades ChatGPT’s voice mode with GPT‑Live, which maintains natural conversation while offloading complex tasks to GPT‑5.5 (and future frontier models) in the background, enabling hour-long, uninterrupted interactions.
-- Modal argues that cloud infrastructure must evolve for agent workloads: agents need tight feedback loops, inspectable environments, and rich context to debug and iterate, unlike human developers who can fill gaps manually.
-- HubSpot details scaling a vector retrieval platform to 20B+ vectors across 140+ clusters, moving from manual Helm to Kubernetes operators to automate provisioning, scaling, and recovery, reducing spin-up from hours to minutes.
-- Apache Hudi adds native vector search to the lakehouse, enabling semantic search and RAG directly on Hudi tables with HNSW indexing and hybrid search, removing the need for a separate vector DB.
+- OpenAI releases GPT‑5.6 in three variants: Luna ($1/$6 per 1M input/output tokens), Terra ($2.50/$15), and Sol ($5/$30), all with a 1M-token context and 128K max output; Sol is positioned for complex reasoning, Terra for general coding, and Luna for cost‑efficient tasks.
+- GPT‑5.6 is now the preferred model in Microsoft 365 Copilot across Word, Excel, PowerPoint, Chat, and Cowork.
+- GitHub Copilot now offers GPT‑5.6 Sol, Terra, and Luna under usage-based billing, with Sol limited to Pro+, Max, Business, and Enterprise SKUs.
+- SpaceXAI releases Grok 4.5, an Opus-class model with twice the token efficiency of peers, priced at $2/$6 per million input/output tokens, and positioned as a GPT‑5.5 equivalent; it performs comparably to top models on standard evals, though some benchmarks like SWE-Bench Pro are now considered saturated.
+- OpenAI upgrades ChatGPT’s voice mode with GPT‑Live, enabling natural, full-duplex conversation while offloading complex tasks to GPT‑5.5 (and future frontier models) in the background for hour-long interactions.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
