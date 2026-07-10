@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-09)
+#### 📰 Tech Brief — latest digest (2026-07-10)
 
-- OpenAI releases GPT‑5.6 in three variants: Luna ($1/$6 per 1M input/output tokens), Terra ($2.50/$15), and Sol ($5/$30), all with a 1M-token context and 128K max output; Sol is positioned for complex reasoning, Terra for general coding, and Luna for cost‑efficient tasks.
-- GPT‑5.6 is now the preferred model in Microsoft 365 Copilot across Word, Excel, PowerPoint, Chat, and Cowork.
-- GitHub Copilot now offers GPT‑5.6 Sol, Terra, and Luna under usage-based billing, with Sol limited to Pro+, Max, Business, and Enterprise SKUs.
-- SpaceXAI releases Grok 4.5, an Opus-class model with twice the token efficiency of peers, priced at $2/$6 per million input/output tokens, and positioned as a GPT‑5.5 equivalent; it performs comparably to top models on standard evals, though some benchmarks like SWE-Bench Pro are now considered saturated.
-- OpenAI upgrades ChatGPT’s voice mode with GPT‑Live, enabling natural, full-duplex conversation while offloading complex tasks to GPT‑5.5 (and future frontier models) in the background for hour-long interactions.
+- OpenAI releases GPT‑5.6 family (Sol, Terra, Luna) across ChatGPT Work, Codex and the API, with higher intelligence per token, lower cost for complex work, and stronger agentic performance; a new "ultra" effort level coordinates multiple agents in parallel for demanding tasks.
+- Meta launches Muse Spark 1.1 in its Model API, positioning it as state‑of‑the‑art for agentic reasoning and tool use, and introduces a paid tier priced at roughly 25 % of competing top models.
+- ChatGPT Work and Codex are positioned as a unified superapp, with Work conversations in the cloud and desktop Work threads remaining local; cloud and desktop Work conversations do not sync at launch.
+- PostHog proposes delegating AI‑generated code reviews to agents to remove the human bottleneck while maintaining quality.
+- GitHub Mobile adds improved filters and sorting for Copilot sessions (status, repository, type, agent) with preserved sort context, available now on iOS and Android.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
