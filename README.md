@@ -76,13 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-10)
+#### 📰 Tech Brief — latest digest (2026-07-11)
 
-- OpenAI releases the GPT‑5.6 family (Sol, Terra, Luna) across ChatGPT Work, Codex and the API, with higher intelligence per token, lower cost for complex work, and stronger agentic performance; a new "ultra" effort level coordinates multiple agents in parallel for demanding tasks.
-- Meta launches Muse Spark 1.1 in its Model API, positioning it as state‑of‑the‑art for agentic reasoning and tool use, and introduces a paid tier priced at roughly 25 % of competing top models.
-- GPT‑5.6 Sol wins an ARC‑AGI‑3 public game by correctly orienting itself in a new environment, marking a first for public models.
-- Cognition reports that Claude Fable 5 is the first model it would trust to run overnight inside its Devin autonomous coding agent, citing reliability and multi‑step task execution.
-- ChatGPT Work and Codex are positioned as a unified superapp; Work conversations in the cloud and desktop Work threads remain local and do not sync at launch.
+- ## Models & LLM Tooling
+- OpenAI's GPT-5.6 rollout introduces 36 API variants, causing confusion among users, while most end-users see a simplified single-slider interface; community guides are emerging to help users navigate the options.
+- ## Developer Tools & Engineering
+- A public debate between Bun and Zig communities is ongoing, drawing attention in the developer ecosystem.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
