@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-10)
 
-- OpenAI releases GPT‑5.6 family (Sol, Terra, Luna) across ChatGPT Work, Codex and the API, with higher intelligence per token, lower cost for complex work, and stronger agentic performance; a new "ultra" effort level coordinates multiple agents in parallel for demanding tasks.
+- OpenAI releases the GPT‑5.6 family (Sol, Terra, Luna) across ChatGPT Work, Codex and the API, with higher intelligence per token, lower cost for complex work, and stronger agentic performance; a new "ultra" effort level coordinates multiple agents in parallel for demanding tasks.
 - Meta launches Muse Spark 1.1 in its Model API, positioning it as state‑of‑the‑art for agentic reasoning and tool use, and introduces a paid tier priced at roughly 25 % of competing top models.
-- ChatGPT Work and Codex are positioned as a unified superapp, with Work conversations in the cloud and desktop Work threads remaining local; cloud and desktop Work conversations do not sync at launch.
-- PostHog proposes delegating AI‑generated code reviews to agents to remove the human bottleneck while maintaining quality.
-- GitHub Mobile adds improved filters and sorting for Copilot sessions (status, repository, type, agent) with preserved sort context, available now on iOS and Android.
+- GPT‑5.6 Sol wins an ARC‑AGI‑3 public game by correctly orienting itself in a new environment, marking a first for public models.
+- Cognition reports that Claude Fable 5 is the first model it would trust to run overnight inside its Devin autonomous coding agent, citing reliability and multi‑step task execution.
+- ChatGPT Work and Codex are positioned as a unified superapp; Work conversations in the cloud and desktop Work threads remain local and do not sync at launch.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
