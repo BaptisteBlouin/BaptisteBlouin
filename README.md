@@ -76,11 +76,10 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-11)
+#### 📰 Tech Brief — latest digest (2026-07-12)
 
-- OpenAI's GPT-5.6 rollout introduces 36 API variants, causing confusion among users, while most end-users see a simplified single-slider interface; community guides are emerging to help users navigate the options.
-- A public debate between Bun and Zig communities is ongoing, drawing attention in the developer ecosystem.
-- Docker CLI sends commands as API calls to the Docker daemon (dockerd), which checks for the image locally or pulls it from a registry (e.g., Docker Hub or ECR), then prepares the container configuration.
+- ## Developer Tools
+- sqlite-utils 4.1 adds a `--code` option to `insert` and `upsert` commands, allowing direct Python code or file paths to define a `rows()` function or iterable for data insertion.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
