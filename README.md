@@ -78,10 +78,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-11)
 
-- ## Models & LLM Tooling
 - OpenAI's GPT-5.6 rollout introduces 36 API variants, causing confusion among users, while most end-users see a simplified single-slider interface; community guides are emerging to help users navigate the options.
-- ## Developer Tools & Engineering
 - A public debate between Bun and Zig communities is ongoing, drawing attention in the developer ecosystem.
+- Docker CLI sends commands as API calls to the Docker daemon (dockerd), which checks for the image locally or pulls it from a registry (e.g., Docker Hub or ECR), then prepares the container configuration.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
