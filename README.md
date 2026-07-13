@@ -78,8 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-12)
 
-- ## Developer Tools
+- Anthropic extended Claude Fable 5 availability on all paid plans through July 19, maintaining Claude Code’s 50% higher weekly rate limits; users can consume up to half their limit on Fable 5 before switching to credits or other models.
+- Ploy migrated its production AI agent from Claude Opus 4.8 to OpenAI’s GPT-5.6 Sol after head-to-head tests showed 2.2× faster builds, 27% lower cost, and quality at or above Opus; the switch exposed provider-specific behaviors the stack had specialized around (e.g., tool argument filling, prompt caching).
+- Mesh LLM on iroh pools GPUs and memory across any number of machines and exposes them as a single OpenAI-compatible API, letting workloads run locally, route to peers, or split across nodes to regain control over model versions, data locality, and hardware costs.
 - sqlite-utils 4.1 adds a `--code` option to `insert` and `upsert` commands, allowing direct Python code or file paths to define a `rows()` function or iterable for data insertion.
+- A study suggests AI tools boost research careers but narrow the span of ideas explored, flattening scientific discovery.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
