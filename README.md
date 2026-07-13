@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-12)
+#### 📰 Tech Brief — latest digest (2026-07-13)
 
-- Anthropic extended Claude Fable 5 availability on all paid plans through July 19, maintaining Claude Code’s 50% higher weekly rate limits; users can consume up to half their limit on Fable 5 before switching to credits or other models.
-- Ploy migrated its production AI agent from Claude Opus 4.8 to OpenAI’s GPT-5.6 Sol after head-to-head tests showed 2.2× faster builds, 27% lower cost, and quality at or above Opus; the switch exposed provider-specific behaviors the stack had specialized around (e.g., tool argument filling, prompt caching).
-- Mesh LLM on iroh pools GPUs and memory across any number of machines and exposes them as a single OpenAI-compatible API, letting workloads run locally, route to peers, or split across nodes to regain control over model versions, data locality, and hardware costs.
-- sqlite-utils 4.1 adds a `--code` option to `insert` and `upsert` commands, allowing direct Python code or file paths to define a `rows()` function or iterable for data insertion.
-- A study suggests AI tools boost research careers but narrow the span of ideas explored, flattening scientific discovery.
+- Apple sues OpenAI, alleging it solicited Apple trade secrets from job candidates and used them to approach Apple manufacturing partners, seeking injunctions and return of IP.
+- Text-to-SQL benchmarks (e.g., BIRD, Spider) contain incorrect "gold" queries, so execution accuracy can reward wrong answers; sqlsure argues evaluations must also validate SQL against declared data semantics like join cardinality and grain.
+- Databricks reports several models, including open-source GLM 5.2, now perform well on real internal coding tasks, highlighting maturing agentic coding capabilities.
+- GitHub improved Copilot code review by rewriting instructions to start from diffs and narrow with grep/glob, cutting average review cost by 20% without quality loss after generic tools had worsened results.
+- Zhipu’s co-founder outlines a two-year plan to return to foundation-model research, emphasizing AGI, safety, open source, autonomous agents, and self-training.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
