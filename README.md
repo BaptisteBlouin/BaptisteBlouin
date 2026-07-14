@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-13)
+#### 📰 Tech Brief — latest digest (2026-07-14)
 
-- Apple sues OpenAI, alleging it solicited Apple trade secrets from job candidates and used them to approach Apple manufacturing partners, seeking injunctions and return of IP.
-- Text-to-SQL benchmarks (e.g., BIRD, Spider) contain incorrect "gold" queries; sqlsure argues evaluations must validate SQL against declared data semantics like join cardinality and grain.
-- Databricks reports open-source GLM 5.2 and others now perform well on real internal coding tasks, signaling maturing agentic coding capabilities.
-- GitHub improved Copilot code review by starting from diffs and narrowing with grep/glob, cutting average review cost by 20% without quality loss after generic tools had worsened results.
-- Zhipu’s co-founder outlines a two-year plan to return to foundation-model research, emphasizing AGI, safety, open source, autonomous agents, and self-training.
+- OpenAI showcases how data science teams use ChatGPT Work to generate root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real inputs.
+- OpenAI also highlights ChatGPT Work for sales teams to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses.
+- Codex usage surges over 10x in six months to 7M users, with 1M added in the past ~24 hours, sparking speculation about competition with Claude Code.
+- GitHub introduces a public preview for Code Quality license cost estimation, showing per-committer usage and projected billing ahead of its paid launch on July 20, 2026.
+- A cache-friendly method for using `uvx` in GitHub Actions is shared, leveraging `UV_EXCLUDE_NEWER` with a fixed date (e.g., `2026-07-12`) to stabilize tool versions and cache keys.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
