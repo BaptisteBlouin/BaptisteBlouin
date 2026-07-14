@@ -79,9 +79,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-07-13)
 
 - Apple sues OpenAI, alleging it solicited Apple trade secrets from job candidates and used them to approach Apple manufacturing partners, seeking injunctions and return of IP.
-- Text-to-SQL benchmarks (e.g., BIRD, Spider) contain incorrect "gold" queries, so execution accuracy can reward wrong answers; sqlsure argues evaluations must also validate SQL against declared data semantics like join cardinality and grain.
-- Databricks reports several models, including open-source GLM 5.2, now perform well on real internal coding tasks, highlighting maturing agentic coding capabilities.
-- GitHub improved Copilot code review by rewriting instructions to start from diffs and narrow with grep/glob, cutting average review cost by 20% without quality loss after generic tools had worsened results.
+- Text-to-SQL benchmarks (e.g., BIRD, Spider) contain incorrect "gold" queries; sqlsure argues evaluations must validate SQL against declared data semantics like join cardinality and grain.
+- Databricks reports open-source GLM 5.2 and others now perform well on real internal coding tasks, signaling maturing agentic coding capabilities.
+- GitHub improved Copilot code review by starting from diffs and narrowing with grep/glob, cutting average review cost by 20% without quality loss after generic tools had worsened results.
 - Zhipu’s co-founder outlines a two-year plan to return to foundation-model research, emphasizing AGI, safety, open source, autonomous agents, and self-training.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
