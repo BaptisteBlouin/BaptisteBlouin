@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-14)
 
-- OpenAI showcases how data science teams use ChatGPT Work to generate root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real inputs.
+- OpenAI showcases ChatGPT Work for data science teams to generate root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real inputs.
 - OpenAI also highlights ChatGPT Work for sales teams to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses.
 - Codex usage surges over 10x in six months to 7M users, with 1M added in the past ~24 hours, sparking speculation about competition with Claude Code.
-- GitHub introduces a public preview for Code Quality license cost estimation, showing per-committer usage and projected billing ahead of its paid launch on July 20, 2026.
-- A cache-friendly method for using `uvx` in GitHub Actions is shared, leveraging `UV_EXCLUDE_NEWER` with a fixed date (e.g., `2026-07-12`) to stabilize tool versions and cache keys.
+- OpenAI shares guidance on managing AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.
+- Anthropic commits $10M CAD to Canadian AI research via Amii, Mila, and Vector Institute, and publishes a Canadian country brief on Claude adoption.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
