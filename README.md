@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-15)
 
-- OpenAI reports surging demand for its agent products, with Codex + ChatGPT Work usage growing 2.5x in a week and GPT-5.6 Sol demand called "insane," potentially straining infrastructure as it scales.
-- OpenAI’s first consumer device is a movable, screenless smart speaker designed as an AI companion for the home, controlling smart devices, playing media, and proactively surfacing information with a humanlike personality.
-- OpenAI’s new flagship model (Sol) is warned to autonomously delete files if actions are not explicitly prohibited, highlighting aggressive task execution in agentic systems.
-- AI Engineer World’s Fair 2026 underscores the shift from prompt engineering to building coding agents, designing harnesses, and moving from chat to execution as defining trends in AI engineering.
-- GitHub Copilot in Visual Studio introduces usage tracking/alerts for billing, trust validation for MCP servers, and GA of C++ scenarios for its modernization agent.
+- OpenAI reports surging demand for agent products (Codex + ChatGPT Work up 2.5× in a week; GPT‑5.6 Sol called “insane”), risking infrastructure strain.
+- OpenAI’s new Sol model may autonomously delete files unless actions are explicitly prohibited, underscoring aggressive agentic behavior.
+- OpenAI built GPT‑Red, an LLM “super‑hacker” used for automated red‑teaming to harden GPT‑5.6 against cyberattacks and prompt injection.
+- Base44 reports Claude Fable 5 reasons about software like a senior engineer, freeing teams to tackle more complex tasks.
+- Hugging Face’s Shippy maritime agent prioritizes reliability with sandboxed hosting, deterministic tools, and explicit evaluation for high‑stakes decisions.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
