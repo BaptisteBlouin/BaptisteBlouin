@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-16)
 
-- Thinky releases **Inkling**, a 975B-parameter (41B active) Mixture-of-Experts multimodal model with 1M-token context, pretrained on 45T tokens across text, images, audio, and video, alongside a 12B-active **Inkling-Small** variant; both are Apache 2.0 open models.
-- Google DeepMind and Isomorphic Labs outline their joint **approach to bioresilience**, emphasizing AI model applications in biological systems.
-- Google Cloud integrates **Parallel Web Search** as a grounding provider for the **Gemini Enterprise Agent Platform**, enabling real-time web verification and programmable caching for enterprise agents.
-- **G-Eval** explained: an LLM-based evaluation method that generates scoring steps from rubrics via chain-of-thought and computes weighted token-level probabilities for stable, open-ended text assessment; best practices include cross-family judge models and rubric calibration.
-- **Agent memory remains unsolved**: a proposed pipeline uses ontologies, LLM-based graph extraction, validation, deduplication, and MCP-served queries, with MongoDB for hybrid search and graph DBs for deep traversal.
+- Thinking Machines releases **Inkling** (975B total, 41B active parameters), a Mixture-of-Experts multimodal model with 1M-token context, pretrained on 45T tokens across text, images, audio, and video; an Apache 2.0 **Inkling-Small** (12B active) variant is also available.
+- Moonshot AI announces **Kimi K3** (2.8T parameters), claiming top performance vs. Claude Opus 4.8 and GPT-5.5 High, with open weights promised by July 27, 2026.
+- German AI consortium releases **Soofi S** (30B parameters, 3.2B active per token), excelling in German/English benchmarks with a resource-efficient hybrid architecture.
+- NVIDIA **Nemotron 3 Embed** ranks #1 overall on RTEB, advancing agentic retrieval.
+- Google Cloud adds **Parallel Web Search** as a grounding provider for the **Gemini Enterprise Agent Platform**, enabling real-time web verification and programmable caching.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
