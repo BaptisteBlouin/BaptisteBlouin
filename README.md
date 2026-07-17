@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-16)
+#### 📰 Tech Brief — latest digest (2026-07-17)
 
-- Thinking Machines releases **Inkling** (975B total, 41B active parameters), a Mixture-of-Experts multimodal model with 1M-token context, pretrained on 45T tokens across text, images, audio, and video; an Apache 2.0 **Inkling-Small** (12B active) variant is also available.
-- Moonshot AI announces **Kimi K3** (2.8T parameters), claiming top performance vs. Claude Opus 4.8 and GPT-5.5 High, with open weights promised by July 27, 2026.
-- German AI consortium releases **Soofi S** (30B parameters, 3.2B active per token), excelling in German/English benchmarks with a resource-efficient hybrid architecture.
-- NVIDIA **Nemotron 3 Embed** ranks #1 overall on RTEB, advancing agentic retrieval.
-- Google Cloud adds **Parallel Web Search** as a grounding provider for the **Gemini Enterprise Agent Platform**, enabling real-time web verification and programmable caching.
+- Moonshot AI releases **Kimi K3 2.8T-A50B** as the largest open-weights model to date, positioning it near top closed models and above prior open competitors, with claims of Opus 4.8-class performance at Sonnet 5 pricing.
+- Google delays **Gemini 3.5 Pro** by months due to unmet internal goals, particularly in coding, frustrating engineers and researchers amid concerns over losing competitive edge.
+- Nvidia unveils **Cosmos 3 Edge**, a world model for real-time physical environment perception and navigation, expanding Japan’s physical AI ecosystem.
+- China’s Xi Jinping endorses open-source AI models, framing China as a champion of openness and criticizing US semiconductor restrictions.
+- **Firefox compiled to WebAssembly** by Puter runs entirely in-browser (via Chrome), using ~$25K worth of AI tokens (Claude Opus/Fable) and the Wisp protocol for WebSocket traffic; showcases AI-assisted porting of large codebases.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
