@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-17)
+#### 📰 Tech Brief — latest digest (2026-07-18)
 
-- Moonshot AI releases **Kimi K3 2.8T-A50B** as the largest open-weights model to date, with claims of Opus 4.8-class performance at Sonnet 5 pricing and open weights scheduled for July 27.
-- Google delays **Gemini 3.5 Pro** by months due to unmet internal goals, particularly in coding, frustrating engineers and researchers.
-- Nvidia unveils **Cosmos 3 Edge**, a world model for real-time physical environment perception and navigation, expanding Japan’s physical AI ecosystem.
-- China’s Xi Jinping endorses open-source AI models, framing China as a champion of openness and criticizing US semiconductor restrictions.
-- OpenAI introduces a practical **AI scorecard** to measure ROI through useful work, cost per successful task, dependability, and return on compute.
+- Anthropic makes Claude Fable 5 permanently available in Max and Team Premium plans at 50% of limits, while Pro/Team Standard users retain access via usage credits and receive a one-time $100 credit; the move follows competitive pressure from GPT-5.6 Sol and Kimi K3.
+- Community reaction to Moonshot AI’s Kimi K3 launch remains strong, with ongoing discussion of its capabilities.
+- Abhishek Bhardwaj’s keynote highlights the complexity of running agent sandboxes, emphasizing that storage/filesystems are as critical as compute, and notes progress since the Arrakis project and current work on cloud infra behind ChatGPT Work.
+- GitHub Copilot usage metrics API adds repository-level reporting for pull request activity by Copilot coding agent and code review, enabling per-repo visibility into PRs created/merged and review suggestions.
+- The same API now includes GitHub Copilot app usage, exposing daily active users, session/request/prompt counts, and token usage breakdowns for enterprise and org admins.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
