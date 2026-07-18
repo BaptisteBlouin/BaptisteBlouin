@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-17)
 
-- Moonshot AI releases **Kimi K3 2.8T-A50B** as the largest open-weights model to date, positioning it near top closed models and above prior open competitors, with claims of Opus 4.8-class performance at Sonnet 5 pricing.
-- Google delays **Gemini 3.5 Pro** by months due to unmet internal goals, particularly in coding, frustrating engineers and researchers amid concerns over losing competitive edge.
+- Moonshot AI releases **Kimi K3 2.8T-A50B** as the largest open-weights model to date, with claims of Opus 4.8-class performance at Sonnet 5 pricing and open weights scheduled for July 27.
+- Google delays **Gemini 3.5 Pro** by months due to unmet internal goals, particularly in coding, frustrating engineers and researchers.
 - Nvidia unveils **Cosmos 3 Edge**, a world model for real-time physical environment perception and navigation, expanding Japan’s physical AI ecosystem.
 - China’s Xi Jinping endorses open-source AI models, framing China as a champion of openness and criticizing US semiconductor restrictions.
-- **Firefox compiled to WebAssembly** by Puter runs entirely in-browser (via Chrome), using ~$25K worth of AI tokens (Claude Opus/Fable) and the Wisp protocol for WebSocket traffic; showcases AI-assisted porting of large codebases.
+- OpenAI introduces a practical **AI scorecard** to measure ROI through useful work, cost per successful task, dependability, and return on compute.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
