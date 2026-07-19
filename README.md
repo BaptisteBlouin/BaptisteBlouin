@@ -79,10 +79,10 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-07-18)
 
 - Anthropic makes Claude Fable 5 permanently available in Max and Team Premium plans at 50% of limits, while Pro/Team Standard users retain access via usage credits and receive a one-time $100 credit; the move follows competitive pressure from GPT-5.6 Sol and Kimi K3.
-- Community reaction to Moonshot AI’s Kimi K3 launch remains strong, with ongoing discussion of its capabilities.
-- Abhishek Bhardwaj’s keynote highlights the complexity of running agent sandboxes, emphasizing that storage/filesystems are as critical as compute, and notes progress since the Arrakis project and current work on cloud infra behind ChatGPT Work.
-- GitHub Copilot usage metrics API adds repository-level reporting for pull request activity by Copilot coding agent and code review, enabling per-repo visibility into PRs created/merged and review suggestions.
-- The same API now includes GitHub Copilot app usage, exposing daily active users, session/request/prompt counts, and token usage breakdowns for enterprise and org admins.
+- Community reaction to Moonshot AI's Kimi K3 launch remains strong, with ongoing discussion of its capabilities.
+- GPT-5.6 used a prompt similar to OpenAI's CDC proof announcement to close a 30-year gap in convex optimization, verified in Lean.
+- A head-to-head benchmark on an NP-hard fiber-network design problem found Fable 5 "an absolute beast," producing the best overall solution with high consistency, while the native `/goal` mode is not a generic "try harder" switch but changes the control loop and search path—sometimes helping, sometimes not.
+- Sebastian Raschka analyzes controlling reasoning effort in LLMs, noting GPT-5.6 ships in three sizes each with five or six reasoning-effort settings, and that reasoning models have become a standard part of modern releases since o1 and DeepSeek-R1's RLVR recipe.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
