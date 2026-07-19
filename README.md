@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <a href="https://baptisteblouin.fr"><img src="https://img.shields.io/badge/Website-baptisteblouin.fr-6c8cff?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/baptiste-blouin/"><img src="https://img.shields.io/badge/LinkedIn-baptiste--blouin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=UCP_hKIAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Baptiste_Blouin-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
-  <a href="https://cv.hal.science/baptiste-blouin"><img src="https://img.shields.io/badge/HAL-baptiste--blouin-C10000?style=flat-square"/></a>
-  <a href="https://orcid.org/0000-0002-7171-3628"><img src="https://img.shields.io/badge/ORCID-0000--0002--7171--3628-A6CE39?style=flat-square&logo=orcid&logoColor=white"/></a>
+  <a href="https://baptisteblouin.fr"><img src="assets/badges/website-baptisteblouin-fr.svg"/></a>
+  <a href="https://www.linkedin.com/in/baptiste-blouin/"><img src="assets/badges/linkedin-baptiste-blouin.svg"/></a>
+  <a href="https://scholar.google.com/citations?user=UCP_hKIAAAAJ"><img src="assets/badges/google-scholar-baptiste-blouin.svg"/></a>
+  <a href="https://cv.hal.science/baptiste-blouin"><img src="assets/badges/hal-baptiste-blouin.svg"/></a>
+  <a href="https://orcid.org/0000-0002-7171-3628"><img src="assets/badges/orcid-0000-0002-7171-3628.svg"/></a>
 </p>
 
 ---
@@ -30,21 +30,21 @@ Data Scientist and AI Engineer with a PhD in Computer Science (Aix-Marseille Uni
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](assets/badges/python.svg)
+![Rust](assets/badges/rust.svg)
+![TypeScript](assets/badges/typescript.svg)
+![R](assets/badges/r.svg)
+![SQL](assets/badges/sql.svg)
+![Java](assets/badges/java.svg)
+![C++](assets/badges/cplusplus.svg)
 
 **ML / AI**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](assets/badges/pytorch.svg)
+![TensorFlow](assets/badges/tensorflow.svg)
+![HuggingFace](assets/badges/hugging-face.svg)
+![scikit-learn](assets/badges/scikit-learn.svg)
+![LangChain](assets/badges/langchain.svg)
 
 **LLM & Generative AI**
 
@@ -52,13 +52,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 
 **Full-Stack & Infrastructure**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![FastAPI](assets/badges/fastapi.svg)
+![React](assets/badges/react.svg)
+![Docker](assets/badges/docker.svg)
+![PostgreSQL](assets/badges/postgresql.svg)
+![Redis](assets/badges/redis.svg)
+![Elasticsearch](assets/badges/elasticsearch.svg)
+![GCP](assets/badges/gcp.svg)
 
 ---
 
