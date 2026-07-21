@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-20)
+#### 📰 Tech Brief — latest digest (2026-07-21)
 
-- **Kimi K3 disrupts the market**: Moonshot AI's free, open-source Kimi K3 model rivals frontier models from OpenAI and Anthropic, triggering intense US policy debates and forcing Kimi to temporarily pause new subscriptions due to overwhelming demand. Moonshot AI is now planning a Hong Kong IPO.
-- **Qwen3.8 announced**: Alibaba is preparing to release Qwen3.8, a 2.4-trillion-parameter model, as an open-weight release. Alibaba also open-sourced its Zhenwu AI chip software stack (SAIL) at WAIC, directly targeting Nvidia's CUDA ecosystem lock-in.
-- **Open vs. closed gap narrows**: The UK AISI reports that the cybersecurity capability gap between open-weight and closed-weight models has shrunk to 4–7 months, with models like GLM-5.2 and DeepSeek V4-Pro approaching closed frontier performance.
-- **Claude Fable 5 deployment**: Anthropic is rolling out Claude Fable 5 to Max and Team Premium plans; Rakuten reports it is a step change for long-running enterprise agents.
-- **Agent swarm engineering**: Cursor details the engineering behind agent swarms, using version control systems for agent memory and review lenses; their new swarm built SQLite from scratch in Rust, reaching 80% test pass rates in 4 hours with Grok 4.5.
+- Qwen 3.8 Max (2.4T parameters) has been announced as open-weight, coming shortly after Kimi K3 (2.8T), intensifying the open-weight competition.
+- The US debate over restricting Chinese open-weight models is shifting from rhetoric toward actual policy, though some argue the industry is overreacting to models like Kimi K3; the real concern is cybersecurity, and the best defense is ensuring defenders have access to the strongest models.
+- Cursor published research on engineering agent swarms deliberately, including a version-control system for agents handling up to 1,000 commits/second; a new swarm built SQLite from scratch in Rust, reaching 80% on a held-out test suite in four hours with Grok 4.5.
+- A design pattern for human-agent collaboration proposes treating the agent as a "guest" editing the same document as the user, enabling real-time co-editing.
+- Hugging Face released Grabette, an open-source system for recording robot-manipulation data with SLAM capabilities and conversion to LeRobot datasets.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
