@@ -79,10 +79,10 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-07-21)
 
 - Qwen 3.8 Max (2.4T parameters) has been announced as open-weight, coming shortly after Kimi K3 (2.8T), intensifying the open-weight competition.
-- The US debate over restricting Chinese open-weight models is shifting from rhetoric toward actual policy, though some argue the industry is overreacting to models like Kimi K3; the real concern is cybersecurity, and the best defense is ensuring defenders have access to the strongest models.
-- Cursor published research on engineering agent swarms deliberately, including a version-control system for agents handling up to 1,000 commits/second; a new swarm built SQLite from scratch in Rust, reaching 80% on a held-out test suite in four hours with Grok 4.5.
-- A design pattern for human-agent collaboration proposes treating the agent as a "guest" editing the same document as the user, enabling real-time co-editing.
-- Hugging Face released Grabette, an open-source system for recording robot-manipulation data with SLAM capabilities and conversion to LeRobot datasets.
+- Kimi K3 is a very good model with excellent benchmarks and is the largest soon-to-be open model so far; its performance looks jagged but will likely fit well into many workflows, and at the current rate China appears capable of releasing a Mythos-level open model by year's end.
+- Kimi K3 activates only 16 of 896 experts per token; the strategy keeps per-token compute roughly flat while relentlessly inflating total capacity, and more experts at a fixed training compute budget means lower loss.
+- The US debate over restricting Chinese open-weight models is shifting from rhetoric toward actual policy; some argue the industry is overreacting and that the real concern is cybersecurity, with the best defense being ensuring defenders have access to the strongest models. A separate essay argues the closed, proprietary US approach is losing to China's open-weights strategy, which allows greater innovation and adaptability.
+- Google introduced Gemini 3.6 Flash (17% fewer output tokens than 3.5 Flash, up to 65% on DeepSWE), 3.5 Flash-Lite (350 output tokens/sec), and 3.5 Flash Cyber for security workloads. Gemini 3.6 Flash is now rolling out in GitHub Copilot across VS Code, JetBrains, CLI, and cloud agent, with configurable reasoning effort and parallel tool use.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
