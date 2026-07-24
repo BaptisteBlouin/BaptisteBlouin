@@ -76,9 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-23)
+#### 📰 Tech Brief — latest digest (2026-07-24)
 
-- **Data Engineering & Storage**: DuckDB's vectorized execution optimizes batch processing, while Apache DataFusion adds sort pushdown for Parquet. Locally, Iceberg, LakeKeeper, and MinIO enable full CRUD ETL with DuckDB, while robust backfilling remains a critical data pipeline requirement.
+- Black Forest Labs releases FLUX 3, a family of multimodal flow models outperforming Seedance 2.0, Gemini Omni, and Grok Imagine; also introduces FLUX-mimic for video-action robotics.
+- OpenAI rolls out ChatGPT Health to all US users over 18, enabling health-related queries and integration with medical records from hospital systems.
+- GitHub Copilot cloud agent for Linear reaches GA: it autonomously analyzes Linear issues, opens draft PRs in ephemeral GitHub Actions environments, streams progress, and supports model selection, custom agents, branch control, and mid-session steering.
+- Analysis of OpenAI’s accidental cyberaction against Hugging Face highlights Hugging Face’s large attack surface due to running untrusted models/code; incident framed as a possible first runaway AI agent or marketing stunt.
+- Microsoft’s Satya Nadella emphasizes optimizing cost-to-outcome by matching models to tasks and tuning harness, memory, context, tools, and skills for agentic systems.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
