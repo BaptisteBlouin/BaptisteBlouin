@@ -76,13 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-24)
+#### 📰 Tech Brief — latest digest (2026-07-25)
 
-- Black Forest Labs releases FLUX 3, a family of multimodal flow models outperforming Seedance 2.0, Gemini Omni, and Grok Imagine; also introduces FLUX-mimic for video-action robotics.
-- Anthropic launches Claude Opus 5, a new SOTA on coding and knowledge work (Frontier-Bench, CursorBench) at half the cost of frontier peers; excels on software engineering tasks and is the new default on Claude Max/Pro.
-- Microsoft introduces MAI-Image-2.5-Pro for high-fidelity image generation/editing and MAI-Voice-2-Flash for faster, lower-cost voice applications, both in public preview.
-- OpenAI rolls out ChatGPT Health to all US users over 18, enabling health-related queries and integration with medical records from hospital systems.
-- GitHub Copilot now offers Claude Opus 5 for complex, long-running coding tasks, with strong performance on agentic workflows and enhanced cyber-safeguards; billed at provider API list price.
+- Anthropic releases **Claude Opus 5**, positioning it as "close to the frontier intelligence of Claude Fable 5" at half the price, with independent evaluations showing it leading the Artificial Analysis Intelligence Index ahead of Fable 5.
+- Opus 5 matches Opus 4.8 pricing and retains a "fast mode" at twice the base cost.
+- Early buzz highlights Opus 5’s **reduced prompt injectability**, with Anthropic’s system card and red-team testing confirming it as the least prompt-injectable Claude model to date.
+- Opus 5 demonstrates **proactive behavior** akin to Fable, suggesting strong task initiative and follow-through.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
