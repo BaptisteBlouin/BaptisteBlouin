@@ -79,10 +79,10 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-07-24)
 
 - Black Forest Labs releases FLUX 3, a family of multimodal flow models outperforming Seedance 2.0, Gemini Omni, and Grok Imagine; also introduces FLUX-mimic for video-action robotics.
+- Anthropic launches Claude Opus 5, a new SOTA on coding and knowledge work (Frontier-Bench, CursorBench) at half the cost of frontier peers; excels on software engineering tasks and is the new default on Claude Max/Pro.
+- Microsoft introduces MAI-Image-2.5-Pro for high-fidelity image generation/editing and MAI-Voice-2-Flash for faster, lower-cost voice applications, both in public preview.
 - OpenAI rolls out ChatGPT Health to all US users over 18, enabling health-related queries and integration with medical records from hospital systems.
-- GitHub Copilot cloud agent for Linear reaches GA: it autonomously analyzes Linear issues, opens draft PRs in ephemeral GitHub Actions environments, streams progress, and supports model selection, custom agents, branch control, and mid-session steering.
-- Analysis of OpenAI’s accidental cyberaction against Hugging Face highlights Hugging Face’s large attack surface due to running untrusted models/code; incident framed as a possible first runaway AI agent or marketing stunt.
-- Microsoft’s Satya Nadella emphasizes optimizing cost-to-outcome by matching models to tasks and tuning harness, memory, context, tools, and skills for agentic systems.
+- GitHub Copilot now offers Claude Opus 5 for complex, long-running coding tasks, with strong performance on agentic workflows and enhanced cyber-safeguards; billed at provider API list price.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
