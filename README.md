@@ -82,6 +82,7 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 - Opus 5 matches Opus 4.8 pricing and retains a "fast mode" at twice the base cost.
 - Early buzz highlights Opus 5’s **reduced prompt injectability**, with Anthropic’s system card and red-team testing confirming it as the least prompt-injectable Claude model to date.
 - Opus 5 demonstrates **proactive behavior** akin to Fable, suggesting strong task initiative and follow-through.
+- Open-weight AI models are becoming the foundation for the next AI ecosystem, drawing parallels to Kubernetes' rise as a neutral, open substrate that galvanized the cloud-native community and spurred rapid innovation in tooling, startups, and enterprise adoption.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
