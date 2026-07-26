@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-25)
+#### 📰 Tech Brief — latest digest (2026-07-26)
 
-- Anthropic releases **Claude Opus 5**, positioning it as "close to the frontier intelligence of Claude Fable 5" at half the price, with independent evaluations showing it leading the Artificial Analysis Intelligence Index ahead of Fable 5.
-- Opus 5 matches Opus 4.8 pricing and retains a "fast mode" at twice the base cost.
-- Early buzz highlights Opus 5’s **reduced prompt injectability**, with Anthropic’s system card and red-team testing confirming it as the least prompt-injectable Claude model to date.
-- Opus 5 demonstrates **proactive behavior** akin to Fable, suggesting strong task initiative and follow-through.
-- Open-weight AI models are becoming the foundation for the next AI ecosystem, drawing parallels to Kubernetes' rise as a neutral, open substrate that galvanized the cloud-native community and spurred rapid innovation in tooling, startups, and enterprise adoption.
+- Amazon invests substantially in the Lean Focused Research Organization to advance Lean as a language for mathematical proofs, aiming to make correctness proofs practical for AI agents and large-scale software.
+- Ruff v0.16.0 expands its default rule set from 59 to 413 rules, enabling many previously optional checks that catch severe issues like syntax and runtime errors; this change may break CI pipelines for projects with unpinned Ruff versions.
+- Cloudflare introduces new AI traffic management options for customers, enhancing control over AI-related bot and crawler traffic.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
