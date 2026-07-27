@@ -76,12 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-26)
+#### 📰 Tech Brief — latest digest (2026-07-27)
 
-- Amazon invests substantially in the Lean Focused Research Organization to advance Lean as a language for mathematical proofs, aiming to make correctness proofs practical for AI agents and large-scale software.
-- A growing market in China resells LLM tokens at deep discounts via proxy services that pool API keys, abusing free trials, unprotected support bots, or stolen payment methods; popular open-source tools for these proxies include one-api and its fork new-api.
-- Ruff v0.16.0 expands its default rule set from 59 to 413 rules, enabling many previously optional checks that catch severe issues like syntax and runtime errors; this change may break CI pipelines for projects with unpinned Ruff versions.
-- Cloudflare introduces new AI traffic management options for customers, enhancing control over AI-related bot and crawler traffic.
+- OpenAI research shows ChatGPT users are expanding their task scope across roles, reshaping job boundaries by taking on new responsibilities.
+- AlphaFold is used to redesign gene-editing proteins, reducing off-target effects by identifying and modifying problematic regions, with broader implications for protein-DNA interactions.
+- NVIDIA releases Cosmos-H-Dreams, a real-time generative simulation model for surgical robotics, enabling image-to-video synthesis for medical applications.
+- Cursor introduces an improved agent swarm architecture that splits work between high-cost planner models and cheaper worker models, achieving better quality with lower costs and fewer conflicts via shared specs, automated conflict resolution, and layered reviews.
+- Anthropic outlines new context engineering rules for Claude 5, emphasizing that prompts are only a small part of the context, with Skills, CLAUDE.md, and memory playing major roles in output quality.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
