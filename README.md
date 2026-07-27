@@ -79,6 +79,7 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-07-26)
 
 - Amazon invests substantially in the Lean Focused Research Organization to advance Lean as a language for mathematical proofs, aiming to make correctness proofs practical for AI agents and large-scale software.
+- A growing market in China resells LLM tokens at deep discounts via proxy services that pool API keys, abusing free trials, unprotected support bots, or stolen payment methods; popular open-source tools for these proxies include one-api and its fork new-api.
 - Ruff v0.16.0 expands its default rule set from 59 to 413 rules, enabling many previously optional checks that catch severe issues like syntax and runtime errors; this change may break CI pipelines for projects with unpinned Ruff versions.
 - Cloudflare introduces new AI traffic management options for customers, enhancing control over AI-related bot and crawler traffic.
 
