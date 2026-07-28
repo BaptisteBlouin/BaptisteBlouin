@@ -81,8 +81,8 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 - OpenAI research shows ChatGPT users are expanding their task scope across roles, reshaping job boundaries by taking on new responsibilities.
 - AlphaFold is used to redesign gene-editing proteins, reducing off-target effects by identifying and modifying problematic regions, with broader implications for protein-DNA interactions.
 - NVIDIA releases Cosmos-H-Dreams, a real-time generative simulation model for surgical robotics, enabling image-to-video synthesis for medical applications.
-- Cursor introduces an improved agent swarm architecture that splits work between high-cost planner models and cheaper worker models, achieving better quality with lower costs and fewer conflicts via shared specs, automated conflict resolution, and layered reviews.
-- Anthropic outlines new context engineering rules for Claude 5, emphasizing that prompts are only a small part of the context, with Skills, CLAUDE.md, and memory playing major roles in output quality.
+- MirrorCode benchmark shows leading models (e.g., Opus 4.7) solving week-long programming tasks in hours for modest cost, with rapid model improvements over the past year.
+- Meta’s AI models are helping the University of Pittsburgh transform assistive robotics through the RAMMP platform, aiming to enhance independence for people with disabilities.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
