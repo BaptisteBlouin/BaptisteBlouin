@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-27)
+#### 📰 Tech Brief — latest digest (2026-07-28)
 
-- OpenAI research shows ChatGPT users are expanding their task scope across roles, reshaping job boundaries by taking on new responsibilities.
-- AlphaFold is used to redesign gene-editing proteins, reducing off-target effects by identifying and modifying problematic regions, with broader implications for protein-DNA interactions.
-- NVIDIA releases Cosmos-H-Dreams, a real-time generative simulation model for surgical robotics, enabling image-to-video synthesis for medical applications.
-- MirrorCode benchmark shows leading models (e.g., Opus 4.7) solving week-long programming tasks in hours for modest cost, with rapid model improvements over the past year.
-- Meta’s AI models are helping the University of Pittsburgh transform assistive robotics through the RAMMP platform, aiming to enhance independence for people with disabilities.
+- Moonshot AI releases **Kimi K3** (2.8T parameters) weights on Hugging Face (1.56TB), with independent validations showing it outperforms OpenAI o1; the model uses a modified MIT license requiring attribution for very large commercial users.
+- OpenAI signs the open models letter after initial hesitation, while Anthropic abstains; industry debate continues but actual open-weight releases remain sparse.
+- NVIDIA is the largest publisher of open AI models globally, detailing its strategy for building and releasing open models.
+- GitHub Copilot for JetBrains adds **OpenTelemetry export for agent workflows**, model behavior controls (token limits, BYOK/custom endpoints), and MCP server/custom agent integration for advanced observability and governance.
+- Cursor launches **Cursor Start** in India (₹649/month, UPI payments), offering generous access to **Grok 4.5** and **Composer**, targeting high-usage developer demand.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
