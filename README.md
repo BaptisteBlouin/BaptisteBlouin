@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-28)
 
-- Moonshot AI releases **Kimi K3** (2.8T parameters) weights on Hugging Face (1.56TB), with independent validations showing it outperforms OpenAI o1; the model uses a modified MIT license requiring attribution for very large commercial users.
-- OpenAI signs the open models letter after initial hesitation, while Anthropic abstains; industry debate continues but actual open-weight releases remain sparse.
-- NVIDIA is the largest publisher of open AI models globally, detailing its strategy for building and releasing open models.
-- GitHub Copilot for JetBrains adds **OpenTelemetry export for agent workflows**, model behavior controls (token limits, BYOK/custom endpoints), and MCP server/custom agent integration for advanced observability and governance.
-- Cursor launches **Cursor Start** in India (₹649/month, UPI payments), offering generous access to **Grok 4.5** and **Composer**, targeting high-usage developer demand.
+- Moonshot AI releases **Kimi K3** (2.8T parameters, 1M-token context) weights on Hugging Face (1.56TB), with independent validations showing it outperforms OpenAI o1; the model uses a modified MIT license requiring attribution for very large commercial users. UK AISI/CAISI preliminary assessment places Kimi K3 behind frontier US models on cyber tasks (32% on ExploitBench vs 76.2% for top US models), though it matched on coverage and completed a full cyber range once in ten attempts.
+- OpenAI signs the open models letter after initial hesitation, while Anthropic rejects blanket bans on open-weight models and instead advocates tighter chip controls, action against industrial-scale distillation, and mandatory safety testing for sufficiently capable models.
+- NVIDIA is the largest publisher of open AI models globally, detailing its strategy for building and releasing open models. NVIDIA also invests in **Ilya Sutskever’s Safe Superintelligence**, securing GPU access and expanding compute reach; Safe Superintelligence later announced a long-term partnership with NVIDIA, including access to the Vera Rubin GPU platform.
+- GitHub Copilot for JetBrains adds **OpenTelemetry export for agent workflows**, model behavior controls (token limits, BYOK/custom endpoints), and MCP server/custom agent integration for observability and governance. **Grok 4.5** is now available in GitHub Copilot, designed for fast, agentic coding and complex multi-step workflows with a 500K-token context, text/image inputs, and low/medium/high reasoning effort.
+- **MCP 2026-07-28** spec moves to a stateless core, hardens authorization (OAuth 2.0/OIDC), and graduates official extensions; SDK downloads surpassed 400M/month, and support is rolling out across Claude products.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
