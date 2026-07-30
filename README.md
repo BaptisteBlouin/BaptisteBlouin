@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-29)
 
-- Over 1,000 employees from major frontier labs (OpenAI, Anthropic, Google DeepMind, Meta, etc.) cosign a letter warning that AI progress may soon accelerate beyond human control, urging a measured pace in development.
-- Anthropic’s Claude Mythos Preview autonomously discovers novel flaws in a weakened AES variant and HAWK, achieving attacks 200–1,000× faster than prior human research; verification took human researchers ~1 month.
-- Hugging Face details a machine-speed offensive cyberattack scenario, underscoring emerging AI-driven security threats.
-- The Model Context Protocol (MCP) releases its largest update (2026-07-28): stateless design enables serverless/edge deployments and horizontal scaling; a formal extension path is now available.
-- Martin Fowler introduces the "Orchestrator’s Tax": subagents should protect an orchestrator’s working memory by offloading reasoning, with explicit delegation rules.
+- Over 1,000 employees from major frontier labs cosigned a letter warning AI progress may soon outpace human control and urging deliberate pacing.
+- Anthropic’s Claude Mythos Preview autonomously discovered novel flaws in weakened AES and HAWK, achieving 200–1,000× faster attacks than prior human work; verification took humans ~1 month.
+- Hugging Face detailed a machine-speed offensive cyberattack scenario, underscoring emerging AI-driven security threats.
+- OpenAI revealed two API settings (retaining reasoning + compaction) tripled GPT-5.6 scores on ARC-AGI-3 while improving efficiency.
+- OpenAI is giving 100,000 academic researchers free access to advanced ChatGPT models to accelerate research.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
