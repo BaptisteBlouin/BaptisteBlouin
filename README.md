@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-29)
+#### 📰 Tech Brief — latest digest (2026-07-30)
 
-- Over 1,000 employees from major frontier labs cosigned a letter warning AI progress may soon outpace human control and urging deliberate pacing.
-- Anthropic’s Claude Mythos Preview autonomously discovered novel flaws in weakened AES and HAWK, achieving 200–1,000× faster attacks than prior human work; verification took humans ~1 month.
-- Hugging Face detailed a machine-speed offensive cyberattack scenario, underscoring emerging AI-driven security threats.
-- OpenAI revealed two API settings (retaining reasoning + compaction) tripled GPT-5.6 scores on ARC-AGI-3 while improving efficiency.
-- OpenAI is giving 100,000 academic researchers free access to advanced ChatGPT models to accelerate research.
+- A new ICML paper argues a fundamental LLM flaw—how models identify instruction sources—makes them inherently vulnerable to adversarial attacks that bypass safety guardrails, with researchers demonstrating extraction of restricted knowledge (e.g., synthesis instructions, sabotage methods) and suggesting the problem may be unsolvable.
+- OpenAI’s July annualized recurring revenue surpasses its entire Q2, driven by GPT-5.6, ChatGPT Work, and Codex adoption, as the company races to justify its valuation and infrastructure spend ahead of a potential IPO.
+- Airbnb details an eval-driven development workflow: manual review of 100+ prototype outputs to surface failure modes, then automated checks and calibrated LLM judges (high-80% agreement with humans) for agentic systems across tool calls, reasoning, and final outputs.
+- PerplexityAI open-sources **numbat**, a tool for endpoint visibility into AI agent activity with local detection, optional pre-action blocking, and forensic reconstruction.
+- LangChain migrates to an agent-first data stack, replacing legacy BI with Hex to combine dbt definitions, semantic models, trusted datasets, guides, and LangSmith traces, enabling agents to generate reliable SQL under centralized governance.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
