@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-07-30)
 
-- A new ICML paper argues a fundamental LLM flaw—how models identify instruction sources—makes them inherently vulnerable to adversarial attacks that bypass safety guardrails, with researchers demonstrating extraction of restricted knowledge (e.g., synthesis instructions, sabotage methods) and suggesting the problem may be unsolvable.
-- OpenAI’s July annualized recurring revenue surpasses its entire Q2, driven by GPT-5.6, ChatGPT Work, and Codex adoption, as the company races to justify its valuation and infrastructure spend ahead of a potential IPO.
-- Airbnb details an eval-driven development workflow: manual review of 100+ prototype outputs to surface failure modes, then automated checks and calibrated LLM judges (high-80% agreement with humans) for agentic systems across tool calls, reasoning, and final outputs.
-- PerplexityAI open-sources **numbat**, a tool for endpoint visibility into AI agent activity with local detection, optional pre-action blocking, and forensic reconstruction.
-- LangChain migrates to an agent-first data stack, replacing legacy BI with Hex to combine dbt definitions, semantic models, trusted datasets, guides, and LangSmith traces, enabling agents to generate reliable SQL under centralized governance.
+- A new ICML paper identifies a fundamental LLM vulnerability in instruction-source identification, enabling adversarial bypasses of safety guardrails and extraction of restricted knowledge, and suggests the issue may be inherently unsolvable.
+- OpenAI reports July annualized recurring revenue outpacing its entire Q2, driven by GPT-5.6, ChatGPT Work, and Codex adoption, as it scales infrastructure ahead of a potential IPO.
+- OpenAI details how GPT-5.6 fuses frontier intelligence with efficiency via load balancing, caching, and self-optimization, reducing cost while maintaining performance.
+- OpenAI reveals that enabling retained reasoning and compaction in ChatGPT and Codex tripled GPT-5.6 Sol’s ARC-AGI-3 scores and cut output tokens by 6x, highlighting the impact of harness and API settings on benchmark results.
+- Google releases TPU microbenchmarks to diagnose compute-, memory-, or network-bound workloads and guide kernel tuning, mesh sharding, and rematerialization for large-scale deployments.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
