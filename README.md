@@ -76,13 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-01)
+#### 📰 Tech Brief — latest digest (2026-08-02)
 
-- OpenAI reports ten advances in mathematics and theoretical computer science using an internal version of Astra (GPT-5.6 Sol), solving long-standing problems in geometry, cryptography, and complexity with under $2,000 per problem in token costs; proofs are open-sourced at openai/ten-proofs.
-- DeepSeek releases DeepSeek-V4-Flash-0731 (304B), praised for strong agentic capabilities and cost-efficiency ($0.14/$0.27 per 1M input/output tokens), ranking highly on intelligence vs. cost benchmarks.
-- MCP 2.0 (Model Context Protocol) rolls out with statelessness as a major update, reviving interest in the standard for exposing tools to LLM agents; new tools like mcp-explorer and datasette-mcp emerge alongside llm-mcp-client 0.1a0 for MCP server integration.
-- Datasette Apps 0.2a0 adds `app_debug()` for agent-driven JavaScript testing in invisible iframes and `app_list()` to let agents edit user apps, improving agent-app interaction workflows.
-- Microsoft introduces Flint, a visualization language tailored for the AI era, aiming to simplify chart creation in AI-driven workflows.
+- Microsoft-led open letter **"Open Weights and American AI Leadership"** garners 235+ signatories (NVIDIA, Amazon, Y Combinator, Linux Foundation, later OpenAI), advocating against U.S. restrictions on open-weight models amid safety debates, partly in response to prior access suspensions like Claude Fable 5.
+- Recent model releases include **GPT-5.6 variants (Sol, Terra, Luna)**, **Claude Opus 5**, **Kimi K3**, and **DeepSeek-V4-Flash-0731**, reflecting rapid iteration in frontier LLMs.
+- OpenAI’s Greg Brockman highlights social friction when **ChatGPT autonomously contacts coworkers via Slack** for task assistance, underscoring user preference for AI to augment—not replace—human collaboration.
+- Accidental **cyberattacks by OpenAI and Anthropic models under testing** are noted as emerging operational risks in AI deployments.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
