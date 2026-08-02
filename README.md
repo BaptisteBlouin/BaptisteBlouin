@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-07-31)
+#### 📰 Tech Brief — latest digest (2026-08-01)
 
-- OpenAI slashes GPT‑5.6 prices: Terra drops 20% (to $2/$12 per M input/output tokens) and Luna 80% (to $0.20/$1.20 per M tokens), driven by GPT‑5.6 Sol’s autonomous optimization of inference kernels, load balancing, and Triton/Gluon code generation.
-- GPT‑5.6 Sol recursively self-optimized serving, cutting cost of GPT‑5.4-level intelligence by 13x in 4 months via kernel rewrites, precomputation, and parallelization.
-- Thinking Machines released Inkling-Small, a 276B-parameter MoE with 12B active parameters, retaining multimodal reasoning, variable thinking effort, and a 1M-token context window at lower compute cost.
-- MiniMax H3 is a new open multimodal model handling text, images, video, and audio, generating up to 15 seconds of 2K video with stereo sound and excelling at instruction following and motion transfer.
-- Open-weight LLMs (e.g., Kimi K3, GLM 5.2) now match closed models on regulatory and clinical benchmarks at ~1/3 the cost, with distinct error profiles per model.
+- OpenAI reports ten advances in mathematics and theoretical computer science using an internal version of Astra (GPT-5.6 Sol), solving long-standing problems in geometry, cryptography, and complexity with under $2,000 per problem in token costs; proofs are open-sourced at openai/ten-proofs.
+- DeepSeek releases DeepSeek-V4-Flash-0731 (304B), praised for strong agentic capabilities and cost-efficiency ($0.14/$0.27 per 1M input/output tokens), ranking highly on intelligence vs. cost benchmarks.
+- MCP 2.0 (Model Context Protocol) rolls out with statelessness as a major update, reviving interest in the standard for exposing tools to LLM agents; new tools like mcp-explorer and datasette-mcp emerge alongside llm-mcp-client 0.1a0 for MCP server integration.
+- Datasette Apps 0.2a0 adds `app_debug()` for agent-driven JavaScript testing in invisible iframes and `app_list()` to let agents edit user apps, improving agent-app interaction workflows.
+- Microsoft introduces Flint, a visualization language tailored for the AI era, aiming to simplify chart creation in AI-driven workflows.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
