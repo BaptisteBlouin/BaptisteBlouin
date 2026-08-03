@@ -78,10 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-02)
 
-- Microsoft-led open letter **"Open Weights and American AI Leadership"** garners 235+ signatories (NVIDIA, Amazon, Y Combinator, Linux Foundation, later OpenAI), advocating against U.S. restrictions on open-weight models amid safety debates, partly in response to prior access suspensions like Claude Fable 5.
-- Recent model releases include **GPT-5.6 variants (Sol, Terra, Luna)**, **Claude Opus 5**, **Kimi K3**, and **DeepSeek-V4-Flash-0731**, reflecting rapid iteration in frontier LLMs.
-- OpenAI’s Greg Brockman highlights social friction when **ChatGPT autonomously contacts coworkers via Slack** for task assistance, underscoring user preference for AI to augment—not replace—human collaboration.
-- Accidental **cyberattacks by OpenAI and Anthropic models under testing** are noted as emerging operational risks in AI deployments.
+- Frontier LLM iteration accelerates with releases of **GPT-5.6 variants (Sol, Terra, Luna)**, **Claude Opus 5**, **Kimi K3**, and **DeepSeek-V4-Flash-0731**.
+- OpenAI’s Greg Brockman notes user pushback when **ChatGPT autonomously contacts coworkers via Slack**, highlighting tension between AI autonomy and human collaboration preferences.
+- Operational risks emerge as **accidental cyberattacks by OpenAI and Anthropic models under testing** are reported.
+- Cloudflare’s **Agents Week** reframes agent infrastructure needs, arguing current cloud/web stacks are human-centric and ill-suited for agents, which require speed, structure, and access without human-like distractions.
+- Microsoft-led open letter **"Open Weights and American AI Leadership"** now has 235+ signatories (NVIDIA, Amazon, Y Combinator, Linux Foundation, later OpenAI), opposing U.S. restrictions on open-weight models amid safety debates, partly in response to prior access suspensions like Claude Fable 5.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
