@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-03)
+#### 📰 Tech Brief — latest digest (2026-08-04)
 
-- OpenAI’s unreleased model Astra resolves 10 long-standing math and theoretical CS problems, with solutions formalized in Lean for verification; token costs for discovery are estimated at ~$2k at current API rates.
-- OpenAI shares ten advances in mathematics and theoretical computer science discovered while evaluating an unreleased model, spanning geometry, coding theory, complexity, and more.
-- Qwen3.8-Max (2.4T parameters) delivers improvements across coding, work, research, and long-horizon tasks, with open weights to follow.
-- GPT-5.6 Luna prices drop 80% to $0.20/M input and $1.20/M output; Terra drops 20% to $2/M and $12/M, with Priority Processing becoming Fast mode (2.5× faster on Sol at 2× price).
-- Microsoft tests MAI Realtime, a bidirectional, full-duplex voice model for simultaneous listening and speaking, with more natural voices than Copilot’s current voice mode.
+- Alibaba’s Qwen releases Qwen 3.8 Max (2.4T) and 27B open-weight models, with autonomous long-horizon coding (10+ days unattended), self-evolving research loops, and competitive data science performance; API pricing is $2/$6 per M tokens input/output, with open weights promised.
+- Steve Yegge reports his "Gas Town" agent system broke with Opus 4.7 due to a persistent "just two more things" behavior preventing task convergence, illustrating agentic model reliability challenges.
+- GitHub Copilot cloud agent now supports configurable reasoning levels for models that expose it, trading higher quality for token/credit cost; available on Pro/Pro+/Business/Enterprise/Max plans.
+- Cloudflare introduces Cloudflare Computer: a virtual file system in a Durable Object with SQLite state and pluggable execution (isolate/container/browser) to optimize agent efficiency and scalability.
+- OpenRouter launches Ori Eval to help users benchmark and select the best model for their use case.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
