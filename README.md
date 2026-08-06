@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-05)
 
-- A heated debate resurfaces on "megakernels" for LLM inference: industry consensus now leans against hand-fused, monolithic kernels due to launch overhead, poor inter-kernel overlap, and maintenance costs, with modern schedulers (e.g., Rubin) mitigating straggler issues; production teams have largely abandoned 67k+ LoC fused kernels in favor of modular, maintainable approaches.
-- Samsung unveils a 3D-memory roadmap stacking high-bandwidth memory atop AI accelerators, promising ~8× performance and >10× memory density over next-gen HBM5, with HBM4 production ramping in H2 this year.
-- LLM CLI v0.32 adds visible reasoning traces (streamed to stderr), server-side provider tools, content-addressable SQLite logs, and OpenAI Responses API support; reasoning can be hidden with `-R/--hide-reasoning`.
-- The `llm-anthropic` plugin v0.26 introduces new models (`claude-fable-5`, `claude-sonnet-5`, `claude-opus-5`) and server-side tools (`WebSearch`, `WebFetch`, `CodeExecution`, `AnthropicMCP`), accessed via `-T` or Python `tools=`; legacy `-o web_search*` options are deprecated.
-- Microsoft curbs internal AI usage, telling engineers that "tokenmaxxing" (excessive token spend) is not an optimization goal and imposing new limits.
+- Industry consensus now leans against hand-fused "megakernels" for LLM inference due to launch overhead, poor inter-kernel overlap, and maintenance costs; modern schedulers (e.g., Rubin) mitigate stragglers, and production teams have abandoned 67k+ LoC fused kernels for modular approaches.
+- Samsung’s 3D-memory roadmap stacks HBM atop AI accelerators, promising ~8× performance and >10× memory density over next-gen HBM5, with HBM4 production ramping in H2 this year.
+- OpenAI’s GPT-Live voice system enables full-duplex, low-latency conversation with continuous speech processing and asynchronous delegation for deeper reasoning without interrupting flow.
+- NVIDIA released Alpamayo 2 Super, a reasoning model for robotaxis/autonomous vehicles designed to handle rare driving scenarios with inspectable decisions and broad multitask capabilities.
+- NVIDIA’s NemotronLabs VoiceChat 11B is an end-to-end speech model for streaming understanding, speech generation, and tool calling in one architecture.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
