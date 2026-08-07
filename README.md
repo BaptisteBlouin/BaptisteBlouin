@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-06)
+#### 📰 Tech Brief — latest digest (2026-08-07)
 
-- OpenAI improves **GPT-5.6 Sol** in ChatGPT with better accuracy/consistency and expands **GPT-5.6 Luna** access to free users with unlimited everyday chats.
-- **Meta** releases **Muse Spark 1.2** and **Muse Code**, a terminal coding agent with long-sequence tool calling, improved code generation/debugging, resumability, and persistent background agents.
-- **Discovery Loop** founded by **Jeff Dean, Sanjay Ghemawat, Oriol Vinyals, Quoc Le** to build self-improving AI; Google invests and provides compute.
-- **Demis Hassabis** transitions to **Chairman of DeepMind** and **Alphabet Chief Scientist**; **Koray Kavukcuoglu** takes a senior role overseeing Google DeepMind.
-- **Prime Agent** claims **95.5% on ARC-AGI-3** (unendorsed by ARC) and introduces a self-improving RLM agent with continual harness and REPL-based context.
+- Meta’s Muse Spark 1.2 rapidly climbs to frontier-tier on benchmarks, entering top 5 on Vals Index at $0.69/test with 3x–10x+ cost advantages over peers, and first to exceed 60% on Finance Agent v2 at $0.77/test.
+- Anthropic improves Claude Fable 5’s biology safeguards, cutting biology-related fallbacks by ~85% and expanding support for everyday health and educational tasks; dual-use biology requests still fall back to Opus 5.
+- Researchers use AI to design and synthesize viable, novel viruses by learning DNA structure patterns and generating new viral genomes that can infect bacteria.
+- Cloudflare introduces Kitesurf, an agent-first browser running in V8 isolates on Cloudflare Workers, optimized for AI agents that need page rendering with bursty, scalable workloads; available in beta on Browser Run.
+- Agent Plugins 1.0.0 launches as a portable package format for reusable Agent Skills and MCP servers, defining a shared interoperability floor while leaving distribution and UX to clients.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
