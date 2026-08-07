@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-07)
 
-- Meta’s Muse Spark 1.2 rapidly climbs to frontier-tier on benchmarks, entering top 5 on Vals Index at $0.69/test with 3x–10x+ cost advantages over peers, and first to exceed 60% on Finance Agent v2 at $0.77/test.
-- Anthropic improves Claude Fable 5’s biology safeguards, cutting biology-related fallbacks by ~85% and expanding support for everyday health and educational tasks; dual-use biology requests still fall back to Opus 5.
+- Meta’s Muse Spark 1.2 reaches frontier-tier on benchmarks, ranking top 5 on Vals Index at $0.69/test with 3x–10x+ cost advantages and first to exceed 60% on Finance Agent v2 at $0.77/test.
+- Anthropic improves Claude Fable 5’s biology safeguards, reducing biology-related fallbacks by ~85% and expanding support for everyday health and educational tasks; dual-use biology requests still fall back to Opus 5.
 - Researchers use AI to design and synthesize viable, novel viruses by learning DNA structure patterns and generating new viral genomes that can infect bacteria.
-- Cloudflare introduces Kitesurf, an agent-first browser running in V8 isolates on Cloudflare Workers, optimized for AI agents that need page rendering with bursty, scalable workloads; available in beta on Browser Run.
-- Agent Plugins 1.0.0 launches as a portable package format for reusable Agent Skills and MCP servers, defining a shared interoperability floor while leaving distribution and UX to clients.
+- OpenAI shares preliminary cybersecurity evaluations for Astra and steps to strengthen safeguards and security controls.
+- GPT-5.6 Luna is now the default free model in ChatGPT, with text chat limits removed; separate caps remain for files, images, voice, and image generation; a new Think button adds optional higher reasoning.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
