@@ -76,9 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-09)
+#### 📰 Tech Brief — latest digest (2026-08-10)
 
-- Anthropic makes **Auto mode the default** for new Claude Code sessions on Pro, Max, and Team plans starting August 14, reflecting strong internal confidence; the company reports near-universal adoption of Auto mode among its own engineers for safety and efficiency.
+- Meta releases **Muse Glimmer**, a local, agentic, multimodal open-source model, expanding accessible multimodal capabilities.
+- **Hypernova-60B-2605** debuts with a cost-efficient knowledge-distillation pipeline, enabling scalable deployment of large models.
+- Google DeepMind’s **WeatherNext Cyclones** delivers >24-hour earlier warnings for cyclone tracks, intensity, and winds, marking a breakthrough in AI-driven weather forecasting.
+- **TYTAN** introduces interactive neurosymbolic construction of analytic semantic schemas from relational data, achieving 100% execution on 3,758 retrieval tests across eight databases.
+- Startups are pursuing **post-transformer architectures** as transformers show limitations in reasoning and long-context tasks.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
