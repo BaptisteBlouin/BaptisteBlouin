@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-12)
 
-- A new paper demonstrates that encrypted chain-of-thought blocks from Anthropic, OpenAI, and Google can be replayed across sessions/users/models, enabling attackers to decode and port reasoning traces and improve open models via stolen traces.
-- The technique builds on earlier responsible disclosures (e.g., latency side-channels) and shows that even cryptographically signed reasoning can be exfiltrated, raising concerns for alignment, security, and CoT monitoring.
-- Google’s Gemini reaches 1 billion monthly active users, becoming the company’s fastest-growing product and embedding deeply into Google’s search and product ecosystem.
-- SpaceXAI unveils Grok Bot, an agentic system that operates like a team of AI agents, retaining context across tasks, signing into apps, and sharing state; it is already used internally for engineering, growth, marketing, sales, and finance workflows.
-- Columbia researchers deploy an AI system to locate rare sperm in infertile men, addressing cases of azoospermia where manual microscopy misses viable cells.
+- Google’s Gemini surpasses 1 billion monthly active users, embedding deeply into Google’s search and product ecosystem.
+- SpaceXAI’s Grok Bot deploys teams of AI agents with persistent context, app sign-in, and shared state for internal workflows; Grok 4.6 focuses on long-running agents and interactive/visual tasks, matching GPT-5.6 Sol on a composite benchmark.
+- OpenAI highlights enterprise adoption of agentic AI via ChatGPT and Codex, with frontier firms pulling ahead.
+- Google DeepMind releases a massively multilingual sign-language-to-text (SL2T) model, powering dictation in Gboard and Live Transcribe on Pixel 11 for ASL→English.
+- NVIDIA introduces Nemotron 3.5 Lightning (30B MoE, 3B active) and NeMo Switchyard, a router that reshuffles models mid-task to cut agent costs to ~1/3 while retaining accuracy.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
