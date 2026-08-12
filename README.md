@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-10)
+#### 📰 Tech Brief — latest digest (2026-08-11)
 
-- Meta releases **Muse Glimmer**, a 30B-parameter open-weight multimodal model distilled from Muse Spark for on-device agentic workflows, with ExecuTorch adding end-to-end support for NVIDIA GPUs and Apple silicon.
-- **Needle 2** is a 14MB agentic LLM for edge devices (phones, wearables, robots), running full sessions in 28MB RAM at 300–1,500 tokens/sec on low-cost hardware.
-- **NVIDIA Magpie TTS** enables low-latency multilingual voice agents with open weights and full deployment control.
-- Google DeepMind’s **WeatherNext Cyclones** delivers >24-hour earlier warnings for cyclone tracks, intensity, and winds.
-- **TYTAN** achieves 100% execution on 3,758 retrieval tests across eight databases via interactive neurosymbolic schema construction.
+- OpenAI begins testing labeled ads in ChatGPT to sustain free access, with privacy protections and user control.
+- Meta releases **Muse Glimmer**, a 30B-parameter Apache 2.0 open-weight model optimized for end-to-end agentic task completion, reliable tool use, and multi-step reasoning.
+- Anthropic’s **Claude** advances mathematical research by improving the lower bound of zeros satisfying the Riemann hypothesis from 41.6% to 67.2% via coordinated subagents.
+- OpenAI introduces **GPT-5.6-Cyber** for vulnerability research and exploit validation, and expands **Daybreak** access tiers (Blue/Red) for cybersecurity practitioners.
+- **Dyna-2**, a world-action model trained on 1M+ hours of human video, proves scaling laws for robotics with 87% zero-shot pass rates in real-world deployments.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
