@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-11)
+#### 📰 Tech Brief — latest digest (2026-08-12)
 
-- OpenAI begins testing labeled ads in ChatGPT to sustain free access, with privacy protections and user control.
-- Meta releases **Muse Glimmer**, a 30B-parameter Apache 2.0 open-weight model optimized for end-to-end agentic task completion, reliable tool use, and multi-step reasoning.
-- Anthropic’s **Claude** advances mathematical research by improving the lower bound of zeros satisfying the Riemann hypothesis from 41.6% to 67.2% via coordinated subagents.
-- OpenAI introduces **GPT-5.6-Cyber** for vulnerability research and exploit validation, and expands **Daybreak** access tiers (Blue/Red) for cybersecurity practitioners.
-- **Dyna-2**, a world-action model trained on 1M+ hours of human video, proves scaling laws for robotics with 87% zero-shot pass rates in real-world deployments.
+- A new paper demonstrates that encrypted chain-of-thought blocks from Anthropic, OpenAI, and Google can be replayed across sessions/users/models, enabling attackers to decode and port reasoning traces and improve open models via stolen traces.
+- The technique builds on earlier responsible disclosures (e.g., latency side-channels) and shows that even cryptographically signed reasoning can be exfiltrated, raising concerns for alignment, security, and CoT monitoring.
+- Google’s Gemini reaches 1 billion monthly active users, becoming the company’s fastest-growing product and embedding deeply into Google’s search and product ecosystem.
+- SpaceXAI unveils Grok Bot, an agentic system that operates like a team of AI agents, retaining context across tasks, signing into apps, and sharing state; it is already used internally for engineering, growth, marketing, sales, and finance workflows.
+- Columbia researchers deploy an AI system to locate rare sperm in infertile men, addressing cases of azoospermia where manual microscopy misses viable cells.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
