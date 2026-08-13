@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-12)
+#### 📰 Tech Brief — latest digest (2026-08-13)
 
-- Google’s Gemini surpasses 1 billion monthly active users, embedding deeply into Google’s search and product ecosystem.
-- SpaceXAI’s Grok Bot deploys teams of AI agents with persistent context, app sign-in, and shared state for internal workflows; Grok 4.6 focuses on long-running agents and interactive/visual tasks, matching GPT-5.6 Sol on a composite benchmark.
-- OpenAI highlights enterprise adoption of agentic AI via ChatGPT and Codex, with frontier firms pulling ahead.
-- Google DeepMind releases a massively multilingual sign-language-to-text (SL2T) model, powering dictation in Gboard and Live Transcribe on Pixel 11 for ASL→English.
-- NVIDIA introduces Nemotron 3.5 Lightning (30B MoE, 3B active) and NeMo Switchyard, a router that reshuffles models mid-task to cut agent costs to ~1/3 while retaining accuracy.
+- SpaceXAI releases **Grok 4.6**, a 1.5T model optimized for long-running agents, coding, and knowledge work, surpassing Kimi K3 and matching GPT-5.6 Sol on Artificial Analysis; API pricing starts at $2/$6 per million input/output tokens, undercutting GPT-5.6 Sol by >50%.
+- **DeepSeek V4 Pro 0813** is now available via OpenRouter (API-only), with reasoning modes producing visibly distinct outputs; prior DeepSeek V4 models had open weights, suggesting this may follow.
+- Meta releases **Muse Glimmer (30B)**, an open-weight model quantizable to <20 GB for local agent workflows on consumer GPUs.
+- DeepSeek is building a team to challenge **Claude Code**, signaling intensified competition in AI coding agents.
+- Qdrant analyzes **filtered vector search trade-offs**, comparing filterable HNSW, ACORN expansion, and full scans; ACORN helps in some cases, but extra index-time edges can outperform query-time repairs.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
