@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-13)
 
-- SpaceXAI releases **Grok 4.6**, a 1.5T model optimized for long-running agents, coding, and knowledge work, surpassing Kimi K3 and matching GPT-5.6 Sol on Artificial Analysis; API pricing starts at $2/$6 per million input/output tokens, undercutting GPT-5.6 Sol by >50%.
-- **DeepSeek V4 Pro 0813** is now available via OpenRouter (API-only), with reasoning modes producing visibly distinct outputs; prior DeepSeek V4 models had open weights, suggesting this may follow.
+- SpaceXAI releases **Grok 4.6** (1.5T), optimized for long-running agents, coding, and knowledge work, matching GPT-5.6 Sol on Artificial Analysis; API pricing starts at $2/$6 per M input/output tokens, >50% cheaper than GPT-5.6 Sol.
+- **DeepSeek V4 Pro 0813** is now API-only via OpenRouter, with distinct reasoning modes; prior V4 models had open weights, suggesting this may follow.
 - Meta releases **Muse Glimmer (30B)**, an open-weight model quantizable to <20 GB for local agent workflows on consumer GPUs.
-- DeepSeek is building a team to challenge **Claude Code**, signaling intensified competition in AI coding agents.
-- Qdrant analyzes **filtered vector search trade-offs**, comparing filterable HNSW, ACORN expansion, and full scans; ACORN helps in some cases, but extra index-time edges can outperform query-time repairs.
+- Google launches **Gemini 3.7 Flash**, a workhorse for coding/agents with strong gains over 3.6 Flash (e.g., FrontierCode 1.1 Main 43.6% vs 34.4%, DeepSWE v1.1 65.3% vs 49.0%) at half the cost; now in GitHub Copilot.
+- Microsoft introduces **MAI-Thinking-1**, a medium-sized reasoning model for cost-efficient enterprise coding/math/knowledge tasks.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
