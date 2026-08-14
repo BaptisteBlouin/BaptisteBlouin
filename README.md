@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-14)
 
-- OpenAI previews an Ultrafast API tier for GPT-5.6 Sol, delivering 750 output tokens per second—14× faster than Standard—initially for select customers, with a broader rollout planned as Cerebras-powered capacity scales.
-- Google’s Gemini 3.7 Flash update narrows the gap with Claude 4.8+ and GPT-5.5+ series, reviving Google’s GDM (Gemini Data Model) competitiveness after prior versions fell behind.
-- DeepSeek releases **DeepSeek Harness** in developer preview: a modular, plugin-based framework where every capability can be swapped or recomposed, with append-only session logging for full transparency.
-- **Foreman** (Vercel Labs) is an AI-native software factory that orchestrates agents across the dev loop: Classifier (triage), Analyst (planning), Implementer (sandboxed execution), and Reviewer (independent judgment), delivering reviewed draft PRs from GitHub/Linear tasks.
-- BLP Digital integrates **300 AI agents into core ERP processes**, emphasizing ROI over pilot costs, with governance shifting from IT to business owners and a focus on validation sets and change management.
+- OpenAI previews **GPT-5.6 Sol Ultrafast**, delivering 750 output tokens/second—14× faster than Standard—initially for select customers, scaling on Cerebras-powered infrastructure.
+- Google releases **Gemini 3.7 Flash** with improved coding/agent performance and a 50% introductory price cut ($0.75/M input, $3.75/M output tokens through year-end).
+- **Grok 4.6** rolls out in GitHub Copilot for agentic coding and long-horizon tasks, available across VS Code, CLI, cloud agent, JetBrains, Xcode, Eclipse.
+- Mistral launches **OCR 4.1**, a vision-multimodal model specialized for parsing complex documents into structured JSON/Markdown, pressuring cloud pricing for multimodal inputs.
+- **DeepSeek Harness** (dev preview) is a modular, plugin-based framework with append-only session logging for transparency.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
