@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-13)
+#### 📰 Tech Brief — latest digest (2026-08-14)
 
-- SpaceXAI releases **Grok 4.6** (1.5T), optimized for long-running agents, coding, and knowledge work, matching GPT-5.6 Sol on Artificial Analysis; API pricing starts at $2/$6 per M input/output tokens, >50% cheaper than GPT-5.6 Sol.
-- **DeepSeek V4 Pro 0813** is now API-only via OpenRouter, with distinct reasoning modes; prior V4 models had open weights, suggesting this may follow.
-- Meta releases **Muse Glimmer (30B)**, an open-weight model quantizable to <20 GB for local agent workflows on consumer GPUs.
-- Google launches **Gemini 3.7 Flash**, a workhorse for coding/agents with strong gains over 3.6 Flash (e.g., FrontierCode 1.1 Main 43.6% vs 34.4%, DeepSWE v1.1 65.3% vs 49.0%) at half the cost; now in GitHub Copilot.
-- Microsoft introduces **MAI-Thinking-1**, a medium-sized reasoning model for cost-efficient enterprise coding/math/knowledge tasks.
+- OpenAI previews an Ultrafast API tier for GPT-5.6 Sol, delivering 750 output tokens per second—14× faster than Standard—initially for select customers, with a broader rollout planned as Cerebras-powered capacity scales.
+- Google’s Gemini 3.7 Flash update narrows the gap with Claude 4.8+ and GPT-5.5+ series, reviving Google’s GDM (Gemini Data Model) competitiveness after prior versions fell behind.
+- DeepSeek releases **DeepSeek Harness** in developer preview: a modular, plugin-based framework where every capability can be swapped or recomposed, with append-only session logging for full transparency.
+- **Foreman** (Vercel Labs) is an AI-native software factory that orchestrates agents across the dev loop: Classifier (triage), Analyst (planning), Implementer (sandboxed execution), and Reviewer (independent judgment), delivering reviewed draft PRs from GitHub/Linear tasks.
+- BLP Digital integrates **300 AI agents into core ERP processes**, emphasizing ROI over pilot costs, with governance shifting from IT to business owners and a focus on validation sets and change management.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
