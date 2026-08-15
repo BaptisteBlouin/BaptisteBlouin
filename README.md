@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-14)
+#### 📰 Tech Brief — latest digest (2026-08-15)
 
-- OpenAI previews **GPT-5.6 Sol Ultrafast**, delivering 750 output tokens/second—14× faster than Standard—initially for select customers, scaling on Cerebras-powered infrastructure.
-- Google releases **Gemini 3.7 Flash** with improved coding/agent performance and a 50% introductory price cut ($0.75/M input, $3.75/M output tokens through year-end).
-- **Grok 4.6** rolls out in GitHub Copilot for agentic coding and long-horizon tasks, available across VS Code, CLI, cloud agent, JetBrains, Xcode, Eclipse.
-- Mistral launches **OCR 4.1**, a vision-multimodal model specialized for parsing complex documents into structured JSON/Markdown, pressuring cloud pricing for multimodal inputs.
-- **DeepSeek Harness** (dev preview) is a modular, plugin-based framework with append-only session logging for transparency.
+- ## DevOps & Authentication
+- GitHub OAuth apps now support expiring access tokens (8-hour lifetime) and refresh tokens (6-month validity), enabling automatic token rotation for improved security.
+- OAuth apps can now register multiple redirect URIs and use wildcard matching for both GitHub Apps and OAuth apps.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
