@@ -78,9 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-15)
 
-- ## DevOps & Authentication
-- GitHub OAuth apps now support expiring access tokens (8-hour lifetime) and refresh tokens (6-month validity), enabling automatic token rotation for improved security.
-- OAuth apps can now register multiple redirect URIs and use wildcard matching for both GitHub Apps and OAuth apps.
+- Agent frameworks are evolving rapidly: Vercel's *eve* and Fred Schott's *Flue* (now at v2, first stable) pioneer React-style "Agent Hooks," treating an agent as a JS function that re-renders on every turn to compose behavior, inspired by React's composability.
+- A perspective argues that AI's edge in complex tasks (e.g., mathematics) stems less from superior reasoning than from a vastly larger *external symbolic working memory* (context window) that retains problem statements, intermediate steps, constraints, and abandoned approaches simultaneously.
+- Substack's new built-in AI detector spurs educational DIY: a tutorial shows how to build a simple AI text detector from scratch and use it as a verifier to train an SLM to evade detection, illustrating limitations and novel LLM applications beyond math/code reasoning.
+- *ThoughtDAG* is an open demo of an editable context graph for LLM conversations, letting users visually manage and select which parts of long histories feed into the next request.
+- Working with AI feels more like leadership than coding: outcomes are less predictable, so context, clarity, feedback, and reusable instructions become more valuable than rigid prompts; treating AI as a collaborator improves results.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
