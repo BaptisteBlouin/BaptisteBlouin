@@ -76,13 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-15)
+#### 📰 Tech Brief — latest digest (2026-08-16)
 
-- Agent frameworks are evolving rapidly: Vercel's *eve* and Fred Schott's *Flue* (now at v2, first stable) pioneer React-style "Agent Hooks," treating an agent as a JS function that re-renders on every turn to compose behavior, inspired by React's composability.
-- A perspective argues that AI's edge in complex tasks (e.g., mathematics) stems less from superior reasoning than from a vastly larger *external symbolic working memory* (context window) that retains problem statements, intermediate steps, constraints, and abandoned approaches simultaneously.
-- Substack's new built-in AI detector spurs educational DIY: a tutorial shows how to build a simple AI text detector from scratch and use it as a verifier to train an SLM to evade detection, illustrating limitations and novel LLM applications beyond math/code reasoning.
-- *ThoughtDAG* is an open demo of an editable context graph for LLM conversations, letting users visually manage and select which parts of long histories feed into the next request.
-- Working with AI feels more like leadership than coding: outcomes are less predictable, so context, clarity, feedback, and reusable instructions become more valuable than rigid prompts; treating AI as a collaborator improves results.
+- Anthropic's Dario Amodei argues public distrust in AI stems from a broader crisis of trust in tech and institutions, and that tangible, high-impact deliveries (e.g., curing cancer) are needed to rebuild confidence, not marketing campaigns.
+- LittleLearner introduces models (0.6B, 1.3B, 5B) trained exclusively on an 88B-token K–5 curriculum (LittleCurriculum), demonstrating that pretraining filters set a hard ceiling on out-of-scope knowledge; scaling, fine-tuning, or in-context learning fail to overcome this boundary.
+- Stripe acquires OpenRouter, an AI inference routing platform, in a deal valued at over $7B, signaling consolidation in the LLM tooling and API aggregation space.
+- A growing "token broker" market emerges, where intermediaries buy unused AI inference credits from startups at steep discounts (40–50% off) and resell them, commercializing the secondary market for model access.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
