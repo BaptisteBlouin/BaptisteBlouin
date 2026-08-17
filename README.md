@@ -76,12 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-16)
+#### 📰 Tech Brief — latest digest (2026-08-17)
 
-- Anthropic's Dario Amodei argues public distrust in AI stems from a broader crisis of trust in tech and institutions, and that tangible, high-impact deliveries (e.g., curing cancer) are needed to rebuild confidence, not marketing campaigns.
-- LittleLearner introduces models (0.6B, 1.3B, 5B) trained exclusively on an 88B-token K–5 curriculum (LittleCurriculum), demonstrating that pretraining filters set a hard ceiling on out-of-scope knowledge; scaling, fine-tuning, or in-context learning fail to overcome this boundary.
-- Stripe acquires OpenRouter, an AI inference routing platform, in a deal valued at over $7B, signaling consolidation in the LLM tooling and API aggregation space.
-- A growing "token broker" market emerges, where intermediaries buy unused AI inference credits from startups at steep discounts (40–50% off) and resell them, commercializing the secondary market for model access.
+- OpenAI discusses AI’s dual role in cybersecurity, outlining defensive strategies for security teams.
+- Z.ai releases GLM-5.3, achieving frontier coding performance and emergent cyber capabilities through extended post-training; weights are delayed for security review.
+- Qwen 3.8 27B is released with strong benchmarks, though noted for overthinking; runs efficiently on local hardware.
+- Microsoft introduces Full-bandwidth Transformers, enabling latent computation to continue across decoding steps.
+- LittleLearner models (0.6B–5B) demonstrate that curriculum filtering sets effective capability ceilings, with scaling and fine-tuning amplifying only what was taught.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
