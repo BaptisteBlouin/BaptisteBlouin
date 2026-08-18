@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-17)
+#### 📰 Tech Brief — latest digest (2026-08-18)
 
-- OpenAI discusses AI’s dual role in cybersecurity, outlining defensive strategies for security teams.
-- Z.ai releases GLM-5.3, achieving frontier coding performance and emergent cyber capabilities through extended post-training; weights are delayed for security review.
-- Qwen 3.8 27B is released with strong benchmarks, though noted for overthinking; runs efficiently on local hardware.
-- Microsoft introduces Full-bandwidth Transformers, enabling latent computation to continue across decoding steps.
-- LittleLearner models (0.6B–5B) demonstrate that curriculum filtering sets effective capability ceilings, with scaling and fine-tuning amplifying only what was taught.
+- Qwen 3.8 27B achieves a score of 52 on the Artificial Analysis Intelligence Index, matching GPT-5.6 Luna (max) and trailing GLM-5.2 (753B) and DeepSeek V4 Pro 0813 (1.7T) by just one point, highlighting its exceptional performance for its size.
+- Thinking Machines releases Inkling, a 66-layer model with 256 experts per layer (6 active per token), combining short- and long-context layers and older positional encoding methods.
+- OpenAI's GPT-5.6 Sol is praised for its vision capabilities, excelling in object detection and counting but still facing cost, latency, and occasional error challenges.
+- Anthropic's Claude Science (beta) targets life sciences with traceable, reproducible, and defensible AI workflows, addressing trust and reliability barriers in research.
+- Model routing demand surges due to frontier model competition and open-weight advancements (e.g., Kimi K3, Qwen3.8-Max), with enterprises like Glean optimizing model selection and avoiding LLM overuse for simple tasks.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
