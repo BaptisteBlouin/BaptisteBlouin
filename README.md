@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-18)
+#### 📰 Tech Brief — latest digest (2026-08-19)
 
-- Qwen 3.8 27B achieves a score of 52 on the Artificial Analysis Intelligence Index, matching GPT-5.6 Luna (max) and trailing GLM-5.2 (753B) and DeepSeek V4 Pro 0813 (1.7T) by just one point, highlighting its exceptional performance for its size.
-- Thinking Machines releases Inkling, a 66-layer model with 256 experts per layer (6 active per token), combining short- and long-context layers and older positional encoding methods.
-- OpenAI's GPT-5.6 Sol is praised for its vision capabilities, excelling in object detection and counting but still facing cost, latency, and occasional error challenges.
-- Anthropic's Claude Science (beta) targets life sciences with traceable, reproducible, and defensible AI workflows, addressing trust and reliability barriers in research.
-- Model routing demand surges due to frontier model competition and open-weight advancements (e.g., Kimi K3, Qwen3.8-Max), with enterprises like Glean optimizing model selection and avoiding LLM overuse for simple tasks.
+- OpenAI rewrites its Preparedness Framework, expands monitoring, and strengthens research-environment isolation while keeping its largest frontier RL run and significant Astra/cyber workloads paused; Astra may meet OpenAI’s Critical cyber threshold, but no technical postmortem of the Hugging Face breach has been released.
+- GenBio launches AIDO Cell, a “virtual cell” world model simulating natural states and responses to perturbations for K562 and HepG2 cell lines, with an early-access academic program planned.
+- Analysts argue raw internet data is suboptimal for AGI and advocate equalizing intelligence per token to improve scaling efficiency.
+- GitHub Copilot for JetBrains gains enterprise-managed settings: administrators can centrally govern plugins, MCP server allowlists, OpenTelemetry, and permission modes across the enterprise plan.
+- Vercel’s AI SDK introduces Code Mode, enabling models to write JavaScript/TypeScript that calls AI SDK tools.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
