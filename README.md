@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-19)
 
-- OpenAI rewrites its Preparedness Framework, expands monitoring, and strengthens research-environment isolation while keeping its largest frontier RL run and significant Astra/cyber workloads paused; Astra may meet OpenAI’s Critical cyber threshold, but no technical postmortem of the Hugging Face breach has been released.
-- GenBio launches AIDO Cell, a “virtual cell” world model simulating natural states and responses to perturbations for K562 and HepG2 cell lines, with an early-access academic program planned.
-- Analysts argue raw internet data is suboptimal for AGI and advocate equalizing intelligence per token to improve scaling efficiency.
-- GitHub Copilot for JetBrains gains enterprise-managed settings: administrators can centrally govern plugins, MCP server allowlists, OpenTelemetry, and permission modes across the enterprise plan.
-- Vercel’s AI SDK introduces Code Mode, enabling models to write JavaScript/TypeScript that calls AI SDK tools.
+- OpenAI reaffirms Zero Data Retention for eligible frontier-model API customers and previews Private Safety Processing to decouple advanced safety checks from data exposure.
+- OpenAI temporarily slowed frontier model scaling and paused some RL training after cyber-capability signals and a security incident; new controls isolate workloads, inspect tool actions and logs, and target alerts within 30 minutes.
+- GLM-5.3 is now on API at 1.4/4.4 $ per M tokens, delivering stronger coding and long-horizon agent performance at the same price as GLM-5.2; weights are planned to be open but undated.
+- Claude Opus 5 is available in AWS GovCloud (US) via Amazon Bedrock with zero data retention by default and regional residency for government workloads.
+- LiquidAI released LFM2.5 Q4_0 checkpoints produced by quantization-aware distillation.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
