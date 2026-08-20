@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-19)
+#### 📰 Tech Brief — latest digest (2026-08-20)
 
-- OpenAI reaffirms Zero Data Retention for eligible frontier-model API customers and previews Private Safety Processing to decouple advanced safety checks from data exposure.
-- OpenAI temporarily slowed frontier model scaling and paused some RL training after cyber-capability signals and a security incident; new controls isolate workloads, inspect tool actions and logs, and target alerts within 30 minutes.
-- GLM-5.3 is now on API at 1.4/4.4 $ per M tokens, delivering stronger coding and long-horizon agent performance at the same price as GLM-5.2; weights are planned to be open but undated.
-- Claude Opus 5 is available in AWS GovCloud (US) via Amazon Bedrock with zero data retention by default and regional residency for government workloads.
-- LiquidAI released LFM2.5 Q4_0 checkpoints produced by quantization-aware distillation.
+- OpenAI launches **AI Futures**, a blog by its Strategic Futures team, to explore restructuring free society for transformative AI and concentration-of-power risks.
+- **GLM 5.3** and new post-training scaling laws: parameter count must now be considered alongside data volume, compute allocation, and deployment constraints, as memorization and reasoning scale differently.
+- **Ornith-1.5** open models debut in 397B, 35B, and 9B sizes, using a closed self-improvement loop to jointly optimize task generation, scaffold construction, and solution rollouts.
+- **Meta’s Muse Video** (closed beta) generates 10-second videos with native audio, strong detail, world understanding, and temporal consistency.
+- **Agentic Transaction** research applies ACID guarantees to AI agents, treating multi-step workflows as transactions; ACID-Agent outperforms Claude Code by up to 10.6% on a data agent benchmark.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
