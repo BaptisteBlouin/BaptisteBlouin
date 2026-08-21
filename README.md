@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-20)
+#### 📰 Tech Brief — latest digest (2026-08-21)
 
-- OpenAI launches **AI Futures**, a blog by its Strategic Futures team, to explore restructuring free society for transformative AI and concentration-of-power risks.
-- **GLM 5.3** and new post-training scaling laws: parameter count must now be considered alongside data volume, compute allocation, and deployment constraints, as memorization and reasoning scale differently.
-- **Ornith-1.5** open models debut in 397B, 35B, and 9B sizes, using a closed self-improvement loop to jointly optimize task generation, scaffold construction, and solution rollouts.
-- **Meta’s Muse Video** (closed beta) generates 10-second videos with native audio, strong detail, world understanding, and temporal consistency.
-- **Agentic Transaction** research applies ACID guarantees to AI agents, treating multi-step workflows as transactions; ACID-Agent outperforms Claude Code by up to 10.6% on a data agent benchmark.
+- NVIDIA acquires Poolside in a $12B reverse-execuhire, licensing its Model Factory and hiring 109 employees, signaling a major consolidation of AI training and eval talent.
+- Anthropic prepares for a potential IPO, aiming to match or exceed SpaceX’s record size, and secures a >$10B revolving credit facility while considering super-voting shares for founder control.
+- ChatGPT Search now heavily uses the `site:` operator in fanout queries, a shift tied to the GPT-5.6 rollout, impacting Generative Engine Optimization (GEO) strategies.
+- EU clarifies that copyright does not protect AI-generated content, a key legal constraint for deployments in the region.
+- Slack launches **Slack Code**, enabling project-specific channels where teams and AI coding agents collaborate end-to-end—spinning up, archiving, and tracking work directly in Slack.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
