@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-21)
 
-- NVIDIA acquires Poolside in a $12B reverse-execuhire, licensing its Model Factory and hiring 109 employees, signaling a major consolidation of AI training and eval talent.
+- NVIDIA acquires Poolside in a $12B reverse-execuhire, licensing its Model Factory and hiring 109 employees.
+- Poolside AI struck a non-exclusive licensing deal with NVIDIA for $6B, with 109 employees offered to join NVIDIA.
 - Anthropic prepares for a potential IPO, aiming to match or exceed SpaceX’s record size, and secures a >$10B revolving credit facility while considering super-voting shares for founder control.
-- ChatGPT Search now heavily uses the `site:` operator in fanout queries, a shift tied to the GPT-5.6 rollout, impacting Generative Engine Optimization (GEO) strategies.
-- EU clarifies that copyright does not protect AI-generated content, a key legal constraint for deployments in the region.
-- Slack launches **Slack Code**, enabling project-specific channels where teams and AI coding agents collaborate end-to-end—spinning up, archiving, and tracking work directly in Slack.
+- Anthropic reworks enterprise data retention, planning to let customers keep required 30-day data on their own cloud infrastructure.
+- OpenAI launches a Strategic Futures team to study preserving individual autonomy as advanced AI reshapes economic and political power.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
