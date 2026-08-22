@@ -76,13 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-21)
+#### 📰 Tech Brief — latest digest (2026-08-22)
 
-- NVIDIA acquires Poolside in a $12B reverse-execuhire, licensing its Model Factory and hiring 109 employees.
-- Poolside AI struck a non-exclusive licensing deal with NVIDIA for $6B, with 109 employees offered to join NVIDIA.
-- Anthropic prepares for a potential IPO, aiming to match or exceed SpaceX’s record size, and secures a >$10B revolving credit facility while considering super-voting shares for founder control.
-- Anthropic reworks enterprise data retention, planning to let customers keep required 30-day data on their own cloud infrastructure.
-- OpenAI launches a Strategic Futures team to study preserving individual autonomy as advanced AI reshapes economic and political power.
+- Simulation-based AI is accelerating, with synthetic pipelines replacing human-made components (data, rubrics, researchers, RL environments) at frontier labs, driven by cost and speed advantages despite initial quality trade-offs.
+- Agent harnesses have matured alongside models, crossing a capability threshold where agents "started to work" around late 2025; future trends point to models absorbing harness logic, leaving interfaces focused on human attention.
+- Simile AI raises a $2B Series B, running tens of millions of simulations for enterprises (e.g., CVS) with 85–99% accuracy vs. human focus groups, signaling a "Second Summer" of simulative AI and progress toward foundation models of human behavior.
+- Cloudflare introduces **Bot Preference Sync** to align stated bot policies (e.g., `robots.txt`) with enforced rules, reducing inconsistencies that crawlers exploit to bypass protections.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
