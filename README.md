@@ -76,13 +76,10 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-22)
+#### 📰 Tech Brief — latest digest (2026-08-23)
 
-- Simulation-based AI is accelerating at frontier labs, with synthetic pipelines replacing human-made data, rubrics, researchers, and RL environments due to cost and speed, despite early quality trade-offs.
-- Agent harnesses have matured, crossing a threshold where agents "started to work" around late 2025; future direction suggests models will absorb harness logic, simplifying interfaces to focus on human attention.
-- Simile AI raises a $2B Series B, running tens of millions of simulations for enterprises (e.g., CVS) with 85–99% accuracy vs. human focus groups, signaling a "Second Summer" of simulative AI and progress toward foundation models of human behavior.
-- Linus Torvalds recounts using an AI assistant for a difficult debug session, noting it persisted in adding debug code and analysis even after declaring the problem unsolvable, and ultimately wrote the commit message.
-- `llm` 0.33 upgrades to OpenAI Python library 3.x, switches HTTP client from `httpx` to `httpx2`, and adds `--key` support for `llm embed`/`embed-multi` and corresponding Python methods to pass per-call keys to embedding plugins.
+- ## Developer Tools & Emulation
+- MartyPC is released as a cross-platform emulator of early PCs implemented in Rust, supporting a range of vintage hardware configurations including MDA, Hercules, CGA, EGA, VGA, and memory sidecars.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
