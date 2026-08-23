@@ -78,8 +78,10 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-23)
 
-- ## Developer Tools & Emulation
-- MartyPC is released as a cross-platform emulator of early PCs implemented in Rust, supporting a range of vintage hardware configurations including MDA, Hercules, CGA, EGA, VGA, and memory sidecars.
+- Anthropic’s annualized revenue reached up to $65B in July (from $47B in May), with Q3 expected to be profitable; it reports 6,000 customers spending ≥$100K annually.
+- OpenAI’s annualized revenue surpassed $40B in the quarter, boosted by the July launch of GPT-5.6 after a slow start to the year.
+- Practitioners note that while models like Anthropic’s Fable are highly capable, their high cost has shifted focus toward optimizing code harnesses and context strategies; alternatives such as Opus, GPT-5.6, K3, and GLM are "good enough" for most use cases, prompting a re-evaluation of where to allocate work.
+- MartyPC, a cross-platform early-PC emulator written in Rust, was released, supporting vintage hardware configurations including MDA, Hercules, CGA, EGA, VGA, and memory sidecars.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
