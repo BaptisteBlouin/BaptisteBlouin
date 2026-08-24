@@ -76,12 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-23)
+#### 📰 Tech Brief — latest digest (2026-08-24)
 
-- Anthropic’s annualized revenue reached up to $65B in July (from $47B in May), with Q3 expected to be profitable; it reports 6,000 customers spending ≥$100K annually.
-- OpenAI’s annualized revenue surpassed $40B in the quarter, boosted by the July launch of GPT-5.6 after a slow start to the year.
-- Practitioners note that while models like Anthropic’s Fable are highly capable, their high cost has shifted focus toward optimizing code harnesses and context strategies; alternatives such as Opus, GPT-5.6, K3, and GLM are "good enough" for most use cases, prompting a re-evaluation of where to allocate work.
-- MartyPC, a cross-platform early-PC emulator written in Rust, was released, supporting vintage hardware configurations including MDA, Hercules, CGA, EGA, VGA, and memory sidecars.
+- Children still outperform LLMs in language learning efficiency, as models require orders of magnitude more data to achieve fluency, highlighting a core gap in how machines learn language.
+- TrueFoundry open-sources TrueForge, a self-hostable enterprise agent harness that reduces task costs by 30–75% via context compaction, lazy tool loading, subagents, and sandboxed execution, decoupling orchestration from model choice.
+- MCP’s updated roadmap prioritizes agentic messaging primitives, HTTP-native transport hardening, enterprise security/identity, and SDK improvements, with expedited reviews for aligned proposals.
+- Agent scaffolding (e.g., CLI vs. MCP) dominates cost efficiency: CLI-only scaffolds were 5x–28x cheaper, while interface choice alone weakly predicted performance.
+- Nvidia notifies customers of >15% price hikes for AI servers with Vera Rubin/Grace Blackwell chips and gaming GPUs, citing soaring memory costs, effective early next year.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
