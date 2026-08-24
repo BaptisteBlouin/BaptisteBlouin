@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-24)
 
-- Children still outperform LLMs in language learning efficiency, as models require orders of magnitude more data to achieve fluency, highlighting a core gap in how machines learn language.
-- TrueFoundry open-sources TrueForge, a self-hostable enterprise agent harness that reduces task costs by 30–75% via context compaction, lazy tool loading, subagents, and sandboxed execution, decoupling orchestration from model choice.
-- MCP’s updated roadmap prioritizes agentic messaging primitives, HTTP-native transport hardening, enterprise security/identity, and SDK improvements, with expedited reviews for aligned proposals.
-- Agent scaffolding (e.g., CLI vs. MCP) dominates cost efficiency: CLI-only scaffolds were 5x–28x cheaper, while interface choice alone weakly predicted performance.
-- Nvidia notifies customers of >15% price hikes for AI servers with Vera Rubin/Grace Blackwell chips and gaming GPUs, citing soaring memory costs, effective early next year.
+- Children outperform LLMs in language learning efficiency, requiring orders of magnitude less data to achieve fluency.
+- OpenAI releases GPT‑5.6 in Kiro for developers, emphasizing improved price-performance for planning, building, reviewing, and testing software.
+- OpenAI temporarily cuts GPT‑5.6 Sol API pricing by >20% for at least three months.
+- TrueFoundry open-sources TrueForge, a self-hostable enterprise agent harness reducing task costs by 30–75% via context compaction, lazy tool loading, subagents, and sandboxed execution.
+- MCP’s roadmap prioritizes agentic messaging primitives, HTTP-native transport hardening, enterprise security/identity, and SDK improvements.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
