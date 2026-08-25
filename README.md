@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-25)
 
-- OpenAI disrupts a Russia-origin covert influence campaign that used AI to promote a fake Israel-based think tank and a pro-Russia "sovereignty" index, banning the involved accounts.
-- Andrew Ng refocuses DeepLearning.ai on AI Engineering, identifying key skills (e.g., building/deploying AI apps) via analysis of 10,000+ job postings and expert interviews, emphasizing broad applicability beyond the "AI Engineer" title.
-- Hugging Face introduces a guide for building, running, and deploying AI workflows in Gradio, showcasing practical tooling for LLM applications.
-- Uber reveals a "software factory" for agentic coding, with >70% of PRs now AI-authored and productivity doubled; the platform uses MCP gateways to enable safe, scalable agent workflows across thousands of engineers.
-- Context engineering is framed as a state machine problem: every harness component shapes the model's context, controls input, or validates output, with the context window acting as the state machine.
+- OpenAI outlines how compounding advances across chips, compute, models, and products drive more useful, scalable, and cost‑effective intelligence.
+- OpenAI unveils Jalapeño, a custom inference chip delivering faster, more power‑efficient AI inference with higher throughput and lower latency.
+- Anthropic launches a $5M grant program to fund independent, open‑source evaluations of AI’s impact on user wellbeing, with model access and technical support for grantees.
+- Claude’s memory is now unified across chat and Cowork, letting users see, edit, or delete remembered context and carry it seamlessly between tasks.
+- GitHub Copilot’s new Customize tab centralizes MCP servers, plugins, skills, and canvases for team‑tailored workflows.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
