@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-24)
+#### 📰 Tech Brief — latest digest (2026-08-25)
 
-- Children outperform LLMs in language learning efficiency, requiring orders of magnitude less data to achieve fluency.
-- OpenAI releases GPT‑5.6 in Kiro for developers, emphasizing improved price-performance for planning, building, reviewing, and testing software.
-- OpenAI temporarily cuts GPT‑5.6 Sol API pricing by >20% for at least three months.
-- TrueFoundry open-sources TrueForge, a self-hostable enterprise agent harness reducing task costs by 30–75% via context compaction, lazy tool loading, subagents, and sandboxed execution.
-- MCP’s roadmap prioritizes agentic messaging primitives, HTTP-native transport hardening, enterprise security/identity, and SDK improvements.
+- OpenAI disrupts a Russia-origin covert influence campaign that used AI to promote a fake Israel-based think tank and a pro-Russia "sovereignty" index, banning the involved accounts.
+- Andrew Ng refocuses DeepLearning.ai on AI Engineering, identifying key skills (e.g., building/deploying AI apps) via analysis of 10,000+ job postings and expert interviews, emphasizing broad applicability beyond the "AI Engineer" title.
+- Hugging Face introduces a guide for building, running, and deploying AI workflows in Gradio, showcasing practical tooling for LLM applications.
+- Uber reveals a "software factory" for agentic coding, with >70% of PRs now AI-authored and productivity doubled; the platform uses MCP gateways to enable safe, scalable agent workflows across thousands of engineers.
+- Context engineering is framed as a state machine problem: every harness component shapes the model's context, controls input, or validates output, with the context window acting as the state machine.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
