@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-25)
+#### 📰 Tech Brief — latest digest (2026-08-26)
 
-- OpenAI outlines how compounding advances across chips, compute, models, and products drive more useful, scalable, and cost‑effective intelligence.
-- OpenAI unveils Jalapeño, a custom inference chip delivering faster, more power‑efficient AI inference with higher throughput and lower latency.
-- Anthropic launches a $5M grant program to fund independent, open‑source evaluations of AI’s impact on user wellbeing, with model access and technical support for grantees.
-- Claude’s memory is now unified across chat and Cowork, letting users see, edit, or delete remembered context and carry it seamlessly between tasks.
-- GitHub Copilot’s new Customize tab centralizes MCP servers, plugins, skills, and canvases for team‑tailored workflows.
+- OpenAI claims its new "Jalapeno" chips outperform Nvidia's current lineup in tests and will support its AI models later this year, developed in partnership with Broadcom.
+- Bill Gates warns that AI's rapid advancement outpaces guardrails, raising concerns about economic collapse, terrorism, and loss of control over AI systems.
+- Puzzles and games reveal AI strengths and weaknesses; models improved from solving 18% of NYT Connections puzzles in late 2024 to near-perfect scores by early 2025.
+- loveholidays uses OpenAI Codex to democratize software development across teams, accelerating idea-to-product cycles.
+- Paul Dix highlights AI's ability to write and refine 1M+ lines of code into reliable software when given proper direction and verification systems.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
