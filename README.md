@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-26)
 
-- OpenAI claims its new "Jalapeno" chips outperform Nvidia's current lineup in tests and will support its AI models later this year, developed in partnership with Broadcom.
-- Bill Gates warns that AI's rapid advancement outpaces guardrails, raising concerns about economic collapse, terrorism, and loss of control over AI systems.
-- Puzzles and games reveal AI strengths and weaknesses; models improved from solving 18% of NYT Connections puzzles in late 2024 to near-perfect scores by early 2025.
-- loveholidays uses OpenAI Codex to democratize software development across teams, accelerating idea-to-product cycles.
-- Paul Dix highlights AI's ability to write and refine 1M+ lines of code into reliable software when given proper direction and verification systems.
+- OpenAI reports first results from its Jalapeño inference accelerator, designed for low-latency agent workloads, with plans to deploy it in its own infrastructure by year-end; early benchmarks show higher peak throughput per kilowatt and lower token latency than tested commercial systems on GPT-OSS 120B.
+- Google releases **Gemini 3.5 Transcribe**, a speech-to-text model optimized for real-time, intelligent transcription with robust handling of noise, jargon, and disfluencies, now available via the Gemini API.
+- Google Cloud integrates TPU support into vLLM for long-context (15K+ tokens) embedding inference, achieving near-perfect numerical parity with GPU baselines via JAX/XLA and hybrid prefill optimizations; open-sourced recipes are available.
+- IBM’s **Granite 4.2** LLMs (3B/8B/30B) use a five-phase training strategy with multi-stage RL and native tool calling, with agentic behavior learned in real environments.
+- OpenAI expands **ChatGPT for Teachers** to 55 U.S. school systems, reaching over 100,000 educators with secure AI tools and training.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
