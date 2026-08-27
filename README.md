@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-26)
+#### 📰 Tech Brief — latest digest (2026-08-27)
 
-- OpenAI reports first results from its Jalapeño inference accelerator, designed for low-latency agent workloads, with plans to deploy it in its own infrastructure by year-end; early benchmarks show higher peak throughput per kilowatt and lower token latency than tested commercial systems on GPT-OSS 120B.
-- Google releases **Gemini 3.5 Transcribe**, a speech-to-text model optimized for real-time, intelligent transcription with robust handling of noise, jargon, and disfluencies, now available via the Gemini API.
-- Google Cloud integrates TPU support into vLLM for long-context (15K+ tokens) embedding inference, achieving near-perfect numerical parity with GPU baselines via JAX/XLA and hybrid prefill optimizations; open-sourced recipes are available.
-- IBM’s **Granite 4.2** LLMs (3B/8B/30B) use a five-phase training strategy with multi-stage RL and native tool calling, with agentic behavior learned in real environments.
-- OpenAI expands **ChatGPT for Teachers** to 55 U.S. school systems, reaching over 100,000 educators with secure AI tools and training.
+- NVIDIA is in advanced talks to acquire Hugging Face for ~$13B, roughly 80x its $150M ARR, following a doubled customer base in 2026.
+- Z.ai reveals it is the lab behind the "Ox Alpha" model, now confirmed as GLM-5.3-Flash, a reasoning model for coding and agentic workloads, with open-sourced weights.
+- Qwen releases Qwen3.8-Flash-Next, a 125B-token multimodal MoE with 6B active parameters, previewing Qwen4’s architecture and showing strong reasoning in early tests.
+- OpenAI unveils its custom inference chip "Jalapeño" at Hot Chips, claiming performance-per-watt advantages over Blackwell and signaling a shift in the inference stack.
+- LinkedIn details a cognitive memory agent for hiring personalization using four memory layers (conversational, episodic, semantic, procedural), replacing GraphRAG with a hierarchical tree for cheaper, traceable updates.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
