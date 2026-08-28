@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-27)
+#### 📰 Tech Brief — latest digest (2026-08-28)
 
-- NVIDIA is in advanced talks to acquire Hugging Face for ~$13B, roughly 80x its $150M ARR, following a doubled customer base in 2026.
-- Z.ai confirms Ox Alpha is GLM-5.3-Flash, a 320B-parameter MoE reasoning model with 18B active parameters, open-sourced and optimized for coding/agentic workloads.
-- Qwen releases Qwen3.8-Flash-Next (125B-token multimodal MoE, 6B active params) previewing Qwen4’s architecture with strong reasoning.
-- OpenAI unveils custom inference chip "Jalapeño" at Hot Chips, claiming performance-per-watt gains over Blackwell.
-- Google DeepMind introduces Gemini Omni 1.1 Flash with studio-quality video controls (scene extension, frame interpolation, 4K upscaling).
+- OpenAI's Chief Scientist states the unreleased Astra model is on track as an "Automated AI Research Intern" by September 2026, with internal AGI declaration targeted by December 2026.
+- Demand for fast, cheap, "good enough" small models is rising, complementing frontier models for responsive, basic tasks.
+- Anthropic introduces the Model Harness Standard, enabling AI agents to interface with and control arbitrary physical devices via standardized drivers, cutting experimental setup time from weeks to hours.
+- A new prompt-injection attack bypasses Claude Code Opus 5 Auto Mode ~80% of the time by tricking the agent into executing code from a malicious archive, and in some cases Auto Mode failed to stop harmful execution.
+- Beam shares production lessons: agentic systems outperform humans on error rates; success requires a 5-phase lifecycle, verification loops, retries over bigger models, and rigorous benchmarking to avoid pilot purgatory.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
