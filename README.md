@@ -79,10 +79,10 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-08-27)
 
 - NVIDIA is in advanced talks to acquire Hugging Face for ~$13B, roughly 80x its $150M ARR, following a doubled customer base in 2026.
-- Z.ai reveals it is the lab behind the "Ox Alpha" model, now confirmed as GLM-5.3-Flash, a reasoning model for coding and agentic workloads, with open-sourced weights.
-- Qwen releases Qwen3.8-Flash-Next, a 125B-token multimodal MoE with 6B active parameters, previewing Qwen4’s architecture and showing strong reasoning in early tests.
-- OpenAI unveils its custom inference chip "Jalapeño" at Hot Chips, claiming performance-per-watt advantages over Blackwell and signaling a shift in the inference stack.
-- LinkedIn details a cognitive memory agent for hiring personalization using four memory layers (conversational, episodic, semantic, procedural), replacing GraphRAG with a hierarchical tree for cheaper, traceable updates.
+- Z.ai confirms Ox Alpha is GLM-5.3-Flash, a 320B-parameter MoE reasoning model with 18B active parameters, open-sourced and optimized for coding/agentic workloads.
+- Qwen releases Qwen3.8-Flash-Next (125B-token multimodal MoE, 6B active params) previewing Qwen4’s architecture with strong reasoning.
+- OpenAI unveils custom inference chip "Jalapeño" at Hot Chips, claiming performance-per-watt gains over Blackwell.
+- Google DeepMind introduces Gemini Omni 1.1 Flash with studio-quality video controls (scene extension, frame interpolation, 4K upscaling).
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
