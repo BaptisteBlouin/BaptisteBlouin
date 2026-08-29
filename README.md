@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-28)
+#### 📰 Tech Brief — latest digest (2026-08-29)
 
-- OpenAI's unreleased Astra model is on track as an "Automated AI Research Intern" by September 2026, with internal AGI declaration targeted by December 2026.
-- Demand for fast, cheap, "good enough" small models is rising, complementing frontier models for responsive, basic tasks.
-- OpenAI introduced large discounts on some models (e.g., GPT 5.6), leading to a 13.8x surge in Luna token usage and 5.6x in Terra, with nearly a third of users continuing after discounts expired.
-- Google released Gemini Omni 1.1 Flash with new controls for extending scenes, frame interpolation, 4K upscaling, and faster video iteration via the Gemini API.
-- Halo Neuro open-sourced Sopro V2 Turbo, a 120M-parameter multilingual voice-cloning model that streams on laptop CPUs and in browsers.
+- OpenAI terminates Cursor's access to its models, citing a history of contract violations by Elon Musk's companies; the move follows SpaceX's acquisition of Cursor and escalates tensions between the organizations.
+- GPT-5.6 is now a competitive coding alternative to Claude 5, shifting the landscape for AI-powered coding assistants.
+- Security exploits are increasingly being discovered within minutes of bug discussions, as automated agents (e.g., DeepSeek V4 Pro) rapidly identify and probe vulnerabilities in public repositories.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
