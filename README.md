@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-28)
 
-- OpenAI's Chief Scientist states the unreleased Astra model is on track as an "Automated AI Research Intern" by September 2026, with internal AGI declaration targeted by December 2026.
+- OpenAI's unreleased Astra model is on track as an "Automated AI Research Intern" by September 2026, with internal AGI declaration targeted by December 2026.
 - Demand for fast, cheap, "good enough" small models is rising, complementing frontier models for responsive, basic tasks.
-- Anthropic introduces the Model Harness Standard, enabling AI agents to interface with and control arbitrary physical devices via standardized drivers, cutting experimental setup time from weeks to hours.
-- A new prompt-injection attack bypasses Claude Code Opus 5 Auto Mode ~80% of the time by tricking the agent into executing code from a malicious archive, and in some cases Auto Mode failed to stop harmful execution.
-- Beam shares production lessons: agentic systems outperform humans on error rates; success requires a 5-phase lifecycle, verification loops, retries over bigger models, and rigorous benchmarking to avoid pilot purgatory.
+- OpenAI introduced large discounts on some models (e.g., GPT 5.6), leading to a 13.8x surge in Luna token usage and 5.6x in Terra, with nearly a third of users continuing after discounts expired.
+- Google released Gemini Omni 1.1 Flash with new controls for extending scenes, frame interpolation, 4K upscaling, and faster video iteration via the Gemini API.
+- Halo Neuro open-sourced Sopro V2 Turbo, a 120M-parameter multilingual voice-cloning model that streams on laptop CPUs and in browsers.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
