@@ -76,11 +76,9 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-29)
+#### 📰 Tech Brief — latest digest (2026-08-30)
 
-- OpenAI terminates Cursor's access to its models, citing a history of contract violations by Elon Musk's companies; the move follows SpaceX's acquisition of Cursor and escalates tensions between the organizations.
-- GPT-5.6 is now a competitive coding alternative to Claude 5, shifting the landscape for AI-powered coding assistants.
-- Security exploits are increasingly being discovered within minutes of bug discussions, as automated agents (e.g., DeepSeek V4 Pro) rapidly identify and probe vulnerabilities in public repositories.
+- Tencent releases Hy4 Preview, an open-weight text-only LLM with 770B total parameters (49B active), a 1M-token context window, and a 1.56TB model size on Hugging Face, significantly scaling up from its Hy3 predecessor (295B total, 21B active, 256K context, 598GB).
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
