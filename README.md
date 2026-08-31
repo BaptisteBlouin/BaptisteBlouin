@@ -76,9 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-30)
+#### 📰 Tech Brief — latest digest (2026-08-31)
 
-- Tencent releases Hy4 Preview, an open-weight text-only LLM with 770B total parameters (49B active), a 1M-token context window, and a 1.56TB model size on Hugging Face, significantly scaling up from its Hy3 predecessor (295B total, 21B active, 256K context, 598GB).
+- OpenAI is internally testing GPT-6 "Astra," with early outputs suggesting a significant capability leap over recent releases and a potential public launch within weeks.
+- OpenAI clarifies ChatGPT Work as two distinct products: Work Cloud (web/mobile) and Work Local (desktop app with local file/program access), addressing confusion around the offering.
+- OpenAI will terminate model access to Cursor following its acquisition by SpaceX, citing uncertainty over compliance with terms of service; the cutoff is set for November 12.
+- GitHub introduces Agentic Workflows, enabling AI-powered repository automation with event-triggered jobs and guardrails, supporting engines like GitHub Copilot, Claude Code, Google Gemini, and OpenAI Codex.
+- Pinterest scales home-feed candidate generation using conditional learned retrieval, embedding contexts like user interests and boards, while optimizing serving costs via GPU inference, deduplication, and unified models.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
