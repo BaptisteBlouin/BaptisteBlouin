@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-08-31)
+#### 📰 Tech Brief — latest digest (2026-09-01)
 
-- OpenAI is internally testing GPT-6 "Astra," with early outputs indicating a major capability jump and a potential public launch within weeks.
-- ChatGPT Ads reaches $1B annualized revenue run rate, funding broader free and affordable AI access.
-- OpenAI clarifies ChatGPT Work as two products: Work Cloud (web/mobile) and Work Local (desktop app with local file/program access).
-- OpenAI will terminate Cursor’s model access on Nov 12 following its SpaceX acquisition, citing ToS compliance uncertainty.
-- Anthropic reports automated researchers can mitigate alignment failures in other models with minimal human involvement, previewing self-improving AI workflows.
+- Fal’s H3 Max Live achieves real-time, infinite AI video generation by post-training Minimax’s H3 and optimizing it for their inference engine, enabling 35x speedup and interactive live streams where user prompts dynamically shape the output.
+- Anthropic signs a $35B cloud deal with Nvidia-backed Lambda, with Nvidia holding the data center lease, signaling major infrastructure commitments for frontier model deployment.
+- Google expands AI Overviews to dominate the full search results page for some queries, pushing AI responses to the forefront of user experience.
+- OpenClaw 2.0 releases with over 16,000 merged PRs, reflecting rapid open-source development in agentic tooling and workflow automation.
+- **Wrapture** is introduced by Graham Dumpleton as a monkeypatching-inspired library for tracing and testing, offering an alternative to `unittest.mock` and enabling non-intrusive observation of third-party code.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
