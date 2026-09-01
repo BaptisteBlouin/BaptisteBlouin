@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-08-31)
 
-- OpenAI is internally testing GPT-6 "Astra," with early outputs suggesting a significant capability leap over recent releases and a potential public launch within weeks.
-- OpenAI clarifies ChatGPT Work as two distinct products: Work Cloud (web/mobile) and Work Local (desktop app with local file/program access), addressing confusion around the offering.
-- OpenAI will terminate model access to Cursor following its acquisition by SpaceX, citing uncertainty over compliance with terms of service; the cutoff is set for November 12.
-- GitHub introduces Agentic Workflows, enabling AI-powered repository automation with event-triggered jobs and guardrails, supporting engines like GitHub Copilot, Claude Code, Google Gemini, and OpenAI Codex.
-- Pinterest scales home-feed candidate generation using conditional learned retrieval, embedding contexts like user interests and boards, while optimizing serving costs via GPU inference, deduplication, and unified models.
+- OpenAI is internally testing GPT-6 "Astra," with early outputs indicating a major capability jump and a potential public launch within weeks.
+- ChatGPT Ads reaches $1B annualized revenue run rate, funding broader free and affordable AI access.
+- OpenAI clarifies ChatGPT Work as two products: Work Cloud (web/mobile) and Work Local (desktop app with local file/program access).
+- OpenAI will terminate Cursor’s model access on Nov 12 following its SpaceX acquisition, citing ToS compliance uncertainty.
+- Anthropic reports automated researchers can mitigate alignment failures in other models with minimal human involvement, previewing self-improving AI workflows.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
