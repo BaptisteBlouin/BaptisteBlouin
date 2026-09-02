@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-01)
+#### 📰 Tech Brief — latest digest (2026-09-02)
 
-- Fal’s H3 Max Live achieves real-time, infinite AI video generation via post-training Minimax’s H3 and inference engine optimizations, enabling 35x speedup and interactive live streams where user prompts dynamically shape output.
-- Google launches agentic video understanding for Gemini 3.7/3.6/3.5 Flash models, dynamically scanning video segments to cut token usage by up to 88% and costs by up to 66% while improving accuracy.
-- Runway introduces Solaris, an Interface World Model that generates real-time interactive interfaces frame-by-frame, jointly handling rendering and user interactions without intermediate representations.
-- OpenAI’s Astra is the first model to meet the Critical cybersecurity capability threshold under its Preparedness Framework, with stronger safeguards for release.
-- Google’s TimesFM-3 is a 330M-parameter zero-shot time-series foundation model pretrained on >1T time points, supporting multivariate forecasting without task-specific fine-tuning.
+- Anthropic releases **Claude Fable 5.1** and **Mythos 5.1**, with Fable 5.1 GA and Mythos 5.1 in restricted access; Fable cache reads drop **75% in price**, though output token usage rises ~70%, leading to a net **~20% per-task cost increase** for long sessions. Fable 5.1 sets new SOTA on coding/knowledge benchmarks and scores **52.6% on Terminal-Bench-Science 0.1** (vs. 24.7% for Fable 5).
+- Google prepares a new **Flash model** (smaller, cheaper, faster) that internal testers prefer over Anthropic’s Opus for coding, narrowing the gap; Pro series update is delayed due to insufficient gains over Flash.
+- Google introduces **agentic video understanding with Gemini**, cutting token use by **up to 88%**, costs by **up to 66%**, and improving quality by **up to 7%**.
+- **Agentic testing** emerges: developers set goals, agents autonomously iterate (look → act → look), with Meta reporting only ~25% of outputs retained but the loop still effective due to automatic discard of failures.
+- **Android Studio Quail 4** integrates **Gemma 4** and supports **23 curated skills** plus custom skills to extend Agent Mode for specialized workflows.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
