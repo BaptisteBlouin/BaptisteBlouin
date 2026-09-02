@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-09-01)
 
-- Fal’s H3 Max Live achieves real-time, infinite AI video generation by post-training Minimax’s H3 and optimizing it for their inference engine, enabling 35x speedup and interactive live streams where user prompts dynamically shape the output.
-- Anthropic signs a $35B cloud deal with Nvidia-backed Lambda, with Nvidia holding the data center lease, signaling major infrastructure commitments for frontier model deployment.
-- Google expands AI Overviews to dominate the full search results page for some queries, pushing AI responses to the forefront of user experience.
-- OpenClaw 2.0 releases with over 16,000 merged PRs, reflecting rapid open-source development in agentic tooling and workflow automation.
-- **Wrapture** is introduced by Graham Dumpleton as a monkeypatching-inspired library for tracing and testing, offering an alternative to `unittest.mock` and enabling non-intrusive observation of third-party code.
+- Fal’s H3 Max Live achieves real-time, infinite AI video generation via post-training Minimax’s H3 and inference engine optimizations, enabling 35x speedup and interactive live streams where user prompts dynamically shape output.
+- Google launches agentic video understanding for Gemini 3.7/3.6/3.5 Flash models, dynamically scanning video segments to cut token usage by up to 88% and costs by up to 66% while improving accuracy.
+- Runway introduces Solaris, an Interface World Model that generates real-time interactive interfaces frame-by-frame, jointly handling rendering and user interactions without intermediate representations.
+- OpenAI’s Astra is the first model to meet the Critical cybersecurity capability threshold under its Preparedness Framework, with stronger safeguards for release.
+- Google’s TimesFM-3 is a 330M-parameter zero-shot time-series foundation model pretrained on >1T time points, supporting multivariate forecasting without task-specific fine-tuning.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
