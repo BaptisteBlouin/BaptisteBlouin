@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-02)
+#### 📰 Tech Brief — latest digest (2026-09-03)
 
-- Anthropic releases **Claude Fable 5.1** (GA) and **Mythos 5.1** (restricted), with Fable 5.1 cache reads **75% cheaper** but output token usage up ~70%, netting **~20% per-task cost increase** for long sessions; Fable 5.1 sets new SOTA on coding/knowledge and scores **52.6% on Terminal-Bench-Science 0.1** (vs. 24.7% for Fable 5).
-- Google launches **Gemini 3.8 Flash** and **3.8 Flash Cyber** (trusted defenders only), with 3.8 Flash priced at **$0.75/M input and $3.75/M output tokens** and delivering major gains in software engineering, agentic tasks, and multi-step reasoning.
-- Google’s **agentic video understanding with Gemini** reduces tokens by **up to 88%**, costs by **up to 66%**, and improves quality by **up to 7%**.
-- Google readies a new **Flash model** (smaller, cheaper, faster) that internal testers prefer over Anthropic’s Opus for coding; Pro series update is delayed due to insufficient gains over Flash.
-- **Atlas** is a new world model for spatial intelligence, pretrained from scratch on text, images, video, and 3D to generate, reconstruct, and simulate worlds, with performance scaling with compute.
+- Meta releases Muse Spark 1.3, matching GPT-5.6-Sol and ranking #3 globally per AAII; it offers >90% training-cost discounts for opt-in data use, with open weights promised for Spark 1.2 and under consideration for 1.3.
+- Google launches Gemini 3.8 Flash in two variants: a general agentic/software model and a Cyber variant tuned for vulnerability detection (limited to trusted testers); introductory pricing is $0.75/$3.75 per M input/output tokens through year-end.
+- Google’s AI Agents Challenge highlights winning patterns: bidirectional MCP for inter-agent comms, async event buses, unified validation for fallbacks, and tiered routing to cut inference costs.
+- Databricks traces silent MCP tool failures causing $499k in wasted tokens and $1.2M annual productivity loss; fixes took ~1 hour, underscoring the need for tool-call tracing and LLM-tolerant input handling.
+- FrontierHarness Eval shows coding-agent harnesses with similar pass rates can vary up to 17x in cost; Codex leads at 66.7% pass rate with moderate cost, while Exo is cheapest and DSH Minimal fastest.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
