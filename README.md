@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-09-02)
 
-- Anthropic releases **Claude Fable 5.1** and **Mythos 5.1**, with Fable 5.1 GA and Mythos 5.1 in restricted access; Fable cache reads drop **75% in price**, though output token usage rises ~70%, leading to a net **~20% per-task cost increase** for long sessions. Fable 5.1 sets new SOTA on coding/knowledge benchmarks and scores **52.6% on Terminal-Bench-Science 0.1** (vs. 24.7% for Fable 5).
-- Google prepares a new **Flash model** (smaller, cheaper, faster) that internal testers prefer over Anthropic’s Opus for coding, narrowing the gap; Pro series update is delayed due to insufficient gains over Flash.
-- Google introduces **agentic video understanding with Gemini**, cutting token use by **up to 88%**, costs by **up to 66%**, and improving quality by **up to 7%**.
-- **Agentic testing** emerges: developers set goals, agents autonomously iterate (look → act → look), with Meta reporting only ~25% of outputs retained but the loop still effective due to automatic discard of failures.
-- **Android Studio Quail 4** integrates **Gemma 4** and supports **23 curated skills** plus custom skills to extend Agent Mode for specialized workflows.
+- Anthropic releases **Claude Fable 5.1** (GA) and **Mythos 5.1** (restricted), with Fable 5.1 cache reads **75% cheaper** but output token usage up ~70%, netting **~20% per-task cost increase** for long sessions; Fable 5.1 sets new SOTA on coding/knowledge and scores **52.6% on Terminal-Bench-Science 0.1** (vs. 24.7% for Fable 5).
+- Google launches **Gemini 3.8 Flash** and **3.8 Flash Cyber** (trusted defenders only), with 3.8 Flash priced at **$0.75/M input and $3.75/M output tokens** and delivering major gains in software engineering, agentic tasks, and multi-step reasoning.
+- Google’s **agentic video understanding with Gemini** reduces tokens by **up to 88%**, costs by **up to 66%**, and improves quality by **up to 7%**.
+- Google readies a new **Flash model** (smaller, cheaper, faster) that internal testers prefer over Anthropic’s Opus for coding; Pro series update is delayed due to insufficient gains over Flash.
+- **Atlas** is a new world model for spatial intelligence, pretrained from scratch on text, images, video, and 3D to generate, reconstruct, and simulate worlds, with performance scaling with compute.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
