@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-09-03)
 
-- Meta releases Muse Spark 1.3, matching GPT-5.6-Sol and ranking #3 globally per AAII; it offers >90% training-cost discounts for opt-in data use, with open weights promised for Spark 1.2 and under consideration for 1.3.
-- Google launches Gemini 3.8 Flash in two variants: a general agentic/software model and a Cyber variant tuned for vulnerability detection (limited to trusted testers); introductory pricing is $0.75/$3.75 per M input/output tokens through year-end.
-- Google’s AI Agents Challenge highlights winning patterns: bidirectional MCP for inter-agent comms, async event buses, unified validation for fallbacks, and tiered routing to cut inference costs.
-- Databricks traces silent MCP tool failures causing $499k in wasted tokens and $1.2M annual productivity loss; fixes took ~1 hour, underscoring the need for tool-call tracing and LLM-tolerant input handling.
-- FrontierHarness Eval shows coding-agent harnesses with similar pass rates can vary up to 17x in cost; Codex leads at 66.7% pass rate with moderate cost, while Exo is cheapest and DSH Minimal fastest.
+- OpenAI launches GPT-6 Astra, a looped transformer model priced at $10/$50 per M input/output tokens; it saturates FrontierMath (97.6%) and ARC-AGI-3 (99.9%), and is classified as Critical for cybersecurity capability under OpenAI’s Preparedness Framework.
+- Meta releases Muse Spark 1.3, matching GPT-5.6-Sol and ranking #3 globally per AAII; it offers >90% training-cost discounts for opt-in data use, with open weights promised for Spark 1.2 and under consideration for 1.3; it also uses ~20% fewer tool calls and 25% fewer tokens than 1.2 in internal coding tests.
+- Google launches Gemini 3.8 Flash in general and Cyber variants, with introductory pricing at $0.75/$3.75 per M input/output tokens through year-end; the Cyber variant is tuned for vulnerability detection and is available via restricted defender programs.
+- Google DeepMind introduces WeatherNext 3, an AI weather model with real-time satellite data, hourly refreshes, higher resolution, and clean energy variables, integrated across Search, Maps, and Cloud.
+- OpenAI commits $1B to Daybreak for Frontline Defenders, expanding access to frontier cyber AI, training, and support for essential services.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
