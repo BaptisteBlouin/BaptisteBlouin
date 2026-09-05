@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-09-04)
 
-- **OpenAI’s GPT-6 Astra** dominates as OpenAI’s most successful launch since Sora, surpassing Anthropic’s Fable/Opus in hype and engagement (36M+ views, 164K+ likes). Positioned as a potential AGI milestone, Astra rolls out to enterprise via **Daybreak**, then to ChatGPT Plus/Pro, API, and cloud platforms (AWS Bedrock, Azure).
-- **LLMs as commodities**: Model quality differentiation erodes as open-source catches up. Providers must niche down (e.g., verticals, cost/latency optimizations) to stand out.
-- **Google’s AI Agents Challenge** highlights **4 engineering patterns** for resilient agentic systems:
-- **Bidirectional MCP** (multi-agent communication)
-- **Async event buses** (parallel execution)
+- OpenAI’s **GPT-6 Astra** is now GA in GitHub Copilot, excelling at long-horizon coding/agentic tasks with planning, validation, and self-verification; priced at $10M input/$50M output tokens.
+- Astra scores **62.7% on ARC-AGI-3** (99.9% with a provider adapter) and **72.6% on OSWorld 2.0**, with recurrent depth raising monitoring concerns.
+- **Microsoft’s MAI-Transcribe-2** outperforms competitors on speed/accuracy/cost (10¢/hour, 60 languages).
+- **LLM commoditization** accelerates as open-source narrows quality gaps, forcing providers to specialize (verticals, cost/latency).
+- **GitHub Copilot** adds **GPT-6 Astra, Claude Fable 5.1, and Gemini 3.8 Flash** for Pro+/Enterprise; introduces **Agent Merge** (PR auto-resolution) and **content exclusions** for agent workflows.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
