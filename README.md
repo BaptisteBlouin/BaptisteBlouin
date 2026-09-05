@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-04)
+#### 📰 Tech Brief — latest digest (2026-09-05)
 
-- OpenAI’s **GPT-6 Astra** is now GA in GitHub Copilot, excelling at long-horizon coding/agentic tasks with planning, validation, and self-verification; priced at $10M input/$50M output tokens.
-- Astra scores **62.7% on ARC-AGI-3** (99.9% with a provider adapter) and **72.6% on OSWorld 2.0**, with recurrent depth raising monitoring concerns.
-- **Microsoft’s MAI-Transcribe-2** outperforms competitors on speed/accuracy/cost (10¢/hour, 60 languages).
-- **LLM commoditization** accelerates as open-source narrows quality gaps, forcing providers to specialize (verticals, cost/latency).
-- **GitHub Copilot** adds **GPT-6 Astra, Claude Fable 5.1, and Gemini 3.8 Flash** for Pro+/Enterprise; introduces **Agent Merge** (PR auto-resolution) and **content exclusions** for agent workflows.
+- Early hands-on with GPT-6 Astra shows practical comparisons against GPT-5.6 variants (Sol, Terra, Luna), with a visual grid illustrating output quality, token usage, and pricing across reasoning levels.
+- Winning multi-agent systems from Google’s AI Agents Challenge emphasize robust software engineering: bidirectional MCP for inter-agent communication, async event buses for parallelism, unified validation for model fallbacks, and tiered routing to cut inference costs and latency.
+- Google’s DevEx program refines enterprise AI governance workflows, improving Agent Gateway and Semantic Governance setups via updated docs, standardized code samples, and clearer policy enforcement.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
