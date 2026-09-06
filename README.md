@@ -76,13 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-05)
+#### 📰 Tech Brief — latest digest (2026-09-06)
 
-- Early hands-on with GPT-6 Astra shows practical comparisons against GPT-5.6 variants (Sol, Terra, Luna), with a visual grid illustrating output quality, token usage, and pricing across reasoning levels.
-- Winning multi-agent systems from Google’s AI Agents Challenge emphasize robust software engineering: bidirectional MCP for inter-agent communication, async event buses for parallelism, unified validation for model fallbacks, and tiered routing to cut inference costs and latency.
-- Google’s DevEx program refines enterprise AI governance workflows, improving Agent Gateway and Semantic Governance setups via updated docs, standardized code samples, and clearer policy enforcement.
-- Grok Bot simplifies agent configuration to a few clicks and a browser login, enabling rapid setup for workflows like personalized news briefs or Freshdesk support ticket monitoring without manual code, MCP server JSON, or API credential pasting.
-- Coding agents on macOS can now leverage Blender via its Python API, allowing iterative scene generation and refinement (e.g., rendering a pelican riding a bicycle and enhancing it with backgrounds and flair) through natural language prompts.
+- Winning multi-agent systems in Google’s AI Agents Challenge emphasize software engineering over raw model power: bidirectional MCP for inter-agent communication, async event buses for parallelism, unified validation for fallbacks, and tiered routing to cut inference costs and latency.
+- Google’s DevEx program refines enterprise AI governance via sprint testing, improving Agent Gateway and Semantic Governance setup, extension security, and policy enforcement with updated docs and code samples.
+- GPT-6 Astra is introduced for developers, showcasing stronger prompt understanding, attention to detail, and advanced 3D modeling capabilities, including renderings of animals and complex scenes.
+- Zach Kehs argues that unlike physical structures, software can always degrade further—new layers of indirection or performance regressions have no theoretical limit, highlighting the risks of unbounded technical debt.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
