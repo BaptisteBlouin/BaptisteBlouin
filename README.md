@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-06)
+#### 📰 Tech Brief — latest digest (2026-09-07)
 
-- Winning multi-agent systems in Google’s AI Agents Challenge prioritize software engineering patterns over raw model power: bidirectional MCP for inter-agent communication, async event buses for parallelism, unified validation for fallbacks, and tiered routing to reduce inference costs and latency.
-- Google’s DevEx program advances enterprise AI governance via sprint testing, improving Agent Gateway and Semantic Governance setup, extension security, and policy enforcement with updated docs and code samples.
-- OpenAI reports that internal coding agents are accelerating AI research by increasing experiment velocity and handling more complex tasks.
-- OpenAI’s Jakub Pachocki highlights the growing alignment challenge with increasingly capable AI and calls for stronger safeguards and international coordination.
-- GPT-6 Astra is introduced for developers, with stronger prompt understanding, attention to detail, and advanced 3D modeling capabilities, including renderings of animals and complex scenes.
+- OpenAI publishes details on its progress toward Recursive Self-Improvement (RSI), framing it as a step toward AGI and advocating for public transparency and governance of highly capable systems.
+- OpenAI also launches an AI program with AIRPPU and WAN-IFRA to support Ukrainian news organizations in strengthening innovation and independent journalism.
+- Google’s AI Agents Challenge highlights that top multi-agent systems rely on software engineering patterns: bidirectional MCP for inter-agent communication, async event buses for parallel execution, unified validation for fallbacks, and tiered routing to reduce inference costs.
+- Spotify’s Portal routes bulk I/O (e.g., reading files) to lightweight, declarative modes using cheaper models (Gemini 2.5 Flash), cutting Claude Code token usage by 90% and reserving frontier models for complex reasoning.
+- Governed agentic analytics should avoid free-form SQL against inconsistent metadata; instead, use verified semantic layers, parameterized calls, and explicit refusal paths, reserving open-ended SQL for human inspection.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
