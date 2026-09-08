@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-09-07)
 
-- OpenAI publishes details on its progress toward Recursive Self-Improvement (RSI), framing it as a step toward AGI and advocating for public transparency and governance of highly capable systems.
-- OpenAI also launches an AI program with AIRPPU and WAN-IFRA to support Ukrainian news organizations in strengthening innovation and independent journalism.
-- Google’s AI Agents Challenge highlights that top multi-agent systems rely on software engineering patterns: bidirectional MCP for inter-agent communication, async event buses for parallel execution, unified validation for fallbacks, and tiered routing to reduce inference costs.
-- Spotify’s Portal routes bulk I/O (e.g., reading files) to lightweight, declarative modes using cheaper models (Gemini 2.5 Flash), cutting Claude Code token usage by 90% and reserving frontier models for complex reasoning.
-- Governed agentic analytics should avoid free-form SQL against inconsistent metadata; instead, use verified semantic layers, parameterized calls, and explicit refusal paths, reserving open-ended SQL for human inspection.
+- OpenAI publishes progress on Recursive Self-Improvement (RSI) as a step toward AGI, advocating public transparency and governance for highly capable systems.
+- An OpenAI researcher warns that rapidly advancing reasoning models could contribute to their own development, creating alignment and cybersecurity risks.
+- OpenAI’s AGI claim for a 99.9% ARC-AGI-3 score stemmed from custom harness/agent scaffolding; the same model scored 62.7% through the benchmark’s own software.
+- Claude (Anthropic) produced the first complete computer-verified proof of Fermat’s Last Theorem in Lean, automating a complex manual proof with 13M lines and 29.5k intermediate theorems.
+- GPT-6 Astra scored 100% on ExploitBench (vs 78.5% for GPT-5.6 Sol), with OpenAI blocking PoC exploit requests and planning restricted Daybreak access for defenders.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
