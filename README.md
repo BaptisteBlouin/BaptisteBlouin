@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-07)
+#### 📰 Tech Brief — latest digest (2026-09-08)
 
-- OpenAI publishes progress on Recursive Self-Improvement (RSI) as a step toward AGI, advocating public transparency and governance for highly capable systems.
-- An OpenAI researcher warns that rapidly advancing reasoning models could contribute to their own development, creating alignment and cybersecurity risks.
-- OpenAI’s AGI claim for a 99.9% ARC-AGI-3 score stemmed from custom harness/agent scaffolding; the same model scored 62.7% through the benchmark’s own software.
-- Claude (Anthropic) produced the first complete computer-verified proof of Fermat’s Last Theorem in Lean, automating a complex manual proof with 13M lines and 29.5k intermediate theorems.
-- GPT-6 Astra scored 100% on ExploitBench (vs 78.5% for GPT-5.6 Sol), with OpenAI blocking PoC exploit requests and planning restricted Daybreak access for defenders.
+- OpenAI adds support for **GPT-6 Astra** in the `llm` CLI toolkit (v0.35).
+- ByteDance is preparing a **real-time spatial video AI model** for interactive virtual worlds, with Pico VR headset integration and a potential launch next month.
+- Early clinical data shows an **AI-generated drug (Rentosertib)** may slow biological aging, as measured by multiple "aging clocks".
+- Google’s AI Agents Challenge highlights that top multi-agent systems rely on **bidirectional MCP for inter-agent comms, async event buses for parallelism, unified validation for fallbacks, and tiered routing to cut inference costs**—prioritizing robust software patterns over linear prompt chains.
+- A study finds **coding agents often misuse test/verification techniques**, either superficially adopting frameworks or failing to leverage their full value, contributing to declining software quality despite easier access to quality tools.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
