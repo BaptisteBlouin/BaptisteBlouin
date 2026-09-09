@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-08)
+#### 📰 Tech Brief — latest digest (2026-09-09)
 
-- OpenAI adds support for **GPT-6 Astra** in the `llm` CLI toolkit (v0.35).
-- OpenAI positions **GPT‑6 Astra** as the world’s most intelligent and aligned model, state-of-the-art in computer use, browsing, software engineering, cybersecurity, science, and professional work.
-- OpenAI reports an internal system produced a **formalized solution to the Navier–Stokes Millennium Prize Problem**, showing finite-time singularity formation, with a Lean proof published.
-- **GPT‑5.6 Sol** is used at MIT to connect to lab software and streamline quantum computing experiments, freeing researchers to focus on design and analysis.
-- **ChatGPT Images 2.5** delivers sharper details, faster generation (up to 50 % latency reduction), more precise multi-turn editing, and better reference preservation.
+- OpenAI reports solving the Navier–Stokes existence and smoothness Millennium Prize Problem in 88 hours using an unreleased model (Astra-next), ~10,000 agents, and 130B tokens, at a cost exceeding $40M; the result is under scrutiny amid disputes over credit and inspiration from prior work by NYU’s Tristan Buckmaster and Anthropic’s Levent Alpöge.
+- OpenAI releases ChatGPT Images 2.5, with sharper detail, up to 50% lower latency, improved multi-turn instruction following, and new API models `gpt-image-2.5-sunburst` (precision) and `gpt-image-2.5-flare` (speed); a new Sketch feature enables in-app drawing as reference.
+- Google DeepMind publishes the AlphaGenome Atlas, a repository of precomputed predictions for 9B DNA variants with impact scores to accelerate biology and disease research.
+- OpenAI’s Codex/GPT-5.6 Sol is used to help run quantum computing experiments.
+- Meta launches Muse, a consumer-facing AI agent that autonomously uses apps/websites (e.g., Gmail, Spotify, Shopify) to send emails, book travel, and make purchases via Meta’s app or WhatsApp; free tier with paid upgrades ($20–$100/month).
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
