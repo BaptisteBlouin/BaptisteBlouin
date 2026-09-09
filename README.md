@@ -79,10 +79,10 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-09-08)
 
 - OpenAI adds support for **GPT-6 Astra** in the `llm` CLI toolkit (v0.35).
-- ByteDance is preparing a **real-time spatial video AI model** for interactive virtual worlds, with Pico VR headset integration and a potential launch next month.
-- Early clinical data shows an **AI-generated drug (Rentosertib)** may slow biological aging, as measured by multiple "aging clocks".
-- Google’s AI Agents Challenge highlights that top multi-agent systems rely on **bidirectional MCP for inter-agent comms, async event buses for parallelism, unified validation for fallbacks, and tiered routing to cut inference costs**—prioritizing robust software patterns over linear prompt chains.
-- A study finds **coding agents often misuse test/verification techniques**, either superficially adopting frameworks or failing to leverage their full value, contributing to declining software quality despite easier access to quality tools.
+- OpenAI positions **GPT‑6 Astra** as the world’s most intelligent and aligned model, state-of-the-art in computer use, browsing, software engineering, cybersecurity, science, and professional work.
+- OpenAI reports an internal system produced a **formalized solution to the Navier–Stokes Millennium Prize Problem**, showing finite-time singularity formation, with a Lean proof published.
+- **GPT‑5.6 Sol** is used at MIT to connect to lab software and streamline quantum computing experiments, freeing researchers to focus on design and analysis.
+- **ChatGPT Images 2.5** delivers sharper details, faster generation (up to 50 % latency reduction), more precise multi-turn editing, and better reference preservation.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
