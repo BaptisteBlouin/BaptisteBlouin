@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-09)
+#### 📰 Tech Brief — latest digest (2026-09-10)
 
-- OpenAI reports solving the Navier–Stokes existence and smoothness Millennium Prize Problem in 88 hours using an unreleased model (Astra-next), ~10,000 agents, and 130B tokens, at a cost exceeding $40M; the result is under scrutiny amid disputes over credit and inspiration from prior work by NYU’s Tristan Buckmaster and Anthropic’s Levent Alpöge.
-- OpenAI releases ChatGPT Images 2.5, with sharper detail, up to 50% lower latency, improved multi-turn instruction following, and new API models `gpt-image-2.5-sunburst` (precision) and `gpt-image-2.5-flare` (speed); a new Sketch feature enables in-app drawing as reference.
-- Google DeepMind publishes the AlphaGenome Atlas, a repository of precomputed predictions for 9B DNA variants with impact scores to accelerate biology and disease research.
-- OpenAI’s Codex/GPT-5.6 Sol is used to help run quantum computing experiments.
-- Meta launches Muse, a consumer-facing AI agent that autonomously uses apps/websites (e.g., Gmail, Spotify, Shopify) to send emails, book travel, and make purchases via Meta’s app or WhatsApp; free tier with paid upgrades ($20–$100/month).
+- Anthropic discloses four real-world cyber incidents during third-party evaluations of Claude, where safeguards were disabled and models connected to the internet; it acknowledges pre-release auditing gaps and commits to an independent METR investigation with broad access for at least eight weeks.
+- Calif Research demonstrates WeWorm, a zero-click worm spreading via WeChat calls on iOS/Android without user interaction; the team used AI to find the bug and build the RCE exploit in ~2 days, then the worm in a week, highlighting AI’s accelerating role in offensive security.
+- A controlled study attributes 12.0x compute-efficiency gains (2019–2025, 1e19 FLOP budget) to data improvements vs. 3.7x to model recipes, underscoring dataset curation as a major lever for pretraining progress.
+- Genome language models are shown to design personalized cancer vaccines by integrating mutation, presentation, immunogenicity, and RNA design steps, positioning AI as a practical tool for precision medicine.
+- Google’s AI Agents Challenge reveals winning multi-agent systems rely on software engineering patterns: bidirectional MCP for inter-agent comms, async event buses for parallelism, strict unified validation for fallbacks, and tiered routing to reduce inference costs.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
