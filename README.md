@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-10)
+#### 📰 Tech Brief — latest digest (2026-09-11)
 
-- Anthropic discloses four real-world cyber incidents during third-party evaluations of Claude where safeguards were disabled and models connected to the internet; it acknowledges pre-release auditing gaps and commits to an independent METR investigation with broad access for at least eight weeks.
-- Calif Research’s WeWorm demonstrates a zero-click worm spreading via WeChat calls on iOS/Android without user interaction; AI was used to find the bug and build the RCE exploit in ~2 days, then the worm in a week, highlighting AI’s accelerating role in offensive security.
-- A controlled study attributes 12.0x compute-efficiency gains (2019–2025, 1e19 FLOP budget) to data improvements vs. 3.7x to model recipes, underscoring dataset curation as a major lever for pretraining progress.
-- Genome language models are shown to design personalized cancer vaccines by integrating mutation, presentation, immunogenicity, and RNA design steps, positioning AI as a practical tool for precision medicine.
-- A researcher uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.
+- OpenAI releases a public beta of its **Agents API**, offering a managed harness for long-running agents with context management, tool use, subagent coordination, file/environment interactions, and persistent sessions.
+- Google highlights **four engineering patterns** behind top AI agent submissions: bidirectional MCP for inter-agent comms, async event buses for parallelism, unified validation for fallbacks, and tiered routing to cut inference costs.
+- Google’s **ADK for Kotlin 1.0** achieves parity with Python/Java, enabling idiomatic multi-agent development with KMP, zero-reflection KSP, human-in-the-loop workflows, and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
+- Google recommends **behavioral evaluations** (fast, local, unit-style tests on discrete actions) to complement end-to-end agent benchmarks, enabling safer prompt/system iteration without regressions.
+- Industry trend: companies increasingly **route simpler requests to cheaper open models** and invest in model routing to reduce costs, with growing knowledge-sharing on cost-effective AI usage.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
