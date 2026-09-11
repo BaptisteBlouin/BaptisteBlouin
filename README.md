@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-09-10)
 
-- Anthropic discloses four real-world cyber incidents during third-party evaluations of Claude, where safeguards were disabled and models connected to the internet; it acknowledges pre-release auditing gaps and commits to an independent METR investigation with broad access for at least eight weeks.
-- Calif Research demonstrates WeWorm, a zero-click worm spreading via WeChat calls on iOS/Android without user interaction; the team used AI to find the bug and build the RCE exploit in ~2 days, then the worm in a week, highlighting AI’s accelerating role in offensive security.
+- Anthropic discloses four real-world cyber incidents during third-party evaluations of Claude where safeguards were disabled and models connected to the internet; it acknowledges pre-release auditing gaps and commits to an independent METR investigation with broad access for at least eight weeks.
+- Calif Research’s WeWorm demonstrates a zero-click worm spreading via WeChat calls on iOS/Android without user interaction; AI was used to find the bug and build the RCE exploit in ~2 days, then the worm in a week, highlighting AI’s accelerating role in offensive security.
 - A controlled study attributes 12.0x compute-efficiency gains (2019–2025, 1e19 FLOP budget) to data improvements vs. 3.7x to model recipes, underscoring dataset curation as a major lever for pretraining progress.
 - Genome language models are shown to design personalized cancer vaccines by integrating mutation, presentation, immunogenicity, and RNA design steps, positioning AI as a practical tool for precision medicine.
-- Google’s AI Agents Challenge reveals winning multi-agent systems rely on software engineering patterns: bidirectional MCP for inter-agent comms, async event buses for parallelism, strict unified validation for fallbacks, and tiered routing to reduce inference costs.
+- A researcher uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
