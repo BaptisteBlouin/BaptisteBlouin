@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-11)
+#### 📰 Tech Brief — latest digest (2026-09-12)
 
-- OpenAI releases a public beta of its **Agents API**, offering a managed harness for long-running agents with context management, tool use, subagent coordination, file/environment interactions, and persistent sessions.
-- Google highlights **four engineering patterns** behind top AI agent submissions: bidirectional MCP for inter-agent comms, async event buses for parallelism, unified validation for fallbacks, and tiered routing to cut inference costs.
-- Google’s **ADK for Kotlin 1.0** achieves parity with Python/Java, enabling idiomatic multi-agent development with KMP, zero-reflection KSP, human-in-the-loop workflows, and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
-- Google recommends **behavioral evaluations** (fast, local, unit-style tests on discrete actions) to complement end-to-end agent benchmarks, enabling safer prompt/system iteration without regressions.
-- Industry trend: companies increasingly **route simpler requests to cheaper open models** and invest in model routing to reduce costs, with growing knowledge-sharing on cost-effective AI usage.
+- DeepSeek releases v4.1-Flash, a 763B-parameter model using a novel causal Encoder–Decoder architecture with vision, marking a return to high-impact open model releases after a period of lower visibility.
+- Google demonstrates autonomous LLM post-training using Tunix on TPUs, enabling AI agents to iteratively optimize fine-tuning (LoRA ranks, learning rates, batch sizes) and commit verified improvements, leveraging Gemma, Cloud TPUs, and Antigravity CLI.
+- Google’s AI Agents Challenge highlights that top multi-agent systems rely on software engineering patterns: bidirectional MCP for inter-agent communication, async event buses for parallelism, unified validation for fallbacks, and tiered routing to reduce inference costs.
+- Google releases ADK for Kotlin 1.0, achieving parity with Python/Java ADKs, with Kotlin Multiplatform support, zero-reflection type-safe function calling, and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
+- Behavioral evaluations (fast, local, unit-style tests) are recommended over end-to-end benchmarks like SWE-bench for diagnosing AI coding agent failures, enabling safer iteration on prompts and model upgrades.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
