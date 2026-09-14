@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-13)
+#### 📰 Tech Brief — latest digest (2026-09-14)
 
-- GPT-6 Astra (Max) in ChatGPT Work demonstrates advanced tool-use by generating personalized 5K/10K running routes from an address, producing embedded visualizations and downloadable GPX/GeoJSON using OSM data over a 27-minute session.
-- Google highlights four engineering patterns behind top AI Agents Challenge submissions: bidirectional MCP for inter-agent communication, async event buses for parallel execution, strict unified validation for model fallbacks, and tiered routing to reduce inference costs.
-- Google releases ADK for Kotlin 1.0 with full parity to Python/Java cores, leveraging Kotlin Multiplatform, zero-reflection KSP, human-in-the-loop workflows, context compaction, and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
-- Google advocates behavioral evaluations—fast, local, unit-style tests asserting discrete agent actions (e.g., tool calls, file edits)—to complement expensive end-to-end benchmarks like SWE-bench, enabling safer iteration on prompts and model upgrades.
-- Google’s DevEx program runs sprints to refine enterprise AI governance, improving Agent Gateway and Semantic Governance configurations via updated docs and standardized code samples.
+- Perplexity deploys OpenAI's GPT-6 Astra end-to-end for writing communications, modifying software, and monitoring production systems, requiring far less human oversight than prior models.
+- Google's AI Agents Challenge highlights that robust multi-agent systems rely on software engineering patterns: bidirectional MCP for inter-agent communication, async event buses for parallelism, strict unified validation for fallbacks, and tiered routing to reduce inference costs.
+- Google releases ADK for Kotlin 1.0 with full feature parity to Python/Java, enabling idiomatic multi-agent development on Kotlin Multiplatform, Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch), and advanced orchestration like human-in-the-loop and context compaction.
+- Autonomous LLM post-training loops using Tunix on TPUs can iteratively optimize LoRA ranks, learning rates, and batch sizes overnight, committing verified improvements to Git.
+- OpenAI launches ChatGPT Work's Data agent to let employees query approved company data and build dashboards in plain language, respecting existing permissions and integrating with major BI platforms.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
