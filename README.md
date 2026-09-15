@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-14)
+#### 📰 Tech Brief — latest digest (2026-09-15)
 
-- Perplexity deploys OpenAI's GPT-6 Astra end-to-end for writing, coding, and production monitoring with far less human oversight.
-- GPT-6 Astra shows dramatic capability jumps, excelling at 3D tasks, games, computer use, and subagent coordination, with an internal OpenAI model already above Astra.
-- Google's AI Agents Challenge emphasizes robust multi-agent systems using bidirectional MCP, async event buses, strict validation, and tiered routing to cut inference costs.
-- Google releases ADK for Kotlin 1.0 with full feature parity to Python/Java, Android-first extensions, and advanced orchestration like human-in-the-loop and context compaction.
-- Autonomous LLM post-training loops (Tunix on TPUs) iteratively optimize LoRA ranks, learning rates, and batch sizes overnight, committing verified improvements to Git.
+- Frontier AI labs (Xai, OpenAI, Anthropic) co-sign the AEF-1 standard, introducing **embedded third-party evaluators** (e.g., METR) with ongoing, employee-like access to verify safety practices, training pipelines, and incidents; Anthropic commits unilaterally to this model, drawing parallels to banking regulatory "supervisors".
+- Industry coordination to slow AI development faces legal hurdles, as explicit agreements could violate antitrust laws; labs explore indirect coordination via public advocacy to justify collective deceleration.
+- Google’s AI Agents Challenge highlights **engineering patterns** for robust multi-agent systems: bidirectional MCP for inter-agent communication, async event buses for parallelism, unified validation for fallbacks, and tiered routing to cut inference costs.
+- **ADK for Kotlin 1.0** reaches full parity with Python/Java, enabling idiomatic multi-agent development with Kotlin Multiplatform, zero-reflection type-safe function calling (KSP), and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
+- **Autonomous LLM post-training** demonstrated via *autofinetune*: agents self-optimize LoRA ranks, learning rates, and batch sizes using Tunix, Gemma, Cloud TPUs, and Antigravity CLI, committing verified improvements to Git.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
