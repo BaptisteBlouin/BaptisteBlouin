@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-09-14)
 
-- Perplexity deploys OpenAI's GPT-6 Astra end-to-end for writing communications, modifying software, and monitoring production systems, requiring far less human oversight than prior models.
-- Google's AI Agents Challenge highlights that robust multi-agent systems rely on software engineering patterns: bidirectional MCP for inter-agent communication, async event buses for parallelism, strict unified validation for fallbacks, and tiered routing to reduce inference costs.
-- Google releases ADK for Kotlin 1.0 with full feature parity to Python/Java, enabling idiomatic multi-agent development on Kotlin Multiplatform, Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch), and advanced orchestration like human-in-the-loop and context compaction.
-- Autonomous LLM post-training loops using Tunix on TPUs can iteratively optimize LoRA ranks, learning rates, and batch sizes overnight, committing verified improvements to Git.
-- OpenAI launches ChatGPT Work's Data agent to let employees query approved company data and build dashboards in plain language, respecting existing permissions and integrating with major BI platforms.
+- Perplexity deploys OpenAI's GPT-6 Astra end-to-end for writing, coding, and production monitoring with far less human oversight.
+- GPT-6 Astra shows dramatic capability jumps, excelling at 3D tasks, games, computer use, and subagent coordination, with an internal OpenAI model already above Astra.
+- Google's AI Agents Challenge emphasizes robust multi-agent systems using bidirectional MCP, async event buses, strict validation, and tiered routing to cut inference costs.
+- Google releases ADK for Kotlin 1.0 with full feature parity to Python/Java, Android-first extensions, and advanced orchestration like human-in-the-loop and context compaction.
+- Autonomous LLM post-training loops (Tunix on TPUs) iteratively optimize LoRA ranks, learning rates, and batch sizes overnight, committing verified improvements to Git.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
