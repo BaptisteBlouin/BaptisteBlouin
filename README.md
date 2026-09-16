@@ -78,9 +78,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-09-15)
 
-- Frontier AI labs (Xai, OpenAI, Anthropic) co-sign the AEF-1 standard, introducing **embedded third-party evaluators** (e.g., METR) with ongoing, employee-like access to verify safety practices, training pipelines, and incidents; Anthropic commits unilaterally to this model, drawing parallels to banking regulatory "supervisors".
-- Industry coordination to slow AI development faces legal hurdles, as explicit agreements could violate antitrust laws; labs explore indirect coordination via public advocacy to justify collective deceleration.
-- Google’s AI Agents Challenge highlights **engineering patterns** for robust multi-agent systems: bidirectional MCP for inter-agent communication, async event buses for parallelism, unified validation for fallbacks, and tiered routing to cut inference costs.
+- Google launches **Gemini 3.8 Live and 3.8 Live Extended Thinking**, enabling fluid, real-time voice interactions with parallel reasoning, complex task execution, and visual context without interrupting conversation, available via API, Workspace, and the Gemini app.
+- **StepAudio 3 Gen** achieves state-of-the-art text-to-speech and voice design while retaining broad general-audio generation using discrete autoregressive modeling over shared RVQ audio tokens.
+- Google’s **Gemini Enterprise Agent Platform** introduces zero-trust runtime governance: Model Armor for edge-prompt screening, Semantic Governance Policies for intent evaluation against business rules, and Agent Anomaly Detection for multi-turn exploit catching, shifting security from static build-time to dynamic platform-level enforcement.
 - **ADK for Kotlin 1.0** reaches full parity with Python/Java, enabling idiomatic multi-agent development with Kotlin Multiplatform, zero-reflection type-safe function calling (KSP), and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
 - **Autonomous LLM post-training** demonstrated via *autofinetune*: agents self-optimize LoRA ranks, learning rates, and batch sizes using Tunix, Gemma, Cloud TPUs, and Antigravity CLI, committing verified improvements to Git.
 
