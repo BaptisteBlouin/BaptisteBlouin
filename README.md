@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-15)
+#### 📰 Tech Brief — latest digest (2026-09-16)
 
-- Google launches **Gemini 3.8 Live and 3.8 Live Extended Thinking**, enabling fluid, real-time voice interactions with parallel reasoning, complex task execution, and visual context without interrupting conversation, available via API, Workspace, and the Gemini app.
-- **StepAudio 3 Gen** achieves state-of-the-art text-to-speech and voice design while retaining broad general-audio generation using discrete autoregressive modeling over shared RVQ audio tokens.
-- Google’s **Gemini Enterprise Agent Platform** introduces zero-trust runtime governance: Model Armor for edge-prompt screening, Semantic Governance Policies for intent evaluation against business rules, and Agent Anomaly Detection for multi-turn exploit catching, shifting security from static build-time to dynamic platform-level enforcement.
-- **ADK for Kotlin 1.0** reaches full parity with Python/Java, enabling idiomatic multi-agent development with Kotlin Multiplatform, zero-reflection type-safe function calling (KSP), and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
-- **Autonomous LLM post-training** demonstrated via *autofinetune*: agents self-optimize LoRA ranks, learning rates, and batch sizes using Tunix, Gemma, Cloud TPUs, and Antigravity CLI, committing verified improvements to Git.
+- Google releases **Gemini 3.8 Live** and **3.8 Live Extended Thinking**, speech-to-speech models comparable to OpenAI’s GPT-Live; a community-built web UI enables voice conversations with interrupt capability.
+- Google’s AI Agents Challenge highlights **four engineering patterns** for robust multi-agent systems: bidirectional MCP for inter-agent communication, async event buses for parallelism, unified validation for fallbacks, and tiered routing to reduce inference costs.
+- **ADK for Kotlin 1.0** achieves feature parity with Python/Java, enabling idiomatic multi-agent development with Kotlin Multiplatform, zero-reflection type-safe function calling, and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
+- **Autonomous LLM post-training** is demonstrated using **Tunix on TPUs**, with agents iterating over fine-tuning experiments (LoRA ranks, learning rates, batch sizes) and committing verified improvements to Git.
+- **TypeSafe AI** introduces **System One Models** and **Jev**, a new class of frontier models designed for fast, structured, software-usable decision-making.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
