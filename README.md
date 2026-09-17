@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-16)
+#### 📰 Tech Brief — latest digest (2026-09-17)
 
-- Google releases **Gemini 3.8 Live** and **3.8 Live Extended Thinking**, speech-to-speech models comparable to OpenAI’s GPT-Live; a community-built web UI enables voice conversations with interrupt capability.
-- Google’s **Agent Anomaly Detection** enters private preview on the **Gemini Enterprise Agent Platform**, using OpenTelemetry traces and tool calls to catch behavioral risks without runtime latency, grounded in OWASP Agentic Top 10.
-- **Claude Cowork and chat merge into a single Claude**, unifying workflows across chat, docs, slides, and design, rolling out to Pro/Max plans; tasks persist even after closing the app.
-- **TypeSafe AI** introduces **Jev**, a "System One Model" optimized for fast, structured decision-making, classification, routing, and scoring—>100x faster and >200x cheaper than small frontier LLMs, with parallel sampling and calibration.
-- **Periodic Neon** outperforms GPT-6 Astra and Claude Fable 5.1 at lower cost on scientific analysis tasks, establishing a Pareto-optimal cost-performance frontier via midtraining and RL on lab data.
+- Steve Yegge shuts down Gas Town, admitting coding agents were unreliable for end-to-end tasks despite heavy spending, echoing broader concerns about agent dependability.
+- LangChain’s paid-media agent uses LLMs for judgment, code for calculations/safeguards, and human approvals for critical actions, cutting costs while maintaining performance.
+- Google’s AI Agents Challenge highlights winning patterns: bidirectional MCP, async event buses, unified validation, and tiered routing for resilient, low-latency multi-agent systems.
+- Google releases ADK for Kotlin 1.0 with full feature parity to Python/Java, enabling idiomatic multi-agent development and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
+- Google introduces Home MCP (early access) to let agents interact with Google Home devices and event history, with safety guardrails.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
