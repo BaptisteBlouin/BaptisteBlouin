@@ -79,10 +79,10 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-09-16)
 
 - Google releases **Gemini 3.8 Live** and **3.8 Live Extended Thinking**, speech-to-speech models comparable to OpenAI’s GPT-Live; a community-built web UI enables voice conversations with interrupt capability.
-- Google’s AI Agents Challenge highlights **four engineering patterns** for robust multi-agent systems: bidirectional MCP for inter-agent communication, async event buses for parallelism, unified validation for fallbacks, and tiered routing to reduce inference costs.
-- **ADK for Kotlin 1.0** achieves feature parity with Python/Java, enabling idiomatic multi-agent development with Kotlin Multiplatform, zero-reflection type-safe function calling, and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
-- **Autonomous LLM post-training** is demonstrated using **Tunix on TPUs**, with agents iterating over fine-tuning experiments (LoRA ranks, learning rates, batch sizes) and committing verified improvements to Git.
-- **TypeSafe AI** introduces **System One Models** and **Jev**, a new class of frontier models designed for fast, structured, software-usable decision-making.
+- Google’s **Agent Anomaly Detection** enters private preview on the **Gemini Enterprise Agent Platform**, using OpenTelemetry traces and tool calls to catch behavioral risks without runtime latency, grounded in OWASP Agentic Top 10.
+- **Claude Cowork and chat merge into a single Claude**, unifying workflows across chat, docs, slides, and design, rolling out to Pro/Max plans; tasks persist even after closing the app.
+- **TypeSafe AI** introduces **Jev**, a "System One Model" optimized for fast, structured decision-making, classification, routing, and scoring—>100x faster and >200x cheaper than small frontier LLMs, with parallel sampling and calibration.
+- **Periodic Neon** outperforms GPT-6 Astra and Claude Fable 5.1 at lower cost on scientific analysis tasks, establishing a Pareto-optimal cost-performance frontier via midtraining and RL on lab data.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
