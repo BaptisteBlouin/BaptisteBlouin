@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-09-17)
 
-- Steve Yegge shuts down Gas Town, admitting coding agents were unreliable for end-to-end tasks despite heavy spending, echoing broader concerns about agent dependability.
-- LangChain’s paid-media agent uses LLMs for judgment, code for calculations/safeguards, and human approvals for critical actions, cutting costs while maintaining performance.
-- Google’s AI Agents Challenge highlights winning patterns: bidirectional MCP, async event buses, unified validation, and tiered routing for resilient, low-latency multi-agent systems.
-- Google releases ADK for Kotlin 1.0 with full feature parity to Python/Java, enabling idiomatic multi-agent development and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
-- Google introduces Home MCP (early access) to let agents interact with Google Home devices and event history, with safety guardrails.
+- OpenAI launches Astra for Law with frontier intelligence, custom legal workflows, connected legal data sources, and legal-grade controls for confidential client work.
+- Anthropic introduces the Life Sciences Verification Program, granting verified teams access to Mythos/Opus/Sonnet with relaxed biology safeguards for drug discovery, research, and manufacturing tasks.
+- Claude Code Projects (beta) now let users set a goal and have Claude scope, delegate, coordinate parallel threads, review outputs, and assemble results across repos, with mobile steering and offline progress.
+- Claude Cowork and chat merge into one Claude; Docs/Slides outputs are now directly editable, presentable, or downloadable as PPT/PDF, rolling out to Pro/Max first.
+- Balyasny Asset Management uses Claude Fable 5 for outcome-driven, long-running financial tasks (e.g., merger-arbitrage analysis), citing harnesses as the key enabler for frontier AI doing "work" rather than search.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
