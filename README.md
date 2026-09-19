@@ -78,10 +78,10 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-09-18)
 
-- Anthropic rolls out **Claude Code Projects**, enabling a single conversation to spawn parallel cloud sessions, pass context between threads, and continue running after user disconnect; described internally as a coordinator abstraction with long-lived memory and aggregated status updates.
+- Anthropic rolls out **Claude Code Projects**, enabling a single conversation to spawn parallel cloud sessions, pass context between threads, and continue running after user disconnect; described as a coordinator abstraction with long-lived memory and aggregated status updates.
 - Anthropic reports **Claude drives 26% of its R&D**, with over 30,000 agents active at any time and staff collaborating with the model for ~90% of their work.
+- **Claude uplifts biomolecular modeling**: optimized >30 models for 4× speed and low-memory mode, enabling larger protein systems on a single GPU; improvements open-sourced, with a $1M competition co-sponsored with Adaptyv Bio.
 - **Figure’s Helix 2.5** demonstrates zero-shot generalization across 30 unseen homes, performing tasks like tidying and folding towels, suggesting whole-body intelligence can be learned from large-scale human behavior data.
-- Google highlights **engineering patterns for robust AI agents**: bidirectional MCP for inter-agent communication, async event buses, unified validation, and tiered routing to reduce latency and cost.
 - Google releases **ADK for Kotlin 1.0**, achieving feature parity with Python/Java for production-ready agents, with Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch).
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
