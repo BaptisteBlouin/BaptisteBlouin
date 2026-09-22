@@ -76,13 +76,9 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-20)
+#### 📰 Tech Brief — latest digest (2026-09-21)
 
-- Google identifies four robust engineering patterns in leading AI Agents Challenge entries: bidirectional MCP for inter-agent communication, async event buses for parallel execution, unified validation for model fallbacks, and tiered routing to reduce inference costs, prioritizing solid software design over linear prompt chains.
-- Google releases ADK for Kotlin 1.0 with full parity to Python/Java, adding KMP support, zero-reflection type-safe function calling via KSP, and Android-first extensions (LiteRT-LM, Firebase AI, Room, AppSearch) for production-grade multi-agent workflows.
-- Autonomous LLM post-training is demonstrated using Tunix on TPUs: an agent iteratively explores SFT and RL (GRPO) hyperparameters (LoRA ranks, learning rates, batch sizes), verifies improvements, and commits them to Git, orchestrated via Antigravity CLI and Gemma on Cloud TPUs.
-- Behavioral (unit-style) evaluations are recommended over slow end-to-end benchmarks like SWE-bench: assert discrete intermediate actions (tool calls, file edits) to catch regressions quickly during prompt or model upgrades.
-- Zero-trust AI agents are advocated via runtime governance on the Gemini Enterprise Agent Platform, using Model Armor (prompt screening), Semantic Governance Policies (intent evaluation), and Agent Anomaly Detection to neutralize multi-turn exploits without code changes.
+- **Grok 4.7 and GLM-5.3 Benchmarks**: xAI's latest reasoning model, Grok 4.7, is rolling out in GitHub Copilot for agentic coding and complex workflows. Meanwhile, Semgrep benchmarks show that Grok 4.6 Exacto matches Claude
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
