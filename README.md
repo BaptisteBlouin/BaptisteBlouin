@@ -76,9 +76,10 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-21)
+#### 📰 Tech Brief — latest digest (2026-09-22)
 
-- **Grok 4.7 and GLM-5.3 Benchmarks**: xAI's latest reasoning model, Grok 4.7, is rolling out in GitHub Copilot for agentic coding and complex workflows. Meanwhile, Semgrep benchmarks show that Grok 4.6 Exacto matches Claude
+- GitHub refreshed PR page GA. (Medium - Dev tools)
+- Google AI: Autonomous LLM post-training with Tunix on TPUs. (High priority - MLOps)
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
