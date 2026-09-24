@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-23)
+#### 📰 Tech Brief — latest digest (2026-09-24)
 
-- OpenAI GPT-6 Sol and Luna released
-- Anthropic Claude Opus 5.5 released
-- Google Gemini 3.8 TTS models released
-- Anthropic Claude discovers novel enzyme system with CRISPR-like repeats
-- GPT-6 Astra can drive a car (DrivingBench)
+- **Meta Connect 2026 Launches**: Meta introduced the Muse personal agent and a lightweight $1,299 VR glasses headset weighing ~100 grams with an external compute pack. Meta also re-emerged its stealth MSL acquisition as "Charm," a palm-sized dedicated hardware device for the Muse assistant. Reports indicate Muse relies partly on human contractors to handle phone-calling errands like booking appointments.
+- **Anthropic Life Sciences Breakthrough**: Anthropic's new life sciences research lab used Claude to discover a novel enzyme system featuring CRISPR-like repeat properties using high-level direction from scientists.
+- **Agent Frameworks & Patterns**: Successful multi-agent challenge submissions rely heavily on foundational patterns such as bidirectional Model Context Protocol (MCP), asynchronous event buses, and tiered routing to minimize expensive inference calls. Additionally, the Google Antigravity SDK added support for local offline execution via LiteRT and OpenAI-compatible endpoints like Ollama, while Kotlin ADK 1.0 reached parity for multi-platform agent workflows.
+- **Clinical AI & Scale**: Concurrence uses Databricks and Unity Gateway to govern clinical AI workloads at an annualized scale of 1.2 trillion input tokens, centralizing access controls, agent states, and evaluation pipelines.
+- **Real-Time Guardrails & Analytics**: TypeSafe's Jev model provides real-time guardrails, matching GPT-5.4 nano decisions while running significantly faster and cheaper. Integrations for Jev have expanded to Snowflake via dbt (`Jevflake`) and MotherDuck SQL (`prompt_jev()`) for analytics-scale text classification.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
