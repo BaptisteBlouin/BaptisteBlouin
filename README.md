@@ -76,10 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-22)
+#### 📰 Tech Brief — latest digest (2026-09-23)
 
-- GitHub refreshed PR page GA. (Medium - Dev tools)
-- Google AI: Autonomous LLM post-training with Tunix on TPUs. (High priority - MLOps)
+- OpenAI GPT-6 Sol and Luna released
+- Anthropic Claude Opus 5.5 released
+- Google Gemini 3.8 TTS models released
+- Anthropic Claude discovers novel enzyme system with CRISPR-like repeats
+- GPT-6 Astra can drive a car (DrivingBench)
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
