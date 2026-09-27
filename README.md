@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-25)
+#### 📰 Tech Brief — latest digest (2026-09-26)
 
-- OpenAI launched an improved prompt caching system for the GPT-6 family, delivering higher hit rates, up to 90% input discounts on shared prefixes within 30-minute windows, a diagnostics dashboard, and cache prewarming.
-- Google announced Gemini 3.8 Live featuring a real-time Live Avatar, synchronizing performance and responses for personalized user interactions.
-- Contrastive Language Models (CLMs) introduced a new class of System One models; the CLM-8B variant matches specialized judges on computer-use and tool-calling while cutting latency by up to 9 times.
-- Meta detailed Muse Realtime Avatar, synchronizing speech and visual performance in live interactions, while building personal-context cloud workloads on confidential VMs and trusted execution environments for its AI glasses.
-- NVIDIA open-sourced Model Optimizer, providing pruning, distillation, and quantization tools for PyTorch, ONNX, and Hugging Face checkpoints to export optimized runtimes for TensorRT-LLM and vLLM.
+- **Multi-Model Routing Infrastructure**: OpenRouter has evolved into a neutral routing layer serving over 10 million developers, highlighting how competitive inference marketplaces and multi-model model strategies have become critical ecosystem infrastructure.
+- **OLMo 3 7B TPU Reproduction**: MaxText successfully reproduced AI2's OLMo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, matching reference PyTorch-on-GPU evaluations while achieving up to 57.4% Model Flops Utilization (MFU).
+- **Autonomous Post-Training**: Google introduced *autofinetune*, an autonomous framework using Tunix, Gemma, Cloud TPUs, and Gemini to run iterative Supervised Fine-Tuning and Reinforcement Learning (GRPO) loops—discovering optimal LoRA ranks and hyperparameters and committing verified improvements to Git.
+- **Google AI & Colab Integration**: Google AI subscribers now receive premium Colab benefits, such as priority accelerator access, alongside uninterrupted background execution and Premium GPU access for Ultra subscribers.
+- **Kotlin Agent Development Kit (ADK) 1.0**: Google released ADK 1.0 for Kotlin, providing Kotlin Multiplatform (KMP) support, zero-reflection type-safe function calling via KSP, orchestration features like context compaction, and Android-first extensions for LiteRT-LM and AppSearch semantic memory.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
