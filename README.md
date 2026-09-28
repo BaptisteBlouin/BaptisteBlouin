@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-26)
+#### 📰 Tech Brief — latest digest (2026-09-27)
 
-- **Multi-Model Routing Infrastructure**: OpenRouter has evolved into a neutral routing layer serving over 10 million developers, highlighting how competitive inference marketplaces and multi-model model strategies have become critical ecosystem infrastructure.
-- **OLMo 3 7B TPU Reproduction**: MaxText successfully reproduced AI2's OLMo 3 7B language model from scratch on Google Cloud TPUs using JAX/XLA, matching reference PyTorch-on-GPU evaluations while achieving up to 57.4% Model Flops Utilization (MFU).
-- **Autonomous Post-Training**: Google introduced *autofinetune*, an autonomous framework using Tunix, Gemma, Cloud TPUs, and Gemini to run iterative Supervised Fine-Tuning and Reinforcement Learning (GRPO) loops—discovering optimal LoRA ranks and hyperparameters and committing verified improvements to Git.
-- **Google AI & Colab Integration**: Google AI subscribers now receive premium Colab benefits, such as priority accelerator access, alongside uninterrupted background execution and Premium GPU access for Ultra subscribers.
-- **Kotlin Agent Development Kit (ADK) 1.0**: Google released ADK 1.0 for Kotlin, providing Kotlin Multiplatform (KMP) support, zero-reflection type-safe function calling via KSP, orchestration features like context compaction, and Android-first extensions for LiteRT-LM and AppSearch semantic memory.
+- **Autonomous LLM Post-Training**: Google introduced `autofinetune` to run autonomous research loops for LLM Supervised Fine-Tuning and GRPO-based reinforcement learning on Cloud TPUs using Tunix, Gemma, and the Antigravity CLI.
+- **Model Reproducibility**: The MaxText team successfully reproduced AI2’s OLMo 3 7B model from scratch using JAX/XLA on Google Cloud TPUs, hitting 57.4% MFU and proving resilient against mid-run cluster resizes.
+- **Local Model Support in SDKs**: The Google Antigravity SDK added support for executing offline agentic workflows locally via LiteRT using models like Gemma 4 26B A4B, alongside drop-in compatibility for Ollama and vLLM.
+- **Kotlin Agent Development**: Google released version 1.0 of the Agent Development Kit (ADK) for Kotlin, bringing Kotlin Multiplatform (KMP) support, zero-reflection type-safe function calling via KSP, and native Android extensions.
+- **Zero-Trust Agent Runtime Governance**: The Gemini Enterprise Agent Platform introduced runtime platform defenses including Model Armor for prompt screening, Semantic Governance Policies for evaluating tool intent, and an out-of-band Agent Anomaly Detection layer operating on OpenTelemetry traces.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
