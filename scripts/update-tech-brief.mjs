@@ -6,7 +6,7 @@
 
 import { readFileSync, writeFileSync } from 'node:fs';
 
-const WORKER_URL = process.env.WORKER_URL || 'https://baptiste-agent.blouin-baptiste94.workers.dev';
+const WORKER_URL = process.env.WORKER_URL || 'https://api.baptisteblouin.fr';
 const REPO_URL = 'https://github.com/BaptisteBlouin/tech-brief';
 const MAX = Math.max(1, parseInt(process.env.MAX_HEADLINES || '5', 10) || 5);
 const README = 'README.md';
