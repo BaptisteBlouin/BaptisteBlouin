@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-09-30)
+#### 📰 Tech Brief — latest digest (2026-10-01)
 
-- **New Frontier Releases:** Google DeepMind announced Gemini 4 Argon, a model featuring a 1-million token window built for coding, legal research, and autonomous vulnerability patching. OpenAI introduced GPT-6.1 Sol, offering near-Astra intelligence at one-fifth the cost. Meanwhile, Anthropic's Opus 5.5 leads an independent intelligence index while reducing per-token costs.
-- **Safety and Red Teaming:** OpenAI scrapped the public rollout of GPT-6.1 Astra due to authorization and scope concerns, while Anthropic’s frontier red team reported that models like GLM-5.3 crossed a threshold by successfully developing full control flow hijacks in binary exploitation tests.
-- **Embeddings and Multimodal Evaluation:** Cohere announced Embed 5 with gains on financial filings, code, and visually rich documents, and the Open Open TTS Leaderboard launched for multilingual text-to-speech and voice cloning evaluation.
-- **Platform and Agent Ecosystems:** OpenAI announced DevDay updates including "Dots" (autonomous agents with their own cloud environment), the Decisions API for structured routing, and Sign in with ChatGPT integration for third-party platforms. Google released ADK for Kotlin 1.0 with type-safe function calling and Android support, while Anthropic detailed its inbound sales buying agent built on Claude Managed Agents.
-- **Routing and Cost Optimization:** Cloudflare launched an Auto Router in public beta via AI Gateway (`cloudflare/auto`), automatically selecting capable models to reduce token spend by up to 30%. GitHub and VS Code introduced HydraFusion, an orchestration layer that switches between single, cascade, and critique workflows depending on task complexity.
+- Google DeepMind announced Gemini 4 Argon, a frontier model featuring state-of-the-art performance across coding, enterprise knowledge work, and cybersecurity, alongside an industry-first 1 million token long decode continuation window.
+- Cloudflare released Clef and Clef-flash, hosted decision models that produce bounded structured outputs quickly and consistently for agentic workflows, leading the Jev Decision Index.
+- AllenAI introduced Olmo-core 3, an open and scalable infrastructure designed to train trillion-parameter mixture-of-experts (MoE) models efficiently.
+- Google DeepMind developed SynthID Bio, a robust watermarking technique for AI-designed protein sequences that survives basic editing and export without harming biological function.
+- Runway previewed Praxis-1, an open-weight world action model translating video pre-training into robot control.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
