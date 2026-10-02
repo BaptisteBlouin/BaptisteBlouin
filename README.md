@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-01)
+#### 📰 Tech Brief — latest digest (2026-10-02)
 
-- Google DeepMind announced Gemini 4 Argon, a frontier model featuring state-of-the-art performance across coding, enterprise knowledge work, and cybersecurity, alongside an industry-first 1 million token long decode continuation window.
-- Cloudflare released Clef and Clef-flash, hosted decision models that produce bounded structured outputs quickly and consistently for agentic workflows, leading the Jev Decision Index.
-- AllenAI introduced Olmo-core 3, an open and scalable infrastructure designed to train trillion-parameter mixture-of-experts (MoE) models efficiently.
-- Google DeepMind developed SynthID Bio, a robust watermarking technique for AI-designed protein sequences that survives basic editing and export without harming biological function.
-- Runway previewed Praxis-1, an open-weight world action model translating video pre-training into robot control.
+- **Pi 1.0 & Pi Durable**: The Earendil team released Pi 1.0 featuring native Model Context Protocol (MCP) support, virtual model extensions, deferred tool loading, cache warming for Anthropic models, and mid-conversation system messages. Additionally, Pi Durable externalizes stateful components and ports the framework to TypeScript to record every step as a checkpointed task, allowing agents to automatically resume from their exact state after a crash.
+- **Blackwell Attention Optimization**: PyTorch introduced Jagged Flash Attention (JFA) for Meta's Generative Ads Model on NVIDIA Blackwell B200, built using Triton Low-level Extensions (TLX). TLX achieves a 3.2K-line implementation that outperforms state-of-the-art FlashAttention-4 kernels by ~13% on forward passes and ~50% on backward passes while remaining in Triton's high-level programming model.
+- **Cloudflare Clef Decision Models**: Cloudflare introduced Clef and Clef-flash, fully Jev-API compatible open-source decision models designed to help agents programmatically gather context, make decisions, and take actions.
+- **Autonomous Post-Training on TPUs**: Google detailed an autonomous reinforcement learning and supervised fine-tuning pipeline utilizing Tunix and Cloud TPUs, allowing agent loops to iterate over hyperparameters like LoRA ranks and rollout temperatures autonomously.
+- **Broadcom and Anthropic Infrastructure**: Broadcom is reportedly amassing $60 billion to fund custom chips and underlying infrastructure for Anthropic and other AI partners.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
