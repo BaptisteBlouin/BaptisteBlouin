@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-02)
+#### 📰 Tech Brief — latest digest (2026-10-03)
 
-- **New Frontier Models and Guides**: OpenAI published guidance for the GPT-6 family covering prompt engineering, reasoning effort tuning, skill execution, and tool coordination. Meanwhile, Google announced Gemini 4 Argon, an early-access frontier model focused on cyber defense that scored 68% on CWE-bench v1, though OpenAI temporarily shelved its GPT-6.1 Astra launch over safety concerns.
-- **Specialized Open Source and Decision Models**: AllenAI open-sourced Olmo-core 3 for training trillion-parameter MoE models and AstaBrief_8B for fast report generation. Amazon introduced Strands Decider 2B, Cloudflare launched Clef and Clef-flash, and Perplexity released `pplx-decider-v1-27b`, joining Jared Palmer's Kev family as lightweight Jev-API compatible decision models for routing and classification.
-- **Inference Optimization and Hardware**: PyTorch integrated Helion into vLLM's linear backend, utilizing per-shape autotuning and hybrid dispatch to outperform default CUTLASS and DeepGEMM backends on NVIDIA Hopper GPUs. Additionally, PyTorch introduced Jagged Flash Attention (JFA) via Triton Low-level Extensions (TLX) for Meta's Generative Ads Model on NVIDIA Blackwell B200, achieving up to 50% backward pass improvements over FlashAttention-4, while Broadcom amassed $60 billion to fund custom infrastructure for Anthropic.
-- **Audio, Search, and Enterprise Scaling**: Microsoft debuted MAI-Transcribe-2-Streaming and MAI-Voice-2.1 models for low-latency audio understanding and generation. Cloudflare partnered with Ceramic.ai, Exa, and Linkup to introduce a Web Search API via AI Gateway for real-time agent grounding, and Anthropic launched the Claude Frontier Academy with a $100 million commitment to train 10,000 Frontier Deployed Engineers by late 2027.
-- **Agent Harnesses and Sandbox Environments**: Earendil released Pi 1.0 with native Model Context Protocol (MCP) support, deferred tool loading, cache warming, and the Pi Durable package for crash-resilient checkpoints. Cloudflare rearchitected its Containers service to drop median agent sandbox startup times to 648 milliseconds with filesystem snapshot support, and HeyGen open-sourced HyperFrames to guide AI coding agents through deterministic MP4 video rendering.
+- OpenAI introduced the Sol model, priced at $2/$10 per million input/output tokens and positioned as a fast, cost-effective option that outperforms previous iterations on benchmarks like DeepSWE and AutomationBench.
+- Google released version 1.0 of the Agent Development Kit (ADK) for Kotlin, bringing full feature parity, zero-reflection type-safe function calling, and Android-first extensions utilizing LiteRT-LM and AppSearch.
+- The Google Antigravity SDK added support for local AI models like Gemma 4 through LiteRT, enabling hybrid orchestration where cloud models handle planning and local models manage code auditing.
+- Google introduced agentic post-training automation via `autofinetune`, using autonomous research loops with Tunix, Gemma, and Cloud TPUs to iteratively run fine-tuning and reinforcement learning experiments.
+- Google Cloud API Gateway now functions as a native remote Model Context Protocol (MCP) server, allowing developers to convert REST APIs into agent tools by adding OpenAPI annotations.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
