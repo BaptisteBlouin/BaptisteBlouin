@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-03)
+#### 📰 Tech Brief — latest digest (2026-10-04)
 
-- OpenAI introduced the Sol model, priced at $2/$10 per million input/output tokens and positioned as a fast, cost-effective option that outperforms previous iterations on benchmarks like DeepSWE and AutomationBench.
-- Google released version 1.0 of the Agent Development Kit (ADK) for Kotlin, bringing full feature parity, zero-reflection type-safe function calling, and Android-first extensions utilizing LiteRT-LM and AppSearch.
-- The Google Antigravity SDK added support for local AI models like Gemma 4 through LiteRT, enabling hybrid orchestration where cloud models handle planning and local models manage code auditing.
-- Google introduced agentic post-training automation via `autofinetune`, using autonomous research loops with Tunix, Gemma, and Cloud TPUs to iteratively run fine-tuning and reinforcement learning experiments.
-- Google Cloud API Gateway now functions as a native remote Model Context Protocol (MCP) server, allowing developers to convert REST APIs into agent tools by adding OpenAPI annotations.
+- Google successfully reproduced Ai2's Olmo 3 7B language model from scratch on Cloud TPUs using MaxText and JAX/XLA, achieving up to 57.4% Model Flops Utilization while surviving mid-run cluster resizes.
+- The MaxText case study highlighted the critical need for held-out validation after catching a silent data loader memorization bug that artificially depressed training loss during reproduction.
+- Developers implemented Sparse VideoGen (SVG) and optimized the Splash Attention kernel on TPUs to achieve a 1.69x speedup for 1440p video generation by routing attention heads to sparse masks and optimizing memory layouts.
+- Google introduced **autofinetune**, an autonomous research loop for LLM post-training (Supervised Fine-Tuning and GRPO reinforcement learning) using Tunix, Gemma, and TPUs orchestrated with Antigravity CLI.
+- Google released version 1.0 of the Agent Development Kit (ADK) for Kotlin, built on Kotlin Multiplatform with KSP for zero-reflection function calling and Android extensions supporting LiteRT-LM and Firebase AI.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
