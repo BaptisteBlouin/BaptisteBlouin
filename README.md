@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-10-06)
 
-- Reflection has launched the Reflection Beam (501B-A23B), a new open model trained from scratch in the United States. While leading SOTA models remain ahead, this release provides a functional neolab option for the open-weight ecosystem.
-- The Technology Innovation Institute (TII) has released Falcon-Emirati, an LLM specifically trained to master regional Arabic dialects, cultural nuances, and context.
-- AI inference is positioned to surpass the database market, making it the most critical market segment in modern software.
-- Anthropic has updated Cowork to run both model inference and its execution sandbox VM entirely in the cloud. Each session receives an isolated sandbox, removing local resource overhead and allowing desktop apps to handle file access tool calls on demand.
-- GitHub security overview coverage views now support tracking AI Scan for pull requests enablement status across organizations and enterprises, including filter flags and CSV export options.
+- Reflection has launched Beam (501B-A23B), a sparse Mixture-of-Experts open-weight model with 23 billion active parameters trained from scratch in the US on 23.8T tokens and 100M reinforcement-learning rollouts.
+- Mistral introduced a public preview of Mistral Large 4 (le Chonk), a 1-trillion-parameter natively multimodal model with 49 billion active parameters trained on a 3,800-node NVIDIA Grace Blackwell cluster, featuring API reasoning levels and upcoming open weights.
+- TII released Falcon-Emirati to master regional Arabic dialects, cultural nuances, and context. Google DeepMind launched EmbeddingGemma 2, a 740M open-weight multimodal embedding model mapping text, code, images, video, and audio into a unified vector space under Apache 2.0.
+- Liquid AI announced d1 with vision, a decision model that supports multimodal inputs, outputs probabilities in a single forward pass without generating tokens, and runs significantly faster and cheaper than frontier models. Cohere released Tiny Aya L2-Thinker (3.35B) to enable in-language reasoning across 60 languages via targeted data mixing.
+- AI inference is positioned to surpass the database market as the most critical segment in modern software. Simon Willison released llm-mistral 0.16 with support for reasoning models like Mistral Large 4.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
