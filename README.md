@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-08)
+#### 📰 Tech Brief — latest digest (2026-10-09)
 
-- Anthropic released Claude Haiku 5.5, matching OpenAI's GPT-6 Luna in pricing while cutting costs on Sonnet 5.5 and subscriptions, and launched Claude Dashboards and Claude Motion in beta alongside moving Docs, Slides, and Design to all plans.
-- Google DeepMind introduced AlphaProtein Novo, a model that designs de novo enzymes for new-to-nature chemistry and plastic degradation, outperforming natural enzymes in select cases.
-- OpenAI published 722 AI-generated mathematical manuscripts featuring 372 breakthrough results from an unreleased internal model, though experts note the proofs are dense and require AI assistance, and OpenAI warns of potential errors. Liquid AI released open-weight decision models d1-3B and d1-OMNI-600M, and Microsoft announced MAI-Code-1.1-Flash.
-- NVIDIA introduced Dynamo to manage session-aware inference traffic for agents by transforming request-level serving into a program-aware system that unlocks session-aware routing and shared KV cache indexing across vLLM and SGLang. Google AI Edge launched ML Drift, a universal GPU compute framework for on-device ML inference across APIs like Metal and WebGPU, while IBM integrated Spyre as a native PyTorch device via torch-spyre.
-- Independent developers and enterprises are building internal vibe-coding apps for non-engineers at mid-sized firms, while platforms like Docker Agent package AI agents into OCI registries using declarative YAML.
+- The State of AI Report 2026 highlights that the frontier AI race is contested primarily among Anthropic, OpenAI, and Google, with Anthropic leading on Artificial Analysis' Intelligence Index and Google leading on Chatbot Arena preferences.
+- Sophos uses OpenAI's Daybreak to reduce cyber-threat investigation time by 96% and automate 52% of managed detection and response cases while retaining human oversight.
+- Claude Code supports mods, which are plugins that let developers redraw the CLI interface, inject panes and commands, step into tool calls and requests, and share data between hooks.
+- Simon Willison released version 1.0 of `ttok`, a CLI token-counting tool, which defaults to the GPT-5 and GPT-6 tokenizer family after experiments confirmed across seven GPT models that the tokenizers match the same fixture outputs. Version 0.4 of `ttok` introduced a `--list-models` command and compatibility with `uvx`.
+- Agents are increasingly applied to valuable work in software development and scientific research, including the generation of genetic blueprints for microscopic viruses using generative models.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
