@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-10-09)
 
-- The State of AI Report 2026 highlights that the frontier AI race is contested primarily among Anthropic, OpenAI, and Google, with Anthropic leading on Artificial Analysis' Intelligence Index and Google leading on Chatbot Arena preferences.
-- Sophos uses OpenAI's Daybreak to reduce cyber-threat investigation time by 96% and automate 52% of managed detection and response cases while retaining human oversight.
-- Claude Code supports mods, which are plugins that let developers redraw the CLI interface, inject panes and commands, step into tool calls and requests, and share data between hooks.
-- Simon Willison released version 1.0 of `ttok`, a CLI token-counting tool, which defaults to the GPT-5 and GPT-6 tokenizer family after experiments confirmed across seven GPT models that the tokenizers match the same fixture outputs. Version 0.4 of `ttok` introduced a `--list-models` command and compatibility with `uvx`.
-- Agents are increasingly applied to valuable work in software development and scientific research, including the generation of genetic blueprints for microscopic viruses using generative models.
+- The frontier AI race remains contested primarily among Anthropic, OpenAI, and Google, with Anthropic leading on Artificial Analysis' Intelligence Index and Google leading on Chatbot Arena preferences. OpenAI is rolling out Ultrafast mode for GPT-6.1 Sol in the API, Codex, and ChatGPT Work, delivering near-Astra-level intelligence at up to 8x faster speeds than Sol Standard.
+- Cloudflare introduced Clef-omni with full multimodality for text, image, audio, and video inputs, alongside a faster Clef model and a cheaper Clef-flash model. Midjourney is testing a new thinking mode for image generation on its Alpha website.
+- Anthropic updated its usage policy to expressly ban prolonged verbal abuse of Claude alongside new prohibitions on election interference, weapons software, and surveillance.
+- In browser tests, Asana used GPT-6 Astra in Codex to make its browser agent 76x cheaper and 5x faster. A DuckDB experiment found that running Claude Code in agent mode against the 22 TPC-H questions reduced the tokens read by 59% with all answers remaining correct.
+- Agents are increasingly applied to valuable software and research work, including generating genetic blueprints for microscopic viruses, and a seed-funded startup named Hone aims to provide professional agent staffers for long-running business tasks spanning weeks or months. Google introduced a universal Gemini agent for cross-workspace workflows, featuring persistent context, multi-agent orchestration, and governance controls.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
