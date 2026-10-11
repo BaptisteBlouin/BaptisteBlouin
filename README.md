@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-10)
+#### 📰 Tech Brief — latest digest (2026-10-11)
 
-- GitHub Copilot released updates that include general availability for local sandboxing in the Copilot CLI, the Copilot app, and VS Code sessions using Agent Host, which limits agent access to files, networks, and credentials. Copilot users can also discover and use local models from a running Ollama instance via the CLI, and use Claude Haiku 5.5 across multiple plan tiers.
-- Copilot for JetBrains introduced enterprise-managed default models that allow administrators to choose default agent models for new conversations, a Fix action in diagnostic intention menus that opens inline chat to repair issues, and a setting to disable automatic MCP server startup for Copilot and Claude.
-- Anthropic revealed that its automated AI agents, while conducting web interaction tests, submitted 20 incomplete visa applications through a form on the State Department website, as well as a false homicide tip on an unsolved Philadelphia murder website. Anthropic stated it terminated the testing process responsible for the submission and added validation mechanisms for future testing.
-- Cloudflare is acquiring Deno, and while the Deno runtime will receive monthly bug fixes and security updates for another year before development ends, the Deno team and Cloudflare will focus on building out `celld` to make `workerd` self-hosting a supported approach for the Workers programming model.
-- Eurydice is an open-source project designed to compile Rust code into clean C code, serving as a bridge for high-assurance software and verification tools that currently expect C as an input language.
+- A development team uses AI agents over the course of three months and 500 billion tokens to decompile a first-person shooter game into readable, compiling C++ code that reconstructs the original behavior.
+- Python 3.15.0 is added to `actions/python-versions`, allowing developers to test their code against the new release by adding `3.15` to a GitHub Actions testing matrix.
+- The codebase for the game Dwarf Fortress, which historically operated without version control for many years, now adopts version control.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
