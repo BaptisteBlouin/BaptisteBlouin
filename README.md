@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-14)
+#### 📰 Tech Brief — latest digest (2026-10-15)
 
-- Google made Gemini 4 Argon broadly available, with limited-time API pricing of $2/$10 per 1M tokens, and it is available through the paid Gemini API, Google AI Studio, Antigravity and eligible Gemini Enterprise subscriptions. Google also made it available on Google Cloud as a frontier model for long, multi-step enterprise work.
-- Simon Willison notes that Argon's launch price doubles on December 1st, and argues that per-token prices are hard to compare because what matters is how many tokens a model needs to reach a goal inside an agentic harness.
-- GitHub's HydraFusion, which orchestrates several models into one response, now draws from a pool including Claude Opus 5.5, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, and sets reasoning effort per step (medium for drafts, high for review).
-- GPT-6.1 Sol now has a default context window of 500k, which the announcement says means fewer compactions on long-running tasks.
-- Liquid AI released LFM2.5-24B-A2B, a 24B-parameter reasoning model with 2B active parameters, which it reports matches or beats Qwen3.6-35B-A3B on five of eight benchmarks and runs up to 1.7x faster.
+- Modal says it has crossed $1B in annualized run rate and raised a $16B Series D, with usage and valuation tripling in five months.
+- Cohere announced a proposed agreement to acquire AISLE, a company building autonomous systems to find and fix unknown software vulnerabilities, to strengthen its sovereign AI platform and European presence.
+- Anthropic reportedly told investors its third-quarter revenue rose about 45% from the prior quarter to $16.8 billion, ahead of a possible IPO that could value it at $2 trillion.
+- A Substack analysis says more than half of businesses now pay for AI and growth will increasingly come from deeper adoption rather than new customers.
+- Jev's team reports it picked the right page first 88% of the time across 168 test questions, versus 70% for embedding search, and cut irrelevant results from 33% to 3% by answering "none" when no page fit.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
