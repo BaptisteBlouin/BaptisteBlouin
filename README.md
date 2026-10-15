@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-13)
+#### 📰 Tech Brief — latest digest (2026-10-14)
 
-- OpenAI's Higgsfield announcement says creators can now get videos over 10 minutes long, up from 1 minute, using GPT-6 Astra, with precise visuals from GPT-Image-2.5 and a path to voice filmmaking with GPT-Live.
-- Meta launched Muse Wonder and Wonder Full, its first frontier-class models, with stronger coding, benchmark gains, and Active Memory for retaining user-provided information.
-- Muse Wonder is available through the Meta Model API and Muse Code, while Wonder Full is limited to Muse Code subscribers.
-- Google's Gemini 4 Argon is generally available in GitHub Copilot for Pro+, Max, Business, and Enterprise users, billed at provider list pricing under usage-based billing.
-- Gemini 4 Argon scores 87% on the Embodied Reasoning (ERQA) benchmark, which Google says outperforms every other frontier model, and Google positions it as a general-purpose physical reasoning model for robotics.
+- Google made Gemini 4 Argon broadly available, with limited-time API pricing of $2/$10 per 1M tokens, and it is available through the paid Gemini API, Google AI Studio, Antigravity and eligible Gemini Enterprise subscriptions. Google also made it available on Google Cloud as a frontier model for long, multi-step enterprise work.
+- Simon Willison notes that Argon's launch price doubles on December 1st, and argues that per-token prices are hard to compare because what matters is how many tokens a model needs to reach a goal inside an agentic harness.
+- GitHub's HydraFusion, which orchestrates several models into one response, now draws from a pool including Claude Opus 5.5, GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna, and sets reasoning effort per step (medium for drafts, high for review).
+- GPT-6.1 Sol now has a default context window of 500k, which the announcement says means fewer compactions on long-running tasks.
+- Liquid AI released LFM2.5-24B-A2B, a 24B-parameter reasoning model with 2B active parameters, which it reports matches or beats Qwen3.6-35B-A3B on five of eight benchmarks and runs up to 1.7x faster.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
