@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-15)
+#### 📰 Tech Brief — latest digest (2026-10-16)
 
-- Anthropic told investors its third-quarter revenue rose about 45% from the prior quarter to $16.8 billion, ahead of a possible IPO that could value it at $2 trillion. Its distillation clampdown accounted for 5% to 7% of revenue-related usage, and it reported 11% adjusted operating margins.
-- Anthropic gave METR employee-like access to evaluate its models and will publish the results of its risk assessments, while also working with SecureBio, Accenture and early talks with Hugging Face.
-- Modal says it has crossed $1B in annualized run rate and raised a $16B Series D, with usage and valuation tripling in five months.
-- Cohere announced a proposed agreement to acquire AISLE, an autonomous vulnerability-finding company, to strengthen its sovereign AI platform and European presence.
-- Meta released the weights of Muse Spark Open, an 816B total / 42B active parameter MoE model under the Muse Model License, optimized for SGLang and vLLM on NVIDIA, AMD and Intel, with a 1M-token context window. It is available in limited preview on GroqCloud, where Meta reports 350+ tokens per second per user.
+- Meta released Muse Spark Open, an 816-billion-parameter open-weight mixture-of-experts model that activates 42 billion parameters per token and supports up to 1 million tokens of context. Meta's benchmarks ran on a pair of M5 Ultra Mac Studios, with an unspecified memory configuration.
+- Per the same newsletter, a version of Muse Spark Open shipped today, but it is weaker than Meta's earlier Spark 1.3 model.
+- Goodfire's Nick Cammarata published an essay arguing that neural networks are already clean, claiming that many known cases of polysemanticity and superposition resolve under further agentic analysis.
+- GitHub Copilot in Slack and Microsoft Teams now works across multiple repositories in one conversation, for tasks such as tracking pull requests and investigating issues spanning frontend and backend repos.
+- Perplexity open-sourced SPACE, the sandbox platform behind its Computer product, positioned as a foundation for safer agent systems.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
