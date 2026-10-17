@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-10-16)
 
-- Meta released Muse Spark Open, an 816-billion-parameter open-weight mixture-of-experts model that activates 42 billion parameters per token and supports up to 1 million tokens of context. Meta's benchmarks ran on a pair of M5 Ultra Mac Studios, with an unspecified memory configuration.
-- Per the same newsletter, a version of Muse Spark Open shipped today, but it is weaker than Meta's earlier Spark 1.3 model.
-- Goodfire's Nick Cammarata published an essay arguing that neural networks are already clean, claiming that many known cases of polysemanticity and superposition resolve under further agentic analysis.
-- GitHub Copilot in Slack and Microsoft Teams now works across multiple repositories in one conversation, for tasks such as tracking pull requests and investigating issues spanning frontend and backend repos.
-- Perplexity open-sourced SPACE, the sandbox platform behind its Computer product, positioned as a foundation for safer agent systems.
+- Meta released Muse Spark Open, an 816-billion-parameter multimodal open-weight model with 42 billion active parameters and a 1-million-token context window, designed for coding and long-horizon agentic tasks; it can run locally across two Apple M5 Ultra Mac Studios using MLX.
+- A version of Muse Spark Open shipped today, but it is weaker than Meta's earlier Spark 1.3 model.
+- Reflection released Beam-1.0-501B-A23B, a 501-billion-parameter open model. Nvidia released Nemotron 3.5 Super VL, a multimodal reasoning model scoring 26.5 on Artificial Analysis' Intelligence Index with fewer output tokens than its predecessor, plus the smaller Nemotron 3.5 Bolt 74B-A9B and near-lossless NVFP4 weights.
+- Black Forest Labs released FLUX 3 Image Klein, a 5.6-billion-parameter open-weight model for text-to-image, editing, native 4K output and up to 10 reference images.
+- Microsoft detailed MAI-Base-2, a 2.8-trillion-parameter mixture-of-experts model with 80 billion active parameters, which it said surpassed every open-weight model in its held-out pre-training evaluations.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
