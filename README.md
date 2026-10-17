@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-16)
+#### 📰 Tech Brief — latest digest (2026-10-17)
 
-- Meta released Muse Spark Open, an 816-billion-parameter multimodal open-weight model with 42 billion active parameters and a 1-million-token context window, designed for coding and long-horizon agentic tasks; it can run locally across two Apple M5 Ultra Mac Studios using MLX.
-- A version of Muse Spark Open shipped today, but it is weaker than Meta's earlier Spark 1.3 model.
-- Reflection released Beam-1.0-501B-A23B, a 501-billion-parameter open model. Nvidia released Nemotron 3.5 Super VL, a multimodal reasoning model scoring 26.5 on Artificial Analysis' Intelligence Index with fewer output tokens than its predecessor, plus the smaller Nemotron 3.5 Bolt 74B-A9B and near-lossless NVFP4 weights.
-- Black Forest Labs released FLUX 3 Image Klein, a 5.6-billion-parameter open-weight model for text-to-image, editing, native 4K output and up to 10 reference images.
-- Microsoft detailed MAI-Base-2, a 2.8-trillion-parameter mixture-of-experts model with 80 billion active parameters, which it said surpassed every open-weight model in its held-out pre-training evaluations.
+- Meta released Muse Spark Open, an 816B-total, 42B-active MoE with open weights, which Artificial Analysis scores at 39 on its Intelligence Index, the highest for a US open-weights model.
+- The Claude Code team describes running review continuously during development rather than only at the end: most changes are reviewed and fixed by Claude at least once before a human is asked to look, which catches routine mistakes and frees reviewer attention for higher-level questions.
+- The same write-up reframes review around the question "what could go wrong with this change, and which check, automated or human, should catch it?" rather than "did a human read the code?".
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
