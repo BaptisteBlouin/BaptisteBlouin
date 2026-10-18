@@ -78,7 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-10-17)
 
-- Meta released Muse Spark Open, an 816B-total, 42B-active MoE with open weights, which Artificial Analysis scores at 39 on its Intelligence Index, the highest for a US open-weights model.
+- Meta's Muse Spark is an open-weights mixture-of-experts model with 816B total and 42B active parameters. Artificial Analysis scores it 39 on its Intelligence Index, the highest of any US open-weights model and 13 points above NVIDIA's Nemotron 3.5 Super VL.
+- The Claude Code team now runs review continuously while code is written, so most changes are reviewed and fixed by Claude before a human is asked to look, which frees reviewer attention for higher-level questions.
+- An overview of eight chunking strategies for RAG-based agents covers fixed-size splitting with overlap, recursive splitting that falls back from paragraphs to lines, words and characters, and document-based splitting at the document's own breaks.
+- A small inline-script pattern uses `document.currentScript.replaceWith()` to swap a script tag for its output when the page loads, and a shortcut function turns it into a tiny template language, with no framework needed.
+- Simon Willison released web-edit 0.1a2, a small web app for browsing and editing files in a folder, now with copy-to-clipboard for text and images, built for editing files across machines over Tailscale.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
