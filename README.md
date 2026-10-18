@@ -79,8 +79,6 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-10-17)
 
 - Meta released Muse Spark Open, an 816B-total, 42B-active MoE with open weights, which Artificial Analysis scores at 39 on its Intelligence Index, the highest for a US open-weights model.
-- The Claude Code team describes running review continuously during development rather than only at the end: most changes are reviewed and fixed by Claude at least once before a human is asked to look, which catches routine mistakes and frees reviewer attention for higher-level questions.
-- The same write-up reframes review around the question "what could go wrong with this change, and which check, automated or human, should catch it?" rather than "did a human read the code?".
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
