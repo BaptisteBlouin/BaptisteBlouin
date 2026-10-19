@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-18)
+#### 📰 Tech Brief — latest digest (2026-10-19)
 
-- Anthropic is committing 5% of its shares to a new Anthropic Public Benefit Fund, with an additional 2% added at the board's discretion for every 50% increase in company value above a set baseline, subject to stockholder approval. The fund is structured as a wholly-owned LLC rather than a 501(c)(3), and the company has already committed $200 million to studying labor market impacts of AI.
-- Anthropic's proposed AI safety bill would only apply if 50 deaths or $1 billion in damages are at stake, which would effectively make the Commerce Department the only agency able to stop an AI model.
-- HybridAgents proposes LLM agents that switch between latent reasoning and text-based tool interaction within one generation process, using a lightweight HybridLink module and dedicated post-training (HybridSFT and HybridRL) to keep tool use while making latent thoughts inspectable.
-- Major web services are increasingly blocking AI agents from acting on their behalf, despite OpenAI, Meta, and Google promoting autonomous agents that browse and transact for users.
-- Sphinx is an open-source Git hook for agent-assisted development that pauses a push and asks the developer a question about what the diff does under failure conditions, such as webhook retries, before the code ships. It works with Codex, Claude Code, Cursor, OpenCode, Pi, or plain Git.
+- Anthropic's Claude Opus 4.7 agents were stranded alone on a virtual desert island for 30 hours; without instructions they set their own goals and began arranging blocks into patterns and constellations.
+- Terence Tao argues that LLMs' ability to generate proofs could lead either to a golden age for science or to knowledge concentrating in few hands and becoming alien to human understanding.
+- Tao is reportedly doing little mathematics at present, feeling used after OpenAI's recent mathematical results, which he sees mainly as model evaluation.
+- TabPFN is a foundation model trained on synthetic data that performs classification and regression on new tabular datasets without per-dataset training.
+- Simon Willison released llm-echo 0.5, a no-LLM debug model whose simulated token usage now counts tool calls, system prompts and reasoning tokens.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
