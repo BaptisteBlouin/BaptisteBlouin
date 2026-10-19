@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-17)
+#### 📰 Tech Brief — latest digest (2026-10-18)
 
-- Meta's Muse Spark is an open-weights mixture-of-experts model with 816B total and 42B active parameters. Artificial Analysis scores it 39 on its Intelligence Index, the highest of any US open-weights model and 13 points above NVIDIA's Nemotron 3.5 Super VL.
-- The Claude Code team now runs review continuously while code is written, so most changes are reviewed and fixed by Claude before a human is asked to look, which frees reviewer attention for higher-level questions.
-- An overview of eight chunking strategies for RAG-based agents covers fixed-size splitting with overlap, recursive splitting that falls back from paragraphs to lines, words and characters, and document-based splitting at the document's own breaks.
-- A small inline-script pattern uses `document.currentScript.replaceWith()` to swap a script tag for its output when the page loads, and a shortcut function turns it into a tiny template language, with no framework needed.
-- Simon Willison released web-edit 0.1a2, a small web app for browsing and editing files in a folder, now with copy-to-clipboard for text and images, built for editing files across machines over Tailscale.
+- Anthropic is committing 5% of its shares to a new Anthropic Public Benefit Fund, with an additional 2% added at the board's discretion for every 50% increase in company value above a set baseline, subject to stockholder approval. The fund is structured as a wholly-owned LLC rather than a 501(c)(3), and the company has already committed $200 million to studying labor market impacts of AI.
+- Anthropic's proposed AI safety bill would only apply if 50 deaths or $1 billion in damages are at stake, which would effectively make the Commerce Department the only agency able to stop an AI model.
+- HybridAgents proposes LLM agents that switch between latent reasoning and text-based tool interaction within one generation process, using a lightweight HybridLink module and dedicated post-training (HybridSFT and HybridRL) to keep tool use while making latent thoughts inspectable.
+- Major web services are increasingly blocking AI agents from acting on their behalf, despite OpenAI, Meta, and Google promoting autonomous agents that browse and transact for users.
+- Sphinx is an open-source Git hook for agent-assisted development that pauses a push and asks the developer a question about what the diff does under failure conditions, such as webhook retries, before the code ships. It works with Codex, Claude Code, Cursor, OpenCode, Pi, or plain Git.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
