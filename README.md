@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-19)
+#### 📰 Tech Brief — latest digest (2026-10-20)
 
-- Anthropic's Claude Opus 4.7 agents were stranded alone on a virtual desert island for 30 hours; without instructions they set their own goals and began arranging blocks into patterns and constellations.
-- Terence Tao argues that LLMs' ability to generate proofs could lead either to a golden age for science or to knowledge concentrating in few hands and becoming alien to human understanding.
-- Tao is reportedly doing little mathematics at present, feeling used after OpenAI's recent mathematical results, which he sees mainly as model evaluation.
-- TabPFN is a foundation model trained on synthetic data that performs classification and regression on new tabular datasets without per-dataset training.
-- Datadog's Scout 1.0, an SRE model powering its Bits AI assistant, reportedly matches general-purpose frontier models at three to eight times lower estimated inference cost, trained with reinforcement learning on simulations built from historical incidents.
+- OpenAI's recently released proof of the quasi-Riemann hypothesis is described as the most significant AI-for-math achievement so far, since resolving it already yields most of the consequences of the Riemann hypothesis.
+- Decision models (TypeSafe's Jev, Perplexity's Decider, Liquid's d1, Cloudflare's Clef, OpenAI's Decisions API) are presented as a low-cost alternative to LLM judges for automated evals, and the post argues that the default 0.50 decision threshold should be checked and tuned before comparing cost and performance.
+- Jason Wei argues that radiologists will not be fully automated: as predictive power increases, demand for their services may rise, similar to how programming has held up despite major change.
+- Python 3.15.0 is out, featuring lazy imports, a built-in frozendict and sentinel, improved color support, a faster JIT, and package startup config files.
+- A widely shared essay on programming argues that coding agents remove the puzzle-solving part of the job that career programmers enjoyed, while leaving those who prize building working systems well served.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
