@@ -82,7 +82,7 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 - Terence Tao argues that LLMs' ability to generate proofs could lead either to a golden age for science or to knowledge concentrating in few hands and becoming alien to human understanding.
 - Tao is reportedly doing little mathematics at present, feeling used after OpenAI's recent mathematical results, which he sees mainly as model evaluation.
 - TabPFN is a foundation model trained on synthetic data that performs classification and regression on new tabular datasets without per-dataset training.
-- Simon Willison released llm-echo 0.5, a no-LLM debug model whose simulated token usage now counts tool calls, system prompts and reasoning tokens.
+- Datadog's Scout 1.0, an SRE model powering its Bits AI assistant, reportedly matches general-purpose frontier models at three to eight times lower estimated inference cost, trained with reinforcement learning on simulations built from historical incidents.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
