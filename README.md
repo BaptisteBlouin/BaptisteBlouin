@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-20)
+#### 📰 Tech Brief — latest digest (2026-10-21)
 
-- OpenAI's recently released proof of the quasi-Riemann hypothesis is described as the most significant AI-for-math achievement so far, since resolving it already yields most of the consequences of the Riemann hypothesis.
-- Decision models (TypeSafe's Jev, Perplexity's Decider, Liquid's d1, Cloudflare's Clef, OpenAI's Decisions API) are presented as a low-cost alternative to LLM judges for automated evals, and the post argues that the default 0.50 decision threshold should be checked and tuned before comparing cost and performance.
-- Cohere's CALIBER trains a reasoning model to estimate its chance of success before it starts and to reassess its answer afterwards; on its math benchmark, the calibrated 7B model cuts calibration error by more than half versus the best single-confidence baseline on that metric.
-- Mercury 3, a diffusion-based language model from Inception Labs, reportedly outperforms GPT-6 Luna and Claude Haiku 5.5 on several benchmarks while generating over 1,000 tokens per second.
-- MiniMax M3.1 Flash makes online inference nearly three times faster and cuts usage costs by 70%, with weights promised later.
+- DeepSeek open-sourced DeepInfer, its production inference stack, which is a customization of vLLM crediting SGLang and TensorRT-LLM; the release omits DeepSeek's KV cache, PD disaggregation and load balancing, and the article claims prompt caching of up to 72 hours.
+- Anthropic's Claude was used to design mini protein binders against scorpion neurotoxins: 17 of 211 designs met Anthropic's criteria, but whether they neutralize venom in cells is not confirmed, so it is not claimed as an antivenom.
+- Anthropic's draft S-1 reports a net loss above $80 billion in the first half of the year, alongside fast revenue growth and a possible $750 billion compute spend over the next few years.
+- Eight eMudhra intermediate CA certificates had compromised private keys, and they chain to roots trusted by major browser and OS root programs; an attacker could forge certificates for any domain.
+- Cloudflare patched its critical services, has released updates for its WARP and 1.1.1.1 clients, and reports no active exploitation on its services so far.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
