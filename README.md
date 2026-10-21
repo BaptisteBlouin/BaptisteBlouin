@@ -80,9 +80,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - OpenAI's recently released proof of the quasi-Riemann hypothesis is described as the most significant AI-for-math achievement so far, since resolving it already yields most of the consequences of the Riemann hypothesis.
 - Decision models (TypeSafe's Jev, Perplexity's Decider, Liquid's d1, Cloudflare's Clef, OpenAI's Decisions API) are presented as a low-cost alternative to LLM judges for automated evals, and the post argues that the default 0.50 decision threshold should be checked and tuned before comparing cost and performance.
-- Jason Wei argues that radiologists will not be fully automated: as predictive power increases, demand for their services may rise, similar to how programming has held up despite major change.
-- Python 3.15.0 is out, featuring lazy imports, a built-in frozendict and sentinel, improved color support, a faster JIT, and package startup config files.
-- A widely shared essay on programming argues that coding agents remove the puzzle-solving part of the job that career programmers enjoyed, while leaving those who prize building working systems well served.
+- Cohere's CALIBER trains a reasoning model to estimate its chance of success before it starts and to reassess its answer afterwards; on its math benchmark, the calibrated 7B model cuts calibration error by more than half versus the best single-confidence baseline on that metric.
+- Mercury 3, a diffusion-based language model from Inception Labs, reportedly outperforms GPT-6 Luna and Claude Haiku 5.5 on several benchmarks while generating over 1,000 tokens per second.
+- MiniMax M3.1 Flash makes online inference nearly three times faster and cuts usage costs by 70%, with weights promised later.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
