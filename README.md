@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-10-21)
 
-- DeepSeek open-sourced DeepInfer, its production inference stack, which is a customization of vLLM crediting SGLang and TensorRT-LLM; the release omits DeepSeek's KV cache, PD disaggregation and load balancing, and the article claims prompt caching of up to 72 hours.
-- Anthropic's Claude was used to design mini protein binders against scorpion neurotoxins: 17 of 211 designs met Anthropic's criteria, but whether they neutralize venom in cells is not confirmed, so it is not claimed as an antivenom.
-- Anthropic's draft S-1 reports a net loss above $80 billion in the first half of the year, alongside fast revenue growth and a possible $750 billion compute spend over the next few years.
-- Eight eMudhra intermediate CA certificates had compromised private keys, and they chain to roots trusted by major browser and OS root programs; an attacker could forge certificates for any domain.
-- Cloudflare patched its critical services, has released updates for its WARP and 1.1.1.1 clients, and reports no active exploitation on its services so far.
+- DeepSeek's production inference stack, DeepInfer, is open-sourced as a customization of vLLM that credits SGLang and TensorRT-LLM; the release omits DeepSeek's KV cache, PD disaggregation and load balancing, and the article claims prompt caching of up to 72 hours.
+- A Zhihu piece summarizes DeepInfer as combining distributed inference, caching, load balancing and speculative decoding, citing 155 trillion tokens per day per cluster and $38 revenue per GPU-hour.
+- Kumo Relational, an NVIDIA pre-trained relational foundation model, predicts outcomes directly on enterprise databases in a single forward pass with no training or feature engineering, and reportedly beats supervised relational deep learning and gradient-boosted tree pipelines across 41 tasks on 15 databases.
+- Cohere's Rerank 5 (Pro and Fast tiers) adds Context Focus, returning the most relevant spans within each document to cut LLM token costs, with calibrated relevance scores across domains.
+- A Hugging Face article on vocabulary specialization reports a 77% cut in measured inference cost for a production Portuguese essay grader by tuning the tokenizer around per-token cost, without changing the base model.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
