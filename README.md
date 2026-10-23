@@ -80,9 +80,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - Shopify trains and hosts specialist open models for Sidekick's focused tasks, using production failures and human feedback. Its GraphQL specialist slightly outperformed the frontier model on Shopify's evaluation while responding 7x faster and costing about 90% less to serve.
 - A solo engineer reportedly trained a 3.848B-parameter LLM from scratch for $998, finishing in 43 hours on eight rented B200s and reaching 0.384 CORE on DCLM, roughly 50% above GPT-2's reported score.
+- Recursive's Flint is a 40B-total, 2.5B-active mixture-of-experts model built for local agentic coding, reported at over 125 tokens per second on an M4 Pro MacBook Pro.
 - Ensemble forecasting with IBM's Granite time-series models is covered in a Hugging Face blog post, with the ibm-granite/granite-timeseries-ensemble-r1 model listed on the hub.
 - A Cohere Labs open science project tested whether models understand culture using Hungarian riddles; the models gave answers that sounded right but were missing culturally specific facts, and in some cases hallucinated.
-- OpenAI's Patch the Planet program, using GPT-5.6 Sol, is one of two parties that independently found PHP2Shell vulnerabilities in core PHP, which the write-up says affect about 70% of the web; the other party is Wiz, now part of Google Cloud.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
