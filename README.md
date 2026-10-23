@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-22)
+#### 📰 Tech Brief — latest digest (2026-10-23)
 
-- Shopify trains and hosts specialist open models for Sidekick's focused tasks, using production failures and human feedback. Its GraphQL specialist slightly outperformed the frontier model on Shopify's evaluation while responding 7x faster and costing about 90% less to serve.
-- A solo engineer reportedly trained a 3.848B-parameter LLM from scratch for $998, finishing in 43 hours on eight rented B200s and reaching 0.384 CORE on DCLM, roughly 50% above GPT-2's reported score.
-- Recursive's Flint is a 40B-total, 2.5B-active mixture-of-experts model built for local agentic coding, reported at over 125 tokens per second on an M4 Pro MacBook Pro.
-- Ensemble forecasting with IBM's Granite time-series models is covered in a Hugging Face blog post, with the ibm-granite/granite-timeseries-ensemble-r1 model listed on the hub.
-- A Cohere Labs open science project tested whether models understand culture using Hungarian riddles; the models gave answers that sounded right but were missing culturally specific facts, and in some cases hallucinated.
+- OpenAI and Poland's NASK are partnering on AI safety, security and technical research to strengthen safeguards.
+- Three OpenAI safety researchers were fired after security officers found Signal chats with disappearing messages enabled on their personal devices; OpenAI says the firings were for violating policies on sensitive information, not for raising safety concerns, while the researchers argue the move will close a channel for independent third-party insight.
+- Microsoft published a post on turning database grading into RL rewards to post-train agents with ThinkingBox.
+- PyTorch Conference North America 2026 (October 20–21, San Jose, 3,500+ attendees) focused on open-source training and serving of models across chips and clouds, covering PyTorch, vLLM, DeepSpeed, Ray, Helion and Safetensors.
+- GitHub Copilot in Visual Studio's September update adds a Git agent that can summarize a pull request with navigable links (requires the GitHub or Azure DevOps MCP server), and Bring Your Own Model is in preview.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
