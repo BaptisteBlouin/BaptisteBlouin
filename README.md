@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-23)
+#### 📰 Tech Brief — latest digest (2026-10-24)
 
-- OpenAI and Poland's NASK are partnering on AI safety, security and technical research to strengthen safeguards.
-- Three OpenAI safety researchers were fired after security officers found Signal chats with disappearing messages enabled on their personal devices; OpenAI says the firings were for violating policies on sensitive information, not for raising safety concerns, while the researchers argue the move will close a channel for independent third-party insight.
-- OpenAI is reportedly closing a funding round of up to $30 billion at a $1.25 trillion valuation, led by UAE investors and positioned as a bridge ahead of a potential IPO.
-- An internal OpenAI model found a counterexample to Erdős's unit distance conjecture, and OpenAI later published a proof of the Cycle Double Cover problem and solutions to ten more open problems; Anthropic published a formalization of Fermat's Last Theorem.
-- Kimi K3.1 Pro is available on the Moonshot API at $2.00 per million input tokens and $10 per million output tokens, with full open weights promised by November 4, 2026; Artificial Analysis scored it 55, behind only Claude Opus 5.5 (58).
+- Kimi K3.1 Pro, a post-trained version of Kimi K3 with substantially larger post-training compute, is reported as a 2.8T-parameter open-weights model that Latent Space says beats Fable 5.1. The release also comes with a Pro Highspeed API that the same newsletter says runs 2 to 3 times faster.
+- GitHub's Copilot usage metrics API now includes a new `totals_by_client` array in the enterprise, organization and per-user 1-day and 28-day reports. Each entry gives request count, session count and token usage per client, so usage from tools such as OpenCode, Claude Code and Codex can be tracked.
+- Each client entry also breaks usage down by model, with a `model_selection_mode` field showing whether the model was chosen directly by the user or selected automatically.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
