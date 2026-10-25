@@ -79,8 +79,10 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 #### 📰 Tech Brief — latest digest (2026-10-24)
 
 - Kimi K3.1 Pro, a post-trained version of Kimi K3 with substantially larger post-training compute, is reported as a 2.8T-parameter open-weights model that Latent Space says beats Fable 5.1. The release also comes with a Pro Highspeed API that the same newsletter says runs 2 to 3 times faster.
+- Sebastian Raschka has published a free eight-video course (about 11 hours) that builds reasoning models from a pre-trained LLM in PyTorch, covering inference scaling, reinforcement learning and distillation, as a companion to his Build Reasoning Model (From Scratch) book.
 - GitHub's Copilot usage metrics API now includes a new `totals_by_client` array in the enterprise, organization and per-user 1-day and 28-day reports. Each entry gives request count, session count and token usage per client, so usage from tools such as OpenCode, Claude Code and Codex can be tracked.
 - Each client entry also breaks usage down by model, with a `model_selection_mode` field showing whether the model was chosen directly by the user or selected automatically.
+- ByteByteGo explains the difference between standard RAG, which retrieves once from a knowledge base and adds the results to the prompt, and agentic RAG, where an agent decides how and when to retrieve.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
