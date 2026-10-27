@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-26)
+#### 📰 Tech Brief — latest digest (2026-10-27)
 
-- Cloudflare KV cache exposure in GLM-5.3 Workers AI model - security incident with cross-tenant data leakage, remediated with SGLang
-- Import AI 478 - math for alignment, ProgramBench, Mirendil showing RSI (recursive self-improvement)
-- GPT-6.1 Terra in GitHub Copilot - new model generally available for agentic coding
-- Optimizing Streaming Speech Recognition on Arm Edge Devices with ExecuTorch - PyTorch to ExecuTorch case study with benchmarks
-- Dessa - conversation model trained only on speech (no text)
+- Anthropic filed its IPO paperwork, with a 350-page S-1 that reportedly shows 1400% growth, 48% of revenue through cloud partners, an 85% margin and $1B operating profit in Q2. The prospectus puts the valuation between $1.5 trillion and $2 trillion, with a listing on NASDAQ under 'ANT' expected before Thanksgiving.
+- The S-1 pitches "virtual collaborators" for over a billion knowledge workers by 2028. It also warns that AI could enable new bioweapons and destabilize the geopolitical order.
+- Anthropic's own S-1 analysis, as summarized by Tomasz Tunguz, describes an AI company with explosive growth and rising efficiency.
+- OpenAI released GPT-6.1 Terra, positioned for visual reasoning and computer use, sitting between cheaper and more expensive tiers, similar to Sonnet in Anthropic's lineup.
+- The Claude Code team reports that Claude writes about 90% of the code in Claude Code. Merged pull requests more than doubled between June and September while the share reverted fell by over 40%, because most of the review reading was moved to machines.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
