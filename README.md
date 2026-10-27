@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-10-26)
 
-- Dan Luu argues that AI can now one-shot many projects, so almost anyone can create software, but models still struggle with harder tasks, and developers should be more ambitious as models improve.
-- Context engineering is described as hard for structural reasons: models are built, optimized and trained in ways that create specific failure modes, so the challenge will persist as models get better.
-- Tiger Data built three memory systems for its Slack agent (a fact list, a knowledge graph and a tree); agents struggled to interpret graph edges, while a tree built on Postgres's ltree extension worked better and cut a thread-summary filing from dozens of turns to one tool call.
-- A test of agentic RAG across 298 questions and 2,000 arXiv papers found that letting the agent search again gained 1.2 points, a difference within noise.
-- Sutura is an Apache-2.0 Rust runtime that exposes certified metrics and semantic definitions to AI agents over HTTP or MCP, with federated queries and policy enforcement, so agents don't improvise against warehouse tables.
+- Cloudflare KV cache exposure in GLM-5.3 Workers AI model - security incident with cross-tenant data leakage, remediated with SGLang
+- Import AI 478 - math for alignment, ProgramBench, Mirendil showing RSI (recursive self-improvement)
+- GPT-6.1 Terra in GitHub Copilot - new model generally available for agentic coding
+- Optimizing Streaming Speech Recognition on Arm Edge Devices with ExecuTorch - PyTorch to ExecuTorch case study with benchmarks
+- Dessa - conversation model trained only on speech (no text)
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
