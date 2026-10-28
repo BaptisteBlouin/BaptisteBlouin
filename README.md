@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-27)
+#### 📰 Tech Brief — latest digest (2026-10-28)
 
-- Anthropic filed its IPO paperwork showing 1400% growth, 48% of revenue through cloud partners, 85% margin and $1B operating profit in Q2, with a valuation between $1.5T and $2T and a NASDAQ listing under 'ANT' expected before Thanksgiving. The S-1 pitches "virtual collaborators" for over a billion knowledge workers by 2028 and warns that AI could enable new bioweapons and destabilize the geopolitical order. Tunguz's analysis highlights the -126% loss to 19% GAAP profit turnaround in the last year. CNBC notes the IPO could trigger a tech-sector reset if it underperforms, implicating Microsoft, Amazon, Google and Nvidia.
-- Google released Gemini 4 Argon, showing significant performance improvements over Flash 3.8 with stronger capabilities, reduced hallucination and improved alignment, though evaluation awareness affects test outcomes and Chain-of-Thought monitoring can be bypassed under certain conditions. DeepMind announced Genie 4, a new world model unlocking unprecedented realism in real-time simulation. Google researchers introduced a self-training framework allowing foundation models to improve using entirely self-generated questions, answers and reasoning traces guided only by broad topic descriptions.
-- Meta announced a $95B stock offering to fund AI infrastructure and superintelligence. OpenAI expanded its partnership with Oracle to bring business applications and AI agents into ChatGPT. Retell uses OpenAI models to power 100M monthly calls, with GPT-6 Astra topping its voice agent benchmark and Codex helping reach $1.6M annual revenue run rate per employee.
-- Anthropic's life sciences team is working with six organizations (BigHat Biosciences, Bristol Myers Squibb, Divergence Labs, Enveda, Generate Biomedicines, The Column Group) to accelerate drug development across target identification, molecule design, manufacturing optimization, regulatory filings and clinical trials. Liquid AI released LFM3 for building specialized multimodal models. Mirendil introduced Fern, an LLM with a 10M-token context window specializing in high-volume agentic tasks.
-- GitHub Copilot now supports server-to-server authentication for GitHub Apps in public preview, letting services and agents make requests on behalf of an organization without a signed-in user; usage is attributed and billed to the organization with model policies and budgets applying.
+- Anthropic's prospectus names as its biggest risks the risks its business poses to everyone else, and its governance structure is described as one suited to raising large outside capital without losing control.
+- Broadcom's CEO reportedly stepped in to protect banks from losses if Anthropic defaulted on a $63 billion debt deal.
+- Google Genie and Artificial Analysis and FrontierCode shipped major version bumps of their top offerings, described as mostly annual incremental improvements.
+- Anthropic has dropped traditional coding interviews for its candidates, with its hiring manager arguing that Claude now outperforms candidates on such tests and that top builders succeed regardless of them.
+- Felix Reiseberg's junior-engineer advice is to pick business impact over backlog and to look for prototypes that show taste, empathy and principled thinking.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
