@@ -80,9 +80,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - Anthropic's prospectus names as its biggest risks the risks its business poses to everyone else, and its governance structure is described as one suited to raising large outside capital without losing control.
 - Broadcom's CEO reportedly stepped in to protect banks from losses if Anthropic defaulted on a $63 billion debt deal.
-- Google Genie and Artificial Analysis and FrontierCode shipped major version bumps of their top offerings, described as mostly annual incremental improvements.
-- Anthropic has dropped traditional coding interviews for its candidates, with its hiring manager arguing that Claude now outperforms candidates on such tests and that top builders succeed regardless of them.
-- Felix Reiseberg's junior-engineer advice is to pick business impact over backlog and to look for prototypes that show taste, empathy and principled thinking.
+- Anthropic's Claude reportedly found, with no human input, a deterministic algorithm that counts satisfying assignments of 3-SAT formulas in 2^O(n log log n/√log n) time, which would refute the Exponential Time Hypothesis; Anthropic notes the result says nothing about practical SAT solving and that no machine checks the Lean formalization against the paper.
+- Anthropic has acquired Mithril Medicine, a one-person AI-driven biotech startup, so its programs can continue with more resources.
+- GitHub Copilot Fusion is generally available: rather than picking a model per task, it routes and orchestrates models, and scored 60 on the Artificial Analysis Coding Agent Index, within two points of Claude Code with Opus 5.5 Max, at about half the average API cost per task.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
