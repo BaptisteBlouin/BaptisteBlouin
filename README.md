@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-29)
+#### 📰 Tech Brief — latest digest (2026-10-30)
 
-- Google DeepMind announced Gemini 4 Carbon, positioned as state of the art on cybersecurity and long-horizon tasks, and it reportedly takes the top spot on the Artificial Analysis consolidated benchmark. Access is limited to selected cybersecurity defenders for now, with a broader release planned after guardrail improvements.
-- Carbon's introductory pricing is $2 per million input tokens and $10 per million output tokens, with a 95% discount on cached inputs, rising to $4 and $20 when the introductory period ends.
-- Ted Sanders explains OpenAI's model naming: the order of release, the relation to other releases, and the size of improvement, with models ordered Luna < Terra < Sol < Astra, and model size as the main driver of performance, cost per token and recall.
-- Mistral released the weights of Mistral Large 4 (Le Chonk), a 1-trillion-parameter multimodal model with three reasoning modes, which the company says leads open-weight benchmarks in coding and defensive security.
-- OpenAI launched API credits for eligible $100, $200 and $500 ChatGPT subscriptions, matching a similar Anthropic offer.
+- Agent speed work spans several levers: knowing which part of inference a project depends on, reading thinking budgets and traces, and giving agents the tools they prefer over the ones you assume they need.
+- A proposed way to add determinism to agents without crippling them is an egress proxy that denies actions and injects automated follow-up messages, so the agent keeps freedom in tool choice.
+- A practical point for builders: agents can now automate many tasks that earlier models could not, so simply asking an AI to do a task is often worth trying first.
+- One essay argues that progress in science has accelerated over the last two years and that AI could enable forms of discovery no human network could reach.
+- Reddit plans to test a logged-in-only experience in select non-US markets in Q4, citing new-user retention, ad targeting signals and control over AI scraping.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
