@@ -76,13 +76,10 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-30)
+#### 📰 Tech Brief — latest digest (2026-10-31)
 
-- Agent speed work spans several levers: knowing which part of inference a project depends on, reading thinking budgets and traces, and giving agents the tools they prefer over the ones you assume they need.
-- A proposed way to add determinism to agents without crippling them is an egress proxy that denies actions and injects automated follow-up messages, so the agent keeps freedom in tool choice.
-- Agents can now automate many tasks that earlier models could not, so simply asking an AI to do a task is often worth trying first.
-- Agent swarms without a designated leader showed that a member's leadership depends on its underlying model and on the order its name appears in the prompt, so small configuration details shape coordination.
-- Supabase Compute, in private alpha, runs agents, background jobs and APIs next to user data in us-west-2; one team reported median query latency falling from 65 ms to 2.9 ms after moving a data agent there.
+- Google acknowledged that AI Mode hurts Search revenue, since strong growth in AI Mode queries came with lower monetization, according to Chief Business Officer Philipp Schindler.
+- The admission was followed by a steep drop in Alphabet's share price, reportedly the worst since its 2004 IPO, with commentators debating whether an AI bear market is coming.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
