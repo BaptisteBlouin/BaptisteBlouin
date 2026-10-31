@@ -80,9 +80,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - Agent speed work spans several levers: knowing which part of inference a project depends on, reading thinking budgets and traces, and giving agents the tools they prefer over the ones you assume they need.
 - A proposed way to add determinism to agents without crippling them is an egress proxy that denies actions and injects automated follow-up messages, so the agent keeps freedom in tool choice.
-- A practical point for builders: agents can now automate many tasks that earlier models could not, so simply asking an AI to do a task is often worth trying first.
-- One essay argues that progress in science has accelerated over the last two years and that AI could enable forms of discovery no human network could reach.
-- Reddit plans to test a logged-in-only experience in select non-US markets in Q4, citing new-user retention, ad targeting signals and control over AI scraping.
+- Agents can now automate many tasks that earlier models could not, so simply asking an AI to do a task is often worth trying first.
+- Agent swarms without a designated leader showed that a member's leadership depends on its underlying model and on the order its name appears in the prompt, so small configuration details shape coordination.
+- Supabase Compute, in private alpha, runs agents, background jobs and APIs next to user data in us-west-2; one team reported median query latency falling from 65 ms to 2.9 ms after moving a data agent there.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
