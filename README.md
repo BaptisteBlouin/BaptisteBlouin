@@ -80,6 +80,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - Google acknowledged that AI Mode hurts Search revenue, since strong growth in AI Mode queries came with lower monetization, according to Chief Business Officer Philipp Schindler.
 - The admission was followed by a steep drop in Alphabet's share price, reportedly the worst since its 2004 IPO, with commentators debating whether an AI bear market is coming.
+- At AI Engineer New York, Arca's lead AI Engineer Aman Singh described an "AI-native" wealth management firm where agents do most background work while human advisors make final decisions, summed up as "agents prompt people more than people prompt agents".
+- Arca's agent tasks can run up to ten days with many decision points and handoffs, so the firm built an internal memory system to keep state persistent across that stop-start work.
+- An agentic AI system is described as one that interprets a goal, creates a plan, calls tools and APIs, evaluates results, and corrects its mistakes until the output meets the goal.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
