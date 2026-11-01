@@ -76,13 +76,10 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-10-31)
+#### 📰 Tech Brief — latest digest (2026-11-01)
 
-- Google acknowledged that AI Mode hurts Search revenue, since strong growth in AI Mode queries came with lower monetization, according to Chief Business Officer Philipp Schindler.
-- The admission was followed by a steep drop in Alphabet's share price, reportedly the worst since its 2004 IPO, with commentators debating whether an AI bear market is coming.
-- At AI Engineer New York, Arca's lead AI Engineer Aman Singh described an "AI-native" wealth management firm where agents do most background work while human advisors make final decisions, summed up as "agents prompt people more than people prompt agents".
-- Arca's agent tasks can run up to ten days with many decision points and handoffs, so the firm built an internal memory system to keep state persistent across that stop-start work.
-- An agentic AI system is described as one that interprets a goal, creates a plan, calls tools and APIs, evaluates results, and corrects its mistakes until the output meets the goal.
+- Parameter Labs describe an exploit chain against ChatGPT's HTML previews (formerly "Canvas"), the sandboxed iframe feature for interactive custom HTML apps. The attack abused the MathLive library's virtual keyboard, which can be triggered from a sandboxed frame via postMessage() and uses innerHTML in the parent page, so untrusted iframe code could inject HTML into the parent and, per the write-up, reach private data and OpenAI APIs.
+- Lesson for builders: sandboxed iframes are only as safe as every message handler they can reach, so any postMessage receiver that writes innerHTML from frame-supplied data needs origin checks and sanitization.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
