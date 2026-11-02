@@ -80,6 +80,8 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - Parameter Labs describe an exploit chain against ChatGPT's HTML previews (formerly "Canvas"), the sandboxed iframe feature for interactive custom HTML apps. The attack abused the MathLive library's virtual keyboard, which can be triggered from a sandboxed frame via postMessage() and uses innerHTML in the parent page, so untrusted iframe code could inject HTML into the parent and, per the write-up, reach private data and OpenAI APIs.
 - Lesson for builders: sandboxed iframes are only as safe as every message handler they can reach, so any postMessage receiver that writes innerHTML from frame-supplied data needs origin checks and sanitization.
+- Kyle Kingsbury argues that LLM use erodes trust in documentation, software and the organizations that produce them, so engineers may start treating new software projects with suspicion, since the signals once used to judge a mature system are now easier to counterfeit.
+- He asks how maintainers can ensure correct software and accurate documentation in the age of LLMs, and how they can then demonstrate that quality to users.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
