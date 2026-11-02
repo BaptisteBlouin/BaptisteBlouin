@@ -76,12 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-01)
+#### 📰 Tech Brief — latest digest (2026-11-02)
 
-- Parameter Labs describe an exploit chain against ChatGPT's HTML previews (formerly "Canvas"), the sandboxed iframe feature for interactive custom HTML apps. The attack abused the MathLive library's virtual keyboard, which can be triggered from a sandboxed frame via postMessage() and uses innerHTML in the parent page, so untrusted iframe code could inject HTML into the parent and, per the write-up, reach private data and OpenAI APIs.
-- Lesson for builders: sandboxed iframes are only as safe as every message handler they can reach, so any postMessage receiver that writes innerHTML from frame-supplied data needs origin checks and sanitization.
-- Kyle Kingsbury argues that LLM use erodes trust in documentation, software and the organizations that produce them, so engineers may start treating new software projects with suspicion, since the signals once used to judge a mature system are now easier to counterfeit.
-- He asks how maintainers can ensure correct software and accurate documentation in the age of LLMs, and how they can then demonstrate that quality to users.
+- Simon Willison's workaround for a recent Python 3.15 dependency error: delete the `uv.lock` file, because a lock pinned to a version without a Python 3.15 wheel can break the build (e.g. `watchfiles==1.1.1` failing against PyO3's maximum supported Python 3.14).
+- MIT Technology Review argues that the agentic web is here: the decades-old "Semantic Web" vision of autonomous software agents acting on users' behalf is now becoming reality.
+- Data Engineering Weekly #294 frames a shift in how systems are designed: from workflow-based to intent-based approaches, with new challenges around infrastructure, identity management, observability, and security and isolation.
+- The same newsletter notes that traditional coding exercises and bootcamps may matter less for new data engineers as old-style coding fades.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
