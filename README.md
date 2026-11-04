@@ -76,13 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-03)
+#### 📰 Tech Brief — latest digest (2026-11-04)
 
-- The "Weight Space Programming" paper shows that a capable model can read and edit the weights of a weaker model, with a demonstration of training a model autonomously without human expertise. The item presents this as a follow-up to Karpathy's autoresearch, which raised recursive self-improvement concerns.
-- Simon Willison released llm 0.37, adding the gpt-6.1-sol and gpt-6.1-terra models and a `llm openai endpoint add` command for OpenAI-compatible endpoints. The default model switches to gpt-6-luna, which the release notes describe as half the price of the previous default.
-- The same release adds embedding support for different content types, which Gemini Embedding 2 needs for text, audio, images and video.
-- A Hugging Face post introduces Transformers Model Integration Contracts, with a smollm example model page.
-- A PyTorchKR and XCENA recap of KVCache Meetup Korea 2026 covers KV Cache optimization for LLM inference, with talks on CXL memory expansion, GPU and HBM bottlenecks, request scheduling on RNGD, and LMCache MP Mode.
+- GitHub's Copilot usage metrics API now reports bring-your-own-key (BYOK) usage separately from Copilot-hosted model usage. Local BYOK requests, made from Copilot CLI or the Copilot app directly to a developer's own provider key or local model, are tracked via `used_local_byok` and `totals_by_local_byok`.
+- Local BYOK covers local models served by tools such as Ollama, Foundry Local, LM Studio and llama-server.
+- Enterprise custom models, configured by admins and routed through GitHub to the provider, are identified with `is_custom_enterprise_model` in `totals_by_client`.
+- Both BYOK types appear in enterprise and organization reports at user and aggregate level, in 1-day and 28-day reports.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
