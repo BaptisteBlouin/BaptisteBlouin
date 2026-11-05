@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-04)
+#### 📰 Tech Brief — latest digest (2026-11-05)
 
-- OpenAI will acquire Pierre Computer Company, expanding Codex's tools for building, understanding and reviewing code.
-- Daybreak Red, which brings GPT-5.6 Cyber to approved customers for authorized cybersecurity work, is now available in AWS GovCloud (US-East) through Amazon Bedrock.
-- DevRev uses GPT-6.1 Sol to power its Computer and Operator products, balancing reasoning, speed and cost for enterprise service.
-- ChatGPT's search volume has reached about 20% of Google's, and its voice mode engages 250 million weekly active users.
-- Cohere's Embed 5 and Rerank 5 are now live on OpenRouter; Embed 5 Pro and Fast share one embedding space, and Rerank 5 scores are calibrated so one relevance threshold can filter weak context.
+- Phonon TTS is presented as a high-quality on-device speech model that tops the benchmarks, with an ExecuTorch and WebGPU variant listed on Hugging Face. The item gives no benchmark figures, so the claim of topping benchmarks is unverified here.
+- OpenAI published a Policy Blueprint for responsible AI infrastructure, covering protection of local resources, job creation and development guidelines for data-center projects.
+- Cat Wu is leaving Anthropic, where she was Head of Product for the Claude Code team, to join OpenAI as lead of Core Products PM.
+- Sharon Zhou is leaving AMD for Anthropic, after AMD acquired her company Lamini last year.
+- Factory is acquiring HumanLayer, and Meta is acquiring Conductor, a company behind a form factor that the newsletter says others copied this year.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
