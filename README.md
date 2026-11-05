@@ -78,10 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-04)
 
-- GitHub's Copilot usage metrics API now reports bring-your-own-key (BYOK) usage separately from Copilot-hosted model usage. Local BYOK requests, made from Copilot CLI or the Copilot app directly to a developer's own provider key or local model, are tracked via `used_local_byok` and `totals_by_local_byok`.
-- Local BYOK covers local models served by tools such as Ollama, Foundry Local, LM Studio and llama-server.
-- Enterprise custom models, configured by admins and routed through GitHub to the provider, are identified with `is_custom_enterprise_model` in `totals_by_client`.
-- Both BYOK types appear in enterprise and organization reports at user and aggregate level, in 1-day and 28-day reports.
+- OpenAI will acquire Pierre Computer Company, expanding Codex's tools for building, understanding and reviewing code.
+- Daybreak Red, which brings GPT-5.6 Cyber to approved customers for authorized cybersecurity work, is now available in AWS GovCloud (US-East) through Amazon Bedrock.
+- DevRev uses GPT-6.1 Sol to power its Computer and Operator products, balancing reasoning, speed and cost for enterprise service.
+- ChatGPT's search volume has reached about 20% of Google's, and its voice mode engages 250 million weekly active users.
+- Cohere's Embed 5 and Rerank 5 are now live on OpenRouter; Embed 5 Pro and Fast share one embedding space, and Rerank 5 scores are calibrated so one relevance threshold can filter weak context.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
