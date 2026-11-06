@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-05)
+#### 📰 Tech Brief — latest digest (2026-11-06)
 
-- Phonon TTS is presented as a high-quality on-device speech model that tops the benchmarks, with an ExecuTorch and WebGPU variant listed on Hugging Face. The item gives no benchmark figures, so the benchmark claim is unverified.
-- Gemini Omni 1.2 Flash adds native 15-second video creation, better reference adherence and multi-turn conversational editing, and Google says it cut prices by 30%.
-- OpenAI launched Images 2.6 in ChatGPT and Codex, generating images 50% faster and adding GIF creation with speed control and frame editing; GPT-Image-2.6 Flare and Sunburst are available through the API.
-- Ripple-65B Preview is an open-weight model that reportedly reaches state-of-the-art on TerminalBench 2.1, with training cost put at $32 million, and is available on Hugging Face, Together AI, GMI Cloud and OpenRouter.
-- Airbnb fine-tuned a 2-billion-effective-parameter classifier for pricing-policy violations, raising F1 from 0.563 to 0.902, matching frontier APIs at a 35ms median latency versus about 900ms.
+- Thinking Machines has released Inkling 2 Small, pretrained from scratch in under 3 days on fewer than 12T tokens in native NVFP4, with a single joint RL run, and it is reported as competitive with, and often beating, same-size Chinese models.
+- GitHub's usage metrics API now reports, per repository, how many Copilot code review comments developers acted on, with a computed addressed rate (addressed comments divided by evaluated comments) and breakdowns by severity, review tier, comment type and customization.
+- The same API now flags users whose client telemetry is missing or whose IDE or Copilot extension versions are below the usage metrics minimums, with daily affected-user counts at enterprise and organization level.
+- Docker Sandboxes are presented as a distinct technology from containers: dedicated microVMs with their own Linux kernel, filesystem, network and Docker Engine, built for autonomous coding agents, whereas containers share the host kernel.
+- Pinecone's webinar recap argues that AI agents need more than vector similarity: a semantically relevant result can still give a wrong answer when, for example, a one-day promotion is counted as demand, so the decision logic belongs outside the search step.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
