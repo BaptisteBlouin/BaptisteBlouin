@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-05)
 
-- Phonon TTS is presented as a high-quality on-device speech model that tops the benchmarks, with an ExecuTorch and WebGPU variant listed on Hugging Face. The item gives no benchmark figures, so the claim of topping benchmarks is unverified here.
-- OpenAI published a Policy Blueprint for responsible AI infrastructure, covering protection of local resources, job creation and development guidelines for data-center projects.
-- Cat Wu is leaving Anthropic, where she was Head of Product for the Claude Code team, to join OpenAI as lead of Core Products PM.
-- Sharon Zhou is leaving AMD for Anthropic, after AMD acquired her company Lamini last year.
-- Factory is acquiring HumanLayer, and Meta is acquiring Conductor, a company behind a form factor that the newsletter says others copied this year.
+- Phonon TTS is presented as a high-quality on-device speech model that tops the benchmarks, with an ExecuTorch and WebGPU variant listed on Hugging Face. The item gives no benchmark figures, so the benchmark claim is unverified.
+- Gemini Omni 1.2 Flash adds native 15-second video creation, better reference adherence and multi-turn conversational editing, and Google says it cut prices by 30%.
+- OpenAI launched Images 2.6 in ChatGPT and Codex, generating images 50% faster and adding GIF creation with speed control and frame editing; GPT-Image-2.6 Flare and Sunburst are available through the API.
+- Ripple-65B Preview is an open-weight model that reportedly reaches state-of-the-art on TerminalBench 2.1, with training cost put at $32 million, and is available on Hugging Face, Together AI, GMI Cloud and OpenRouter.
+- Airbnb fine-tuned a 2-billion-effective-parameter classifier for pricing-policy violations, raising F1 from 0.563 to 0.902, matching frontier APIs at a 35ms median latency versus about 900ms.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
