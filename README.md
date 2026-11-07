@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-06)
 
-- Thinking Machines has released Inkling 2 Small, pretrained from scratch in under 3 days on fewer than 12T tokens in native NVFP4, with a single joint RL run, and it is reported as competitive with, and often beating, same-size Chinese models.
-- GitHub's usage metrics API now reports, per repository, how many Copilot code review comments developers acted on, with a computed addressed rate (addressed comments divided by evaluated comments) and breakdowns by severity, review tier, comment type and customization.
-- The same API now flags users whose client telemetry is missing or whose IDE or Copilot extension versions are below the usage metrics minimums, with daily affected-user counts at enterprise and organization level.
-- Docker Sandboxes are presented as a distinct technology from containers: dedicated microVMs with their own Linux kernel, filesystem, network and Docker Engine, built for autonomous coding agents, whereas containers share the host kernel.
-- Pinecone's webinar recap argues that AI agents need more than vector similarity: a semantically relevant result can still give a wrong answer when, for example, a one-day promotion is counted as demand, so the decision logic belongs outside the search step.
+- Thinking Machines has released Inkling 2 Small, a 594B-total, 17B-active Mixture-of-Experts model with image inputs and variable effort, pretrained from scratch in under 3 days on fewer than 12T tokens in native NVFP4 with a single joint RL run, and reported as competitive with, and often beating, same-size Chinese models. It is initially available through Tinker with closed weights, with full Apache 2.0 weights promised after external safety testing and red-teaming.
+- Gemini Omni 1.2 Flash targets speed, cost-efficiency and longer clip lengths for developers.
+- NVIDIA introduced VFlash, a vision model that generates geometric predictions such as robot trajectories and 3D motion in parallel rather than token by token.
+- Meta announced voice conversations and expressive avatars for its Muse app.
+- GitHub's usage metrics API now reports, per repository, how many Copilot code review comments developers acted on, with an addressed rate (addressed comments divided by evaluated comments) and breakdowns by severity, review tier, comment type and customization.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
