@@ -76,13 +76,9 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-06)
+#### 📰 Tech Brief — latest digest (2026-11-07)
 
-- Thinking Machines has released Inkling 2 Small, a 594B-total, 17B-active Mixture-of-Experts model with image inputs and variable effort, pretrained from scratch in under 3 days on fewer than 12T tokens in native NVFP4 with a single joint RL run, and reported as competitive with, and often beating, same-size Chinese models. It is initially available through Tinker with closed weights, with full Apache 2.0 weights promised after external safety testing and red-teaming.
-- Gemini Omni 1.2 Flash targets speed, cost-efficiency and longer clip lengths for developers.
-- NVIDIA introduced VFlash, a vision model that generates geometric predictions such as robot trajectories and 3D motion in parallel rather than token by token.
-- Meta announced voice conversations and expressive avatars for its Muse app.
-- GitHub's usage metrics API now reports, per repository, how many Copilot code review comments developers acted on, with an addressed rate (addressed comments divided by evaluated comments) and breakdowns by severity, review tier, comment type and customization.
+- _No fresh items today._
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
