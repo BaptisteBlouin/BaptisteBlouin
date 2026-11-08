@@ -78,7 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-07)
 
-- _No fresh items today._
+- Anthropic targets a $100B annual run rate by year end, currently at $80B, while valuation estimates have dropped to as low as $1T with probability down 18% amid a market correction that has pushed Nasdaq down roughly 10%.
+- GitHub Copilot code review settings are now manageable via REST and GraphQL APIs from enterprise policy down to individual repositories, with explicit attribution fields to identify Copilot reviews and comments.
+- The review overview comment is more compact, and the update includes fixes for billing, automatic reviews, and reliability across Copilot Pro, Pro+, Max, Business, and Enterprise plans.
+- API consumers can now see the review effort used, and which skills, MCP servers, and custom instructions Copilot reported as sources for a comment.
+- Enterprise administrators can enable or disable code review for all organizations or delegate the choice to organization admins through the API.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
