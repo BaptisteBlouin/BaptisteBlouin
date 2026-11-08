@@ -76,13 +76,10 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-07)
+#### 📰 Tech Brief — latest digest (2026-11-08)
 
-- Anthropic targets a $100B annual run rate by year end, currently at $80B, while valuation estimates have dropped to as low as $1T with probability down 18% amid a market correction that has pushed Nasdaq down roughly 10%.
-- GitHub Copilot code review settings are now manageable via REST and GraphQL APIs from enterprise policy down to individual repositories, with explicit attribution fields to identify Copilot reviews and comments.
-- The review overview comment is more compact, and the update includes fixes for billing, automatic reviews, and reliability across Copilot Pro, Pro+, Max, Business, and Enterprise plans.
-- API consumers can now see the review effort used, and which skills, MCP servers, and custom instructions Copilot reported as sources for a comment.
-- Enterprise administrators can enable or disable code review for all organizations or delegate the choice to organization admins through the API.
+- Simon Willison found that Datasette table pages sent an HTTP `link: rel="next"` header that made Firefox prefetch the next page of rows, which wastes bandwidth and server rendering for the few visitors who actually click "next". He patched Datasette (issue #3046) to stop serving that header to Firefox on HTML pages.
+- The Firefox behaviour he hit has been an open issue for about 24 years, and he noted that he had forgotten his own 2002 blog post complaining about it.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
