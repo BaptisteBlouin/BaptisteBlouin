@@ -78,9 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-09)
 
-- Simon Willison reports that Claude Opus 5.5 (Medium, in Claude Chat) ported a Three.js 3D egg scene to vanilla JS with WebGL, producing a working version without Three.js.
-- Willison's point is that agent-written PR descriptions are accurate and thorough, yet readers can find them too long to absorb, so he proposes hiding the detail behind collapsible sections.
-- PostHog writes about rolling back its DuckLake adoption and moving its warehouse product to a Trino-based solution, arguing that modeling the data is harder than the storage layer.
+- Anthropic's Claude Fable 5.2 and Mythos 5.2 are the same underlying model, with Fable available to all users and Mythos limited to approved cybersecurity and biomedical research programs. Anthropic says both generate outputs up to 30% faster than the 5.1 versions and cost $8 per million input tokens and $40 per million output tokens, with an optional fast mode at $16 and $80 per million.
+- Claude Fable 5.2 is generally available in GitHub Copilot for Pro+, Max, Business and Enterprise users, billed at provider list pricing, and requires data retention by default for Anthropic's safety classifiers. GitHub reports it solved more tasks than Claude Fable 5.1 with fewer steps and tool calls.
+- OpenAI's Control Room is a central system for tracking and rapidly stopping model workloads across its research infrastructure when safety or security concerns arise.
+- A proof of the Aaronson-Ambainis conjecture was produced by a research system at Physical Superintelligence running a non-public Anthropic model, and Lean certificates support its validity.
+- Llama-modchip runs the 284-billion-parameter DeepSeek-V4-Flash on a 64GB CPU without a GPU at up to 14.7 tokens per second, and reaches up to 111 tokens per second on NVIDIA-Nemotron-3.5-30B-A3B.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
