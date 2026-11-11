@@ -81,8 +81,8 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 - Anthropic released Claude Fable 5.2 and Mythos 5.2, and Fable 5.2 is currently ranked first on Artificial Analysis.
 - Fable 5.2 is priced at $8 per million input tokens and $40 per million output tokens, down from $10 and $50 for Fable 5.1.
 - On the GDPx professional-task benchmark run by SemiAnalysis, Fable 5.2 took first place at 16.4%, but cost rose to $88.15 per task from $67.16 because it wrote far more test cases and spawned subagents to check its work.
-- Meta launched Muse Ember, its smallest and most efficient model, aimed at tool calls, coding subtasks, routing and extraction; for shorter prompts it is priced the same as GPT-6 Luna and Claude Haiku 5.5 at $0.10 per million input and $0.50 per million output tokens.
-- Anthropic's documentation says that telling Fable 5.2 the codebase is its own made it merge repeated code in about half of tries, versus under a tenth without that statement.
+- Meta launched Muse Ember, its smallest and most efficient model, aimed at tool calls, coding subtasks, routing and extraction; for shorter prompts it is priced the same as GPT-6 Luna and Claude Haiku 5.5 at $0.10 per million input and $0.50 per million output tokens. Meta claims it matches Claude Haiku 5.5's highest reasoning score at roughly one-third the cost and outperforms GPT-6 Luna across reasoning settings.
+- Google made Gemini 4 Carbon generally available, priced at $2 per million input and $10 per million output at launch, scheduled to double to $4 and $20 on December 1; it is also in GitHub Copilot for Pro+, Max, Business and Enterprise users.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
