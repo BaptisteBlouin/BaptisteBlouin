@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-10)
+#### 📰 Tech Brief — latest digest (2026-11-11)
 
-- Anthropic released Claude Fable 5.2 and Mythos 5.2, and Fable 5.2 is currently ranked first on Artificial Analysis.
-- Fable 5.2 is priced at $8 per million input tokens and $40 per million output tokens, down from $10 and $50 for Fable 5.1.
-- On the GDPx professional-task benchmark run by SemiAnalysis, Fable 5.2 took first place at 16.4%, but cost rose to $88.15 per task from $67.16 because it wrote far more test cases and spawned subagents to check its work.
-- Meta launched Muse Ember, its smallest and most efficient model, aimed at tool calls, coding subtasks, routing and extraction; for shorter prompts it is priced the same as GPT-6 Luna and Claude Haiku 5.5 at $0.10 per million input and $0.50 per million output tokens. Meta claims it matches Claude Haiku 5.5's highest reasoning score at roughly one-third the cost and outperforms GPT-6 Luna across reasoning settings.
-- Google made Gemini 4 Carbon generally available, priced at $2 per million input and $10 per million output at launch, scheduled to double to $4 and $20 on December 1; it is also in GitHub Copilot for Pro+, Max, Business and Enterprise users.
+- Mercor raised a $750m Series D at a $20B valuation, reporting $3B annualized run rate, with 5 million experts on its network. The company says it spends 3x as much on inference as on employee salaries.
+- BotPsy, a sub-billion-parameter agentic language model aimed at on-device personal assistant use, is presented with benchmark results on tool use, knowledge, instruction following and multi-turn conversations. Its authors argue small specialized agents can match frontier models on specific tasks at much lower cost and with better privacy. Multi-step information retrieval is reported as its weak spot.
+- At the AI Engineer Code Summit, OpenAI ran a workshop on new ways of working with Codex, covering cloud execution, personal agents between sessions and voice steering of coding tasks. The write-up notes the shift to cloud is still confusing for many users of Codex, Claude and Antigravity.
+- GitHub now lets enterprise GitHub Apps call the enterprise-level Copilot seat management APIs, using a new fine-grained permission.
+- OpenAI is offering a free year of ChatGPT Plus to veterans and transitioning service members, with more than 20,000 having claimed it.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
