@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-11)
 
-- Mercor raised a $750m Series D at a $20B valuation, reporting $3B annualized run rate, with 5 million experts on its network. The company says it spends 3x as much on inference as on employee salaries.
+- Mercor raised a $750m Series D at a $20B valuation, reporting a $3B annualized run rate and 5 million experts on its network. The company says it spends 3x as much on inference as on employee salaries.
+- Google released Gemini 4 Carbon to all paying developers and enterprises through the API, rolling out to Google AI Ultra subscribers in Antigravity, the Gemini app and AI Mode in Search. Google says it ranks first on CursorBench 4.0, Perplexity's WANDR and Zapier's AutomationBench at more than 2x lower cost per task than the next best external model, at the same $2/$10 per million input/output token price as Gemini 4 Argon.
+- Google launched the Gemini Decisions API with yes/no, choice and rubric-scoring questions, priced at 10 cents per million input tokens with free output, and multimodal across text, images, audio, video and PDFs.
 - BotPsy, a sub-billion-parameter agentic language model aimed at on-device personal assistant use, is presented with benchmark results on tool use, knowledge, instruction following and multi-turn conversations. Its authors argue small specialized agents can match frontier models on specific tasks at much lower cost and with better privacy. Multi-step information retrieval is reported as its weak spot.
-- At the AI Engineer Code Summit, OpenAI ran a workshop on new ways of working with Codex, covering cloud execution, personal agents between sessions and voice steering of coding tasks. The write-up notes the shift to cloud is still confusing for many users of Codex, Claude and Antigravity.
-- GitHub now lets enterprise GitHub Apps call the enterprise-level Copilot seat management APIs, using a new fine-grained permission.
-- OpenAI is offering a free year of ChatGPT Plus to veterans and transitioning service members, with more than 20,000 having claimed it.
+- MAI-Transcribe-2 is presented as a speech recognition model that is faster, more accurate and cheaper than several leading models, with diarization and word-level timestamps, at $0.10 per hour of audio.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
