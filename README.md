@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-11)
+#### 📰 Tech Brief — latest digest (2026-11-12)
 
-- Mercor raised a $750m Series D at a $20B valuation, reporting a $3B annualized run rate and 5 million experts on its network. The company says it spends 3x as much on inference as on employee salaries.
-- Google released Gemini 4 Carbon to all paying developers and enterprises through the API, rolling out to Google AI Ultra subscribers in Antigravity, the Gemini app and AI Mode in Search. Google says it ranks first on CursorBench 4.0, Perplexity's WANDR and Zapier's AutomationBench at more than 2x lower cost per task than the next best external model, at the same $2/$10 per million input/output token price as Gemini 4 Argon.
-- Google launched the Gemini Decisions API with yes/no, choice and rubric-scoring questions, priced at 10 cents per million input tokens with free output, and multimodal across text, images, audio, video and PDFs.
-- BotPsy, a sub-billion-parameter agentic language model aimed at on-device personal assistant use, is presented with benchmark results on tool use, knowledge, instruction following and multi-turn conversations. Its authors argue small specialized agents can match frontier models on specific tasks at much lower cost and with better privacy. Multi-step information retrieval is reported as its weak spot.
-- MAI-Transcribe-2 is presented as a speech recognition model that is faster, more accurate and cheaper than several leading models, with diarization and word-level timestamps, at $0.10 per hour of audio.
+- Google announced Gemini Decision 1, a calibrated multimodal decision model that takes up to 1000 questions at $0.10 per million input tokens with about 200ms end-to-end latency, beating Anthropic to a production decision model.
+- The "system one" trend, non-generative models returning structured choices, scores or probabilities that are faster and cheaper than reasoning LLMs, was the main theme of the AI Engineer Code Summit.
+- Jev, the product that kicked off this trend, is pitched by its CEO as "reliable intelligence" for automating tasks, with reliability as the core motivation.
+- DuckDB's WebAssembly build lets an app run analytical queries in the browser without a database server; the example app stores uploaded datasets as Parquet files in S3 and loads them into DuckDB when a project opens.
+- The same write-up argues for keeping data local by default and syncing via the cloud only when the user chooses.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
