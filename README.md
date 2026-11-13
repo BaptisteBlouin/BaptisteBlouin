@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-12)
 
-- Google announced Gemini Decision 1, a calibrated multimodal decision model that takes up to 1000 questions at $0.10 per million input tokens with about 200ms end-to-end latency, beating Anthropic to a production decision model.
-- The "system one" trend, non-generative models returning structured choices, scores or probabilities that are faster and cheaper than reasoning LLMs, was the main theme of the AI Engineer Code Summit.
-- Jev, the product that kicked off this trend, is pitched by its CEO as "reliable intelligence" for automating tasks, with reliability as the core motivation.
-- DuckDB's WebAssembly build lets an app run analytical queries in the browser without a database server; the example app stores uploaded datasets as Parquet files in S3 and loads them into DuckDB when a project opens.
-- The same write-up argues for keeping data local by default and syncing via the cloud only when the user chooses.
+- Google announced Gemini Decision 1, a calibrated multimodal decision model that takes up to 1000 questions at $0.10 per million input tokens with about 200ms end-to-end latency, beating Anthropic to a production decision model. The Gemini Decisions API assesses inputs such as images and text and recommends actions, for example spill severity and cleanup steps.
+- Google introduced Gemini 4 Hydrogen, built for rapid execution across agentic and everyday coding workflows, alongside the frontier models Gemini 4 Carbon and Gemini 4 Argon, and rolled it out across the Gemini API, AI Studio, the Gemini app, Search and paid Antigravity tiers. Gemini 4 Argon also helped write Z3 constraint-solver models to find Go bugs that fuzzing missed.
+- Anthropic made Claude Opus 5.5 the default model on Pro, Max, Ultra and Team plans and recommends it as the daily driver for knowledge work, arguing a more capable model can finish tasks with less work, offsetting its higher per-token price.
+- The "system one" trend, non-generative models returning structured choices, scores or probabilities that are faster and cheaper than reasoning LLMs, was the main theme of the AI Engineer Code Summit. Jev, the product that kicked off this trend, is pitched by its CEO as "reliable intelligence" for automating tasks.
+- IBM's LLMON, an LLM-native markup language, is now in Granite 4.1 3B and 8B previews. Runway released Praxis-1, a 27B open-weight robotics model under Apache 2.0 that tops NVIDIA's RoboLab-120 leaderboard at 46.2% success over 1,200 episodes.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
