@@ -76,13 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-12)
+#### 📰 Tech Brief — latest digest (2026-11-13)
 
-- Google announced Gemini Decision 1, a calibrated multimodal decision model that takes up to 1000 questions at $0.10 per million input tokens with about 200ms end-to-end latency, beating Anthropic to a production decision model. The Gemini Decisions API assesses inputs such as images and text and recommends actions, for example spill severity and cleanup steps.
-- Google introduced Gemini 4 Hydrogen, built for rapid execution across agentic and everyday coding workflows, alongside the frontier models Gemini 4 Carbon and Gemini 4 Argon, and rolled it out across the Gemini API, AI Studio, the Gemini app, Search and paid Antigravity tiers. Gemini 4 Argon also helped write Z3 constraint-solver models to find Go bugs that fuzzing missed.
-- Anthropic made Claude Opus 5.5 the default model on Pro, Max, Ultra and Team plans and recommends it as the daily driver for knowledge work, arguing a more capable model can finish tasks with less work, offsetting its higher per-token price.
-- The "system one" trend, non-generative models returning structured choices, scores or probabilities that are faster and cheaper than reasoning LLMs, was the main theme of the AI Engineer Code Summit. Jev, the product that kicked off this trend, is pitched by its CEO as "reliable intelligence" for automating tasks.
-- IBM's LLMON, an LLM-native markup language, is now in Granite 4.1 3B and 8B previews. Runway released Praxis-1, a 27B open-weight robotics model under Apache 2.0 that tops NVIDIA's RoboLab-120 leaderboard at 46.2% success over 1,200 episodes.
+- NVIDIA announced that Jensen Huang has stepped down as CEO, president and board member after 33 years, with CFO Colette Kress serving as interim CEO. Reports tied the change to personal controversies, though the causal link is unconfirmed.
+- The same reporting notes ongoing debate over whether some Chinese models were trained on Blackwell GPUs they should not have had access to, with the scale of this disputed.
+- At the AI Engineer Code Summit, ArtCraft presented its open-source push: 17 open-source tool versions so far, including PhotoCraft, a Photoshop alternative built from scratch in Rust, and PdfCraft, a clone of Adobe Acrobat.
+- A podcast interview with fonio.ai's founder describes growth from 1.5 million to a projected 30 million ARR, with voice AI used for phone support and sales and the company aiming to become an AI operating system for business processes.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
