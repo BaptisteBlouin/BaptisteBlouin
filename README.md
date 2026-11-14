@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-13)
+#### 📰 Tech Brief — latest digest (2026-11-14)
 
-- NVIDIA announced that Jensen Huang has stepped down as CEO, president and board member after 33 years, with CFO Colette Kress serving as interim CEO. Reports tied the change to personal controversies, though the causal link is unconfirmed.
-- The same reporting notes ongoing debate over whether some Chinese models were trained on Blackwell GPUs they should not have had access to, with the scale of this disputed.
-- At the AI Engineer Code Summit, ArtCraft presented its open-source push: 17 open-source tool versions so far, including PhotoCraft, a Photoshop alternative built from scratch in Rust, and PdfCraft, a clone of Adobe Acrobat.
-- A podcast interview with fonio.ai's founder describes growth from 1.5 million to a projected 30 million ARR, with voice AI used for phone support and sales and the company aiming to become an AI operating system for business processes.
-- Google introduced Gemini 4 Hydrogen, a fast model optimized for coding and agentic workflows, scoring 51 on the Artificial Analysis Intelligence Index and priced at $1.50 per million input tokens and $7.50 per million output tokens. It is now generally available in GitHub Copilot across Pro, Pro+, Max, Business, and Enterprise plans, with a gradual rollout.
+- Anthropic has redesigned Claude Code Projects into a conversation-based model: Claude scopes a goal, delegates it to parallel threads, reviews the outputs and assembles the result, with the work continuing after the user steps away. The feature is in beta for select Claude Pro and Max subscribers with cloud sessions and no existing projects, with broader access planned over the coming week.
+- The No AI Slop manifesto, introduced in the closing keynote of AIE CODE and co-signed by many of the conference speakers, is now public as a discussion tool for teams.
+- llama.cpp and ggml reached 1.0, declaring stability and removing 35 deprecated functions from llama.cpp's public header, and SGLang also announced 1.0 at its recent summit.
+- A Wall Street Journal report, as relayed by TechPowerUp, alleges that NVIDIA inflated the GPU and memory shortage by investing in AI startups that then bought its GPUs and built data centers, partly to offload oversupply from TSMC. The report cites an internal disagreement over scaling back NVIDIA's $250 billion deal with OpenAI.
+- datasette-cluster-map 0.19 now works with Datasette 1.0a42 and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
