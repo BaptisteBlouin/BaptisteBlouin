@@ -82,6 +82,7 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 - The same reporting notes ongoing debate over whether some Chinese models were trained on Blackwell GPUs they should not have had access to, with the scale of this disputed.
 - At the AI Engineer Code Summit, ArtCraft presented its open-source push: 17 open-source tool versions so far, including PhotoCraft, a Photoshop alternative built from scratch in Rust, and PdfCraft, a clone of Adobe Acrobat.
 - A podcast interview with fonio.ai's founder describes growth from 1.5 million to a projected 30 million ARR, with voice AI used for phone support and sales and the company aiming to become an AI operating system for business processes.
+- Google introduced Gemini 4 Hydrogen, a fast model optimized for coding and agentic workflows, scoring 51 on the Artificial Analysis Intelligence Index and priced at $1.50 per million input tokens and $7.50 per million output tokens. It is now generally available in GitHub Copilot across Pro, Pro+, Max, Business, and Enterprise plans, with a gradual rollout.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
