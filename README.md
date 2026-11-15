@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-14)
+#### 📰 Tech Brief — latest digest (2026-11-15)
 
-- Anthropic has redesigned Claude Code Projects into a conversation-based model: Claude scopes a goal, delegates it to parallel threads, reviews the outputs and assembles the result, with the work continuing after the user steps away. The feature is in beta for select Claude Pro and Max subscribers with cloud sessions and no existing projects, with broader access planned over the coming week.
-- The No AI Slop manifesto, introduced in the closing keynote of AIE CODE and co-signed by many of the conference speakers, is now public as a discussion tool for teams.
-- llama.cpp and ggml reached 1.0, declaring stability and removing 35 deprecated functions from llama.cpp's public header, and SGLang also announced 1.0 at its recent summit.
-- A Wall Street Journal report, as relayed by TechPowerUp, alleges that NVIDIA inflated the GPU and memory shortage by investing in AI startups that then bought its GPUs and built data centers, partly to offload oversupply from TSMC. The report cites an internal disagreement over scaling back NVIDIA's $250 billion deal with OpenAI.
-- A workshop on tracing Claude agents with OpenTelemetry and Sentry shows how failed tool calls, retries and the final success can be followed in one trace, helping teams tell whether a token-cost problem belongs to the prompt, the tool or the backing service, such as a slow API or database.
+- Datasette's plugin datasette-llm 0.1a11 now supports OpenAI-compatible endpoints, so Datasette can use any model served behind that protocol.
+- Local model runners such as LM Studio, Ollama and llama.cpp can be plugged in this way; llama.cpp has just reached v1.0.0.
+- A concrete setup is given: running Datasette via uvx with a local Qwen model at a localhost API base yields a local Datasette Agent instance.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
