@@ -82,7 +82,7 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 - The No AI Slop manifesto, introduced in the closing keynote of AIE CODE and co-signed by many of the conference speakers, is now public as a discussion tool for teams.
 - llama.cpp and ggml reached 1.0, declaring stability and removing 35 deprecated functions from llama.cpp's public header, and SGLang also announced 1.0 at its recent summit.
 - A Wall Street Journal report, as relayed by TechPowerUp, alleges that NVIDIA inflated the GPU and memory shortage by investing in AI startups that then bought its GPUs and built data centers, partly to offload oversupply from TSMC. The report cites an internal disagreement over scaling back NVIDIA's $250 billion deal with OpenAI.
-- datasette-cluster-map 0.19 now works with Datasette 1.0a42 and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header.
+- A workshop on tracing Claude agents with OpenTelemetry and Sentry shows how failed tool calls, retries and the final success can be followed in one trace, helping teams tell whether a token-cost problem belongs to the prompt, the tool or the backing service, such as a slow API or database.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
