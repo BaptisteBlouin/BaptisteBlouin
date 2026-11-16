@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-15)
+#### 📰 Tech Brief — latest digest (2026-11-16)
 
-- Datasette's plugin datasette-llm 0.1a11 now supports OpenAI-compatible endpoints, so Datasette can use any model served behind that protocol.
-- Local model runners such as LM Studio, Ollama and llama.cpp can be plugged in this way; llama.cpp has just reached v1.0.0.
-- A concrete setup is given: running Datasette via uvx with a local Qwen model at a localhost API base yields a local Datasette Agent instance.
-- OpenAI describes a candidate nonperturbative lattice definition of the Standard Model, and how GPT-6 Astra helped turn the idea into a detailed proof.
-- OpenAI has launched a science blog sharing findings, practical methods and firsthand accounts from researchers using AI for scientific discovery.
+- Datasette 1.0a43 adds streaming support for output renderers, so plugins can stream every row of a table in one pass via a new `Response.stream()` method. It also fixes a security issue where private stored queries could expose their title and SQL (not executable).
+- A backported 0.65.6 release fixes a security issue where a database registered with a route differing from its name could be downloaded by actors denied access to it.
+- datasette-maplibre 0.1a0 is a new Datasette geospatial plugin combining MapLibre GL with OpenFreeMap, with a notable feature that renders SVG previews of GeoJSON shapes and loads WebGL previews only when they scroll into view.
+- Data Engineering Weekly discusses the renewed interest in ontologies and knowledge graphs as AI agents raise their business value.
+- GoDaddy describes building an AI agent for data pipeline creation.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
