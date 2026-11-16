@@ -81,6 +81,8 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 - Datasette's plugin datasette-llm 0.1a11 now supports OpenAI-compatible endpoints, so Datasette can use any model served behind that protocol.
 - Local model runners such as LM Studio, Ollama and llama.cpp can be plugged in this way; llama.cpp has just reached v1.0.0.
 - A concrete setup is given: running Datasette via uvx with a local Qwen model at a localhost API base yields a local Datasette Agent instance.
+- OpenAI describes a candidate nonperturbative lattice definition of the Standard Model, and how GPT-6 Astra helped turn the idea into a detailed proof.
+- OpenAI has launched a science blog sharing findings, practical methods and firsthand accounts from researchers using AI for scientific discovery.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
