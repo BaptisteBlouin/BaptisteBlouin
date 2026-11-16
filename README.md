@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>PhD in Computer Science &nbsp;·&nbsp; Data Scientist &amp; AI Engineer &nbsp;·&nbsp; NLP Specialist</strong><br>
-  Aix-en-Provence, France &nbsp;·&nbsp; Open to new opportunities
+  Aix-en-Provence, France
 </p>
 
 <p align="center">
