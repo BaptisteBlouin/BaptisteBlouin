@@ -80,9 +80,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - Datasette 1.0a43 adds streaming support for output renderers, so plugins can stream every row of a table in one pass via a new `Response.stream()` method. It also fixes a security issue where private stored queries could expose their title and SQL (not executable).
 - A backported 0.65.6 release fixes a security issue where a database registered with a route differing from its name could be downloaded by actors denied access to it.
-- datasette-maplibre 0.1a0 is a new Datasette geospatial plugin combining MapLibre GL with OpenFreeMap, with a notable feature that renders SVG previews of GeoJSON shapes and loads WebGL previews only when they scroll into view.
+- datasette-maplibre 0.1a0 is a new Datasette geospatial plugin combining MapLibre GL with OpenFreeMap; it renders SVG previews of GeoJSON shapes and loads WebGL previews only when they scroll into view.
+- db-branch is a self-hosted, open-source tool that creates isolated MySQL and PostgreSQL database copies in seconds, sharing existing storage until changes are made, so developers and AI agents can test queries and migrations without touching production data.
 - Data Engineering Weekly discusses the renewed interest in ontologies and knowledge graphs as AI agents raise their business value.
-- GoDaddy describes building an AI agent for data pipeline creation.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
