@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-16)
+#### 📰 Tech Brief — latest digest (2026-11-17)
 
-- Datasette 1.0a43 adds streaming support for output renderers, so plugins can stream every row of a table in one pass via a new `Response.stream()` method. It also fixes a security issue where private stored queries could expose their title and SQL (not executable).
-- A backported 0.65.6 release fixes a security issue where a database registered with a route differing from its name could be downloaded by actors denied access to it.
-- datasette-maplibre 0.1a0 is a new Datasette geospatial plugin combining MapLibre GL with OpenFreeMap; it renders SVG previews of GeoJSON shapes and loads WebGL previews only when they scroll into view.
-- db-branch is a self-hosted, open-source tool that creates isolated MySQL and PostgreSQL database copies in seconds, sharing existing storage until changes are made, so developers and AI agents can test queries and migrations without touching production data.
-- Data Engineering Weekly discusses the renewed interest in ontologies and knowledge graphs as AI agents raise their business value.
+- Perplexity has reached a $1B annual revenue run rate, CEO Aravind Srinivas said, with recent growth attributed partly to its Computer product. The same report says the company now has a dedicated research lab with access to 10,000+ GPUs.
+- Perplexity's recent launches include Computer automations and teammates for recurring tasks, a Monitor API that sends webhooks on topic or page changes, and fully local operation on supported Macs.
+- OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
+- A DuckDB workshop built a pipeline over 2.1 million Amazon appliance reviews: DuckDB filters the data, an LLM summarizes the complaints, and the result is deployed as a Hugging Face Space callable as an API.
+- Attendees prototyped on a 22 MB sample locally, then ran the same two Parquet-based files against the full dataset on Hugging Face.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
