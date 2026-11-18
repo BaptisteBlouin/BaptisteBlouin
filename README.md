@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-17)
 
-- Perplexity has reached a $1B annual revenue run rate, CEO Aravind Srinivas said, with recent growth attributed partly to its Computer product. The same report says the company now has a dedicated research lab with access to 10,000+ GPUs.
-- Perplexity's recent launches include Computer automations and teammates for recurring tasks, a Monitor API that sends webhooks on topic or page changes, and fully local operation on supported Macs.
-- OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.
-- A DuckDB workshop built a pipeline over 2.1 million Amazon appliance reviews: DuckDB filters the data, an LLM summarizes the complaints, and the result is deployed as a Hugging Face Space callable as an API.
-- Attendees prototyped on a 22 MB sample locally, then ran the same two Parquet-based files against the full dataset on Hugging Face.
+- OpenAI released GPT-6.2 Astra and GPT-6.2 Sol, with better professional outputs, coding, computer use and efficiency at lower cost across ChatGPT Work, Codex and the API. GitHub Copilot made both generally available, billed at provider list pricing under usage-based billing. Simon Willison reports Astra at $8/MTok input and $40/MTok output, 80% of the price of GPT-6 Astra, and Sol at $2/$10.
+- Perplexity has reached a $1B annual revenue run rate, CEO Aravind Srinivas said, with recent growth attributed partly to its Computer product. The same report says the company now has a dedicated research lab with access to 10,000+ GPUs. Perplexity Frontier Research, an open initiative to build algorithms, models and evaluations toward an automated scientist, is backed by those 10,000 GPUs and will ship papers, model weights and repositories, with applications open until December 5.
+- Tencent released Hy4 flash, a fast, low-cost model whose blind-test satisfaction scores came close to Claude Haiku 5.5.
+- Google's Gemini 4 Hydrogen is a fast, efficient model for robotics with spatial and embodied reasoning.
+- Liquid AI's d1.2 and d1.2-ultra are decision models with audio input; d1.2-ultra ranks first among decision models on the Artificial Analysis Decision Index v2.1, priced at $0.02 and $0.042 per million input tokens.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
