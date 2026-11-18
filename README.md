@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-17)
+#### 📰 Tech Brief — latest digest (2026-11-18)
 
-- OpenAI released GPT-6.2 Astra and GPT-6.2 Sol, with better professional outputs, coding, computer use and efficiency at lower cost across ChatGPT Work, Codex and the API. GitHub Copilot made both generally available, billed at provider list pricing under usage-based billing. Simon Willison reports Astra at $8/MTok input and $40/MTok output, 80% of the price of GPT-6 Astra, and Sol at $2/$10.
-- Perplexity has reached a $1B annual revenue run rate, CEO Aravind Srinivas said, with recent growth attributed partly to its Computer product. The same report says the company now has a dedicated research lab with access to 10,000+ GPUs. Perplexity Frontier Research, an open initiative to build algorithms, models and evaluations toward an automated scientist, is backed by those 10,000 GPUs and will ship papers, model weights and repositories, with applications open until December 5.
-- Tencent released Hy4 flash, a fast, low-cost model whose blind-test satisfaction scores came close to Claude Haiku 5.5.
-- Google's Gemini 4 Hydrogen is a fast, efficient model for robotics with spatial and embodied reasoning.
-- Liquid AI's d1.2 and d1.2-ultra are decision models with audio input; d1.2-ultra ranks first among decision models on the Artificial Analysis Decision Index v2.1, priced at $0.02 and $0.042 per million input tokens.
+- OpenAI shipped GPT-6.2 Astra and Sol, which Artificial Analysis scores at 62 on its Intelligence Index, just behind Fable 5.2 at 65, and Sol ties Astra at about 15% of the cost per task. Reviews are mixed, with some criticism of RL artefacts.
+- Google's AI Overviews appear on more than half the US keywords tracked by DataForSEO, up from 6% two years ago.
+- In a randomized experiment, an AI Overview cut clicks to outside websites by about 40%.
+- AI assistants sent websites just 0.3% of their traffic in March.
+- A Berlin travel publisher reports losing 70% to 75% of its traffic to Google AI Overviews.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
