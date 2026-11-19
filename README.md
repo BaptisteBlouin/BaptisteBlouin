@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-18)
 
-- OpenAI shipped GPT-6.2 Astra and Sol, which Artificial Analysis scores at 62 on its Intelligence Index, just behind Fable 5.2 at 65, and Sol ties Astra at about 15% of the cost per task. Reviews are mixed, with some criticism of RL artefacts.
-- Google's AI Overviews appear on more than half the US keywords tracked by DataForSEO, up from 6% two years ago.
-- In a randomized experiment, an AI Overview cut clicks to outside websites by about 40%.
-- AI assistants sent websites just 0.3% of their traffic in March.
-- A Berlin travel publisher reports losing 70% to 75% of its traffic to Google AI Overviews.
+- OpenAI launched GPT-6.2 Astra and Sol on ChatGPT and the API, aimed at professional work, with Astra for the hardest projects and Sol for everyday tasks. Both use fewer output tokens than previous releases. Artificial Analysis scores Astra at 62 on its Intelligence Index, just behind Fable 5.2 at 65, and Sol ties Astra at about 15% of the cost per task. Reviews are mixed, with some criticism of RL artefacts.
+- Google's Gemini 4 Neon scores 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, ranking #3 overall and just behind larger, slower models, and #2 on the Vals Index. It is generally available in GitHub Copilot, where Google reports quality close to Gemini 4 Carbon at a lower token cost per task, faster starts and fewer unrequested changes on coding tasks.
+- Microsoft released seven new models; its MAI Code 2 coding model, now in GitHub Copilot, reaches 98% of GPT-6.1 Sol's coding quality at about 40% of the price.
+- Cloudflare released updated open-weight Clairic and the 9B Clairic-flash for document extraction, hosted on Workers AI with weights on Hugging Face.
+- Vercel released eve 1.0, an open-source framework for production AI agents that manages the model and tool loop, memory, approvals and monitoring. Replit launched Missions to coordinate agent swarms within budgets.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
