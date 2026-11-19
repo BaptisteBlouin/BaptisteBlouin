@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-18)
+#### 📰 Tech Brief — latest digest (2026-11-19)
 
-- OpenAI launched GPT-6.2 Astra and Sol on ChatGPT and the API, aimed at professional work, with Astra for the hardest projects and Sol for everyday tasks. Both use fewer output tokens than previous releases. Artificial Analysis scores Astra at 62 on its Intelligence Index, just behind Fable 5.2 at 65, and Sol ties Astra at about 15% of the cost per task. Reviews are mixed, with some criticism of RL artefacts.
-- Google's Gemini 4 Neon scores 61 on the Artificial Analysis Intelligence Index at its xhigh thinking level, ranking #3 overall and just behind larger, slower models, and #2 on the Vals Index. It is generally available in GitHub Copilot, where Google reports quality close to Gemini 4 Carbon at a lower token cost per task, faster starts and fewer unrequested changes on coding tasks.
-- Microsoft released seven new models; its MAI Code 2 coding model, now in GitHub Copilot, reaches 98% of GPT-6.1 Sol's coding quality at about 40% of the price.
-- Cloudflare released updated open-weight Clairic and the 9B Clairic-flash for document extraction, hosted on Workers AI with weights on Hugging Face.
-- Vercel released eve 1.0, an open-source framework for production AI agents that manages the model and tool loop, memory, approvals and monitoring. Replit launched Missions to coordinate agent swarms within budgets.
+- Google DeepMind released Gemini 4 Neon, its fourth Gemini 4 model in about seven weeks, while the earlier Argon model is now retired. Neon is priced at $3 per million input tokens and $15 per million output tokens, and Google's lineup now runs Carbon, Neon, Hydrogen from most to least expensive, with Carbon currently at half price until December 1st.
+- A community reader of Simon Willison's post notes that Gemini 4 pricing has become harder to follow, since Hydrogen's discount and Carbon's expiring promotion change the ordering.
+- GitHub CLI v2.105.0 adds `gh event listen`, which waits for pull request events such as a submitted review, merge conflicts or completed check suites, replacing polling loops in scripts and agents.
+- Agents using `gh pr create`, `gh pr view`, `gh run watch` or `gh api` are now pointed to `gh event listen` instead of polling.
+- GitHub Enterprise Cloud with data residency (GHE.com) now supports streaming enterprise audit logs to Amazon S3 using OpenID Connect, so no long-lived AWS credentials need to be stored on GitHub.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
