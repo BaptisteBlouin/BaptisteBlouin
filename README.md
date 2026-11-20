@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-19)
+#### 📰 Tech Brief — latest digest (2026-11-20)
 
-- Google DeepMind released Gemini 4 Neon, a fast frontier-level model for coding, knowledge work and science, scoring 61 on the Artificial Analysis Intelligence Index. It costs $3 per million input tokens and $15 per million output tokens, with cached input at $0.15 and a 1 million token context window. Its predecessor Argon is retired, and the lineup now runs Carbon, Neon, Hydrogen from most to least expensive, with Carbon at half price until December 1st.
-- Neon's position is hard to read: an Agent Duel projection places it near Opus 5.5 but is a speed-based estimate with a wide uncertainty interval, not a measured leaderboard result; in a private benchmark, Carbon took about seven times as many steps as GPT-6 Astra on bug fixes, half of them unnecessary.
-- Gemini 4 Genie 4, the interactive world model, opened to eligible Google AI Ultra subscribers in Project Genie, where users edit a world by typing prompts.
-- A community reader notes that Gemini 4 pricing is harder to follow, since Hydrogen's discount and Carbon's expiring promotion change the ordering.
-- Google Tunix and Gemma 4 show multi-turn, tool-using agentic reinforcement learning on a Cloud TPU v6e-8, training Gemma 4 E2B on the Plane Strike game.
+- Anthropic priced its IPO at $83 per share and the stock closed at $97.17 on its first day, up 17% from the offering price. The $81.3B offering overtook SpaceX's June IPO as the largest in history.
+- Anthropic said it would pace training and deployment based on whether it could keep its systems safe and under human control. Its Class F shares carry 50.1% of voting power on most shareholder matters.
+- F5 and nginx.org disclosed ten nginx vulnerabilities on November 18, 2026. Five of them, named nginx2root by the Xint team, are memory corruption flaws that an unauthenticated attacker can use to crash an nginx worker or, per Xint's research, run commands on the server.
+- Xint also found a Linux kernel bug that can turn that foothold into root on the host, including from inside a Docker container.
+- Cloudflare states that origins reachable only through its proxy cannot be reached by attackers on the vulnerable code paths for the most serious flaws.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
