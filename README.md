@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-19)
 
-- Google DeepMind released Gemini 4 Neon, its fourth Gemini 4 model in about seven weeks, while the earlier Argon model is now retired. Neon is priced at $3 per million input tokens and $15 per million output tokens, and Google's lineup now runs Carbon, Neon, Hydrogen from most to least expensive, with Carbon currently at half price until December 1st.
-- A community reader of Simon Willison's post notes that Gemini 4 pricing has become harder to follow, since Hydrogen's discount and Carbon's expiring promotion change the ordering.
-- GitHub CLI v2.105.0 adds `gh event listen`, which waits for pull request events such as a submitted review, merge conflicts or completed check suites, replacing polling loops in scripts and agents.
-- Agents using `gh pr create`, `gh pr view`, `gh run watch` or `gh api` are now pointed to `gh event listen` instead of polling.
-- GitHub Enterprise Cloud with data residency (GHE.com) now supports streaming enterprise audit logs to Amazon S3 using OpenID Connect, so no long-lived AWS credentials need to be stored on GitHub.
+- Google DeepMind released Gemini 4 Neon, a fast frontier-level model for coding, knowledge work and science, scoring 61 on the Artificial Analysis Intelligence Index. It costs $3 per million input tokens and $15 per million output tokens, with cached input at $0.15 and a 1 million token context window. Its predecessor Argon is retired, and the lineup now runs Carbon, Neon, Hydrogen from most to least expensive, with Carbon at half price until December 1st.
+- Neon's position is hard to read: an Agent Duel projection places it near Opus 5.5 but is a speed-based estimate with a wide uncertainty interval, not a measured leaderboard result; in a private benchmark, Carbon took about seven times as many steps as GPT-6 Astra on bug fixes, half of them unnecessary.
+- Gemini 4 Genie 4, the interactive world model, opened to eligible Google AI Ultra subscribers in Project Genie, where users edit a world by typing prompts.
+- A community reader notes that Gemini 4 pricing is harder to follow, since Hydrogen's discount and Carbon's expiring promotion change the ordering.
+- Google Tunix and Gemma 4 show multi-turn, tool-using agentic reinforcement learning on a Cloud TPU v6e-8, training Gemma 4 E2B on the Plane Strike game.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
