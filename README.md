@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-20)
+#### 📰 Tech Brief — latest digest (2026-11-21)
 
-- Anthropic closed its IPO at $83 per share, including the full exercise of the underwriters' option, for gross proceeds of about $93.5 billion. The stock debuted on Nasdaq at $111.50 and closed at $97.17 on its first day. Anthropic said it would pace training and deployment based on whether it could keep its systems safe and under human control. Its Class F shares carry 50.1% of voting power on most shareholder matters.
-- OpenAI published a piece on combatting adversarial distillation, where an actor uses a frontier model's outputs without authorization to train a similar model without comparable safeguards. It also introduced MedChemBench, a benchmark testing how well AI models read molecular structures, interpret experimental results and choose compounds to test next.
-- METR's updated time-horizon plot adds tasks that take humans much longer, and finds some capabilities still improving exponentially while models lag on judgment-heavy tasks compared with coding.
-- Stripe evaluated 14 coding agent setups on one-time payments, subscriptions and Connect integrations: agents met 78.1% of required criteria on average, but only 29.4% of runs met every required criterion, and all setups scored higher with Stripe's plugin.
-- Chrome's testing found coding agents passed 52% of its web development checks alone and 91% with Modern Web Guidance installed; common misses included restoring focus after dialogs close and reserving space for late-loading content.
+- Two mathematicians reportedly claimed independent proofs of the Riemann Hypothesis within a few hours of each other, a problem described as the most famous open problem in mathematics. One proof was produced with Claude by Levent Alpöge of Anthropic, released as a note with Lean code of about 1.3GB rather than a full paper.
+- Elliot Glazer reportedly confirmed that the formalized statement is the Generalized Riemann Hypothesis and put the chance of a Lean bug well under 1%. The item notes that if the Lean code compiles with no extra axioms it is probably correct, though no human will read all of it.
+- Alessandro Masullo released a 940-page, work-in-progress proof he says was written entirely by hand over the last 12 years, after reportedly undergoing manual review and revision.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
