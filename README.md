@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-20)
 
-- Anthropic priced its IPO at $83 per share and the stock closed at $97.17 on its first day, up 17% from the offering price. The $81.3B offering overtook SpaceX's June IPO as the largest in history.
-- Anthropic said it would pace training and deployment based on whether it could keep its systems safe and under human control. Its Class F shares carry 50.1% of voting power on most shareholder matters.
-- F5 and nginx.org disclosed ten nginx vulnerabilities on November 18, 2026. Five of them, named nginx2root by the Xint team, are memory corruption flaws that an unauthenticated attacker can use to crash an nginx worker or, per Xint's research, run commands on the server.
-- Xint also found a Linux kernel bug that can turn that foothold into root on the host, including from inside a Docker container.
-- Cloudflare states that origins reachable only through its proxy cannot be reached by attackers on the vulnerable code paths for the most serious flaws.
+- Anthropic closed its IPO at $83 per share, including the full exercise of the underwriters' option, for gross proceeds of about $93.5 billion. The stock debuted on Nasdaq at $111.50 and closed at $97.17 on its first day. Anthropic said it would pace training and deployment based on whether it could keep its systems safe and under human control. Its Class F shares carry 50.1% of voting power on most shareholder matters.
+- OpenAI published a piece on combatting adversarial distillation, where an actor uses a frontier model's outputs without authorization to train a similar model without comparable safeguards. It also introduced MedChemBench, a benchmark testing how well AI models read molecular structures, interpret experimental results and choose compounds to test next.
+- METR's updated time-horizon plot adds tasks that take humans much longer, and finds some capabilities still improving exponentially while models lag on judgment-heavy tasks compared with coding.
+- Stripe evaluated 14 coding agent setups on one-time payments, subscriptions and Connect integrations: agents met 78.1% of required criteria on average, but only 29.4% of runs met every required criterion, and all setups scored higher with Stripe's plugin.
+- Chrome's testing found coding agents passed 52% of its web development checks alone and 91% with Modern Web Guidance installed; common misses included restoring focus after dialogs close and reserving space for late-loading content.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
