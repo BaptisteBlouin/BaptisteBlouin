@@ -81,6 +81,8 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 - Two mathematicians reportedly claimed independent proofs of the Riemann Hypothesis within a few hours of each other, a problem described as the most famous open problem in mathematics. One proof was produced with Claude by Levent Alpöge of Anthropic, released as a note with Lean code of about 1.3GB rather than a full paper.
 - Elliot Glazer reportedly confirmed that the formalized statement is the Generalized Riemann Hypothesis and put the chance of a Lean bug well under 1%. The item notes that if the Lean code compiles with no extra axioms it is probably correct, though no human will read all of it.
 - Alessandro Masullo released a 940-page, work-in-progress proof he says was written entirely by hand over the last 12 years, after reportedly undergoing manual review and revision.
+- ByteByteGo's system design refresher explains Docker as a tool for packaging an application, with its code, libraries, runtimes and configurations, into a portable container image, and contrasts it with Kubernetes.
+- The same refresher covers open-weights versus closed models, how Claude's text watermark works, Redis internals and nine distributed systems patterns.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
