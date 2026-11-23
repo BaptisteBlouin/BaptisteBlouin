@@ -76,12 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-22)
+#### 📰 Tech Brief — latest digest (2026-11-23)
 
-- Dumpleton, the author of mod_wsgi, is building Muru, a new AI-assisted Rust server for running ASGI and WSGI Python apps in both development and production, and is documenting the project in detail as he goes.
-- His write-up series covers worker design, process forking after a single import, HTTPS in development, serving WSGI and ASGI together, and canary releases without a service mesh.
-- OpenAI's Chief Scientist, Jakub Pachocki, argues that training better compressors, or predictors, on very large corpora is the key driver of AI progress, and proposes perplexity (equivalently, cross-entropy loss) as a shared metric for comparing model developers and informing common safety standards.
-- OpenAI is publishing its internal pretraining perplexity measurements as a first step toward a shared scientific basis for future pacing efforts, accepting that competitors gain a clearer view of its position.
+- Flock migrated its lakehouse, with nearly 480 dbt models, from AWS Glue to in-process DuckDB, cutting core builds by 74% and daily compute spend by 91%. The migration relies on open Iceberg storage, which lets teams swap distributed Spark for a single-node engine sized to the actual workload.
+- Flock used AI agents through an MCP server and a reusable Claude skill to verify table parity during the move and to upgrade to DuckDB 2.0.
+- A newsletter editorial argues that coding interviews are shifting from code generation toward "fix-and-explain" formats, where candidates review and debug existing code.
+- LeetCode.ai introduced a "code review" feature that tests a candidate's understanding of code and ability to fix bugs, aimed at preparing data engineers for review-style rounds.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
