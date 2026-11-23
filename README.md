@@ -80,6 +80,8 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - Dumpleton, the author of mod_wsgi, is building Muru, a new AI-assisted Rust server for running ASGI and WSGI Python apps in both development and production, and is documenting the project in detail as he goes.
 - His write-up series covers worker design, process forking after a single import, HTTPS in development, serving WSGI and ASGI together, and canary releases without a service mesh.
+- OpenAI's Chief Scientist, Jakub Pachocki, argues that training better compressors, or predictors, on very large corpora is the key driver of AI progress, and proposes perplexity (equivalently, cross-entropy loss) as a shared metric for comparing model developers and informing common safety standards.
+- OpenAI is publishing its internal pretraining perplexity measurements as a first step toward a shared scientific basis for future pacing efforts, accepting that competitors gain a clearer view of its position.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
