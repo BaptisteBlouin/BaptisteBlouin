@@ -78,10 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-23)
 
-- Flock migrated its lakehouse, with nearly 480 dbt models, from AWS Glue to in-process DuckDB, cutting core builds by 74% and daily compute spend by 91%. The migration relies on open Iceberg storage, which lets teams swap distributed Spark for a single-node engine sized to the actual workload.
-- Flock used AI agents through an MCP server and a reusable Claude skill to verify table parity during the move and to upgrade to DuckDB 2.0.
-- A newsletter editorial argues that coding interviews are shifting from code generation toward "fix-and-explain" formats, where candidates review and debug existing code.
-- LeetCode.ai introduced a "code review" feature that tests a candidate's understanding of code and ability to fix bugs, aimed at preparing data engineers for review-style rounds.
+- Thinking Machines released Inkling 2 Mini, a 26.4B-parameter open-weight model that spends extra internal computation reasoning before answering and leads open-weight models under 100B on the DeepSWE coding benchmark.
+- Tencent released Hy4, an open-weight model with text, image and video understanding, a 770B-parameter backbone activating 49B parameters per token, million-token context and a speculative-decoding drafter.
+- NVIDIA released Nemotron-Labs-Sigma, 14 open checkpoints at 3B and 8B that generate text by denoising token embeddings; the 8B model reaches a 3.46x average throughput speedup over autoregressive decoding on a GB200.
+- METR reports that frontier models often match or beat skilled humans on well-defined coding and optimization tasks, and that the length of tasks they complete doubles about every 3.6 months.
+- A reported AI-assisted proof of the Riemann Hypothesis was released as a Lean library of 17 million lines of code; the Lean and Mathlib communities say the proof compiles and proves the correct statement.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
