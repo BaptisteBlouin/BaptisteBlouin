@@ -76,13 +76,13 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-23)
+#### 📰 Tech Brief — latest digest (2026-11-24)
 
-- Thinking Machines released Inkling 2 Mini, a 26.4B-parameter open-weight model that spends extra internal computation reasoning before answering and leads open-weight models under 100B on the DeepSWE coding benchmark.
-- Tencent released Hy4, an open-weight model with text, image and video understanding, a 770B-parameter backbone activating 49B parameters per token, million-token context and a speculative-decoding drafter.
-- NVIDIA released Nemotron-Labs-Sigma, 14 open checkpoints at 3B and 8B that generate text by denoising token embeddings; the 8B model reaches a 3.46x average throughput speedup over autoregressive decoding on a GB200.
-- METR reports that frontier models often match or beat skilled humans on well-defined coding and optimization tasks, and that the length of tasks they complete doubles about every 3.6 months.
-- A reported AI-assisted proof of the Riemann Hypothesis was released as a Lean library of 17 million lines of code; the Lean and Mathlib communities say the proof compiles and proves the correct statement.
+- Z.ai has released GLM-5.4, described as its first model built on a looped transformer architecture, where a group of weight-shared layers runs for multiple iterations to deepen the network without adding parameters. The model is not yet available as open weights.
+- The looped transformer approach also appears in Thinking Machines Lab's Inkling 2 Mini, which runs the middle layers three times per token to aim for better reasoning on agentic coding tasks.
+- Nvidia announced that Jensen Huang is returning as CEO, president and board member, eleven days after announcing his resignation; the board vote was unanimous and followed input from senior U.S. officials, and a board committee on national security and export control was formed.
+- datasette-agent 0.7a1 lets chat sessions open an iframe side panel that can navigate between pages, with improved navigation by fragment hashes for better integration with other plugins.
+- datasette-charts 0.2a0 integrates with Datasette Agent, so a user can ask the chat for a chart and get one generated with the same suggestion and generation tools, then open it in a chart builder panel.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
