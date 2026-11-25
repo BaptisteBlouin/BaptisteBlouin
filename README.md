@@ -78,11 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-24)
 
-- Z.ai has released GLM-5.4, described as its first model built on a looped transformer architecture, where a group of weight-shared layers runs for multiple iterations to deepen the network without adding parameters. The model is not yet available as open weights.
+- Z.ai has released GLM-5.4, its first flagship model built on a Loop Transformer, which reuses a shared block of layers to reason more deeply without adding parameters; Z.ai says it reaches intelligence comparable to 2T to 3T parameter models and it is available now on the GLM Coding Plan.
 - The looped transformer approach also appears in Thinking Machines Lab's Inkling 2 Mini, which runs the middle layers three times per token to aim for better reasoning on agentic coding tasks.
-- Nvidia announced that Jensen Huang is returning as CEO, president and board member, eleven days after announcing his resignation; the board vote was unanimous and followed input from senior U.S. officials, and a board committee on national security and export control was formed.
-- datasette-agent 0.7a1 lets chat sessions open an iframe side panel that can navigate between pages, with improved navigation by fragment hashes for better integration with other plugins.
-- datasette-charts 0.2a0 integrates with Datasette Agent, so a user can ask the chat for a chart and get one generated with the same suggestion and generation tools, then open it in a chart builder panel.
+- OpenAI reports that its GPT-6 models can design new protein shapes and sequences using only reasoning and code, and that an internal research model matched or outperformed specialized models on many protein design tasks; in lab tests with Onava, proteins based on GPT-6.2's designs showed evidence of binding across five targets.
+- Google's DeepCrossAttention (DCA) lets each transformer layer dynamically select and route features from preceding layers, reducing information dilution and parameter count by 30-40%, with faster convergence and better perplexity than standard models on C4 and LM1B.
+- Microsoft AI's Rocket is its in-house reinforcement learning framework, used to post-train MAI Base 2, a three-trillion-parameter model, without distilling from third-party models.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
