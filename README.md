@@ -76,13 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-24)
+#### 📰 Tech Brief — latest digest (2026-11-25)
 
-- Z.ai has released GLM-5.4, its first flagship model built on a Loop Transformer, which reuses a shared block of layers to reason more deeply without adding parameters; Z.ai says it reaches intelligence comparable to 2T to 3T parameter models and it is available now on the GLM Coding Plan.
-- The looped transformer approach also appears in Thinking Machines Lab's Inkling 2 Mini, which runs the middle layers three times per token to aim for better reasoning on agentic coding tasks.
-- OpenAI reports that its GPT-6 models can design new protein shapes and sequences using only reasoning and code, and that an internal research model matched or outperformed specialized models on many protein design tasks; in lab tests with Onava, proteins based on GPT-6.2's designs showed evidence of binding across five targets.
-- Google's DeepCrossAttention (DCA) lets each transformer layer dynamically select and route features from preceding layers, reducing information dilution and parameter count by 30-40%, with faster convergence and better perplexity than standard models on C4 and LM1B.
-- Microsoft AI's Rocket is its in-house reinforcement learning framework, used to post-train MAI Base 2, a three-trillion-parameter model, without distilling from third-party models.
+- Google DeepMind is back in the frontier race, with the Gemini 4 Neon model now the talk of the town and its adoption showing an unusually strong breakout trend. Gemini 4 Argon, Carbon and Hydrogen were also covered in that roundup.
+- Simon Willison traces three LLM inflection points over the last twelve months, anchored on the release of Claude Opus 4.5 a year ago, which Anthropic said handles ambiguity and multi-system bugs without hand-holding.
+- IBM Research describes an Indic voice agent built on CUGA, a configurable generalist agent that leads the AppWorld benchmark.
+- AI-driven requests are straining small-town public records systems in the US: a Vermont town clerk reports public records requests on purchasing data rising from yearly to monthly, often from companies doing targeted research.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
