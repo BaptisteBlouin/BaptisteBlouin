@@ -80,8 +80,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - Google DeepMind is back in the frontier race, with the Gemini 4 Neon model now the talk of the town and its adoption showing an unusually strong breakout trend. Gemini 4 Argon, Carbon and Hydrogen were also covered in that roundup.
 - Simon Willison traces three LLM inflection points over the last twelve months, anchored on the release of Claude Opus 4.5 a year ago, which Anthropic said handles ambiguity and multi-system bugs without hand-holding.
-- IBM Research describes an Indic voice agent built on CUGA, a configurable generalist agent that leads the AppWorld benchmark.
-- AI-driven requests are straining small-town public records systems in the US: a Vermont town clerk reports public records requests on purchasing data rising from yearly to monthly, often from companies doing targeted research.
+- Cognition released SWE-2.1, a coding and agent model trained with reinforcement learning on top of Kimi K3, which roughly doubles SWE-2's score on Terminal-Bench 4.1 to 50.0 and adds stronger security skills.
+- Inkling 2 Mini is a looped Mixture-of-Experts model with about 26B total parameters (3B active), multimodal inputs and a 1M-token context window; a Hugging Face post tunes its inference on a single RTX PRO 6000, and its published vLLM and SGLang recipes target B200 and GB300 rather than sm120 cards.
+- Ternary Bonsai 2.5 27B has markedly stronger agentic coding and multi-turn tool use than its predecessor while keeping a 5.9 GB footprint.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
