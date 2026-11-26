@@ -76,13 +76,12 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-25)
+#### 📰 Tech Brief — latest digest (2026-11-26)
 
-- Google DeepMind is back in the frontier race, with the Gemini 4 Neon model now the talk of the town and its adoption showing an unusually strong breakout trend. Gemini 4 Argon, Carbon and Hydrogen were also covered in that roundup.
-- Simon Willison traces three LLM inflection points over the last twelve months, anchored on the release of Claude Opus 4.5 a year ago, which Anthropic said handles ambiguity and multi-system bugs without hand-holding.
-- Cognition released SWE-2.1, a coding and agent model trained with reinforcement learning on top of Kimi K3, which roughly doubles SWE-2's score on Terminal-Bench 4.1 to 50.0 and adds stronger security skills.
-- Inkling 2 Mini is a looped Mixture-of-Experts model with about 26B total parameters (3B active), multimodal inputs and a 1M-token context window; a Hugging Face post tunes its inference on a single RTX PRO 6000, and its published vLLM and SGLang recipes target B200 and GB300 rather than sm120 cards.
-- Ternary Bonsai 2.5 27B has markedly stronger agentic coding and multi-turn tool use than its predecessor while keeping a 5.9 GB footprint.
+- The sqlite3_rsync tool copies a SQLite database snapshot over SSH to another machine without first making a full local copy, which the backup API and VACUUM INTO require. It can also resync an existing replica by sending only changes instead of the whole database.
+- Scott Aaronson argues that LLM-driven progress is opening a new continent of mathematical truth, comparable to early microscopy and telescopy, with complexity-theory results arriving one by one.
+- Hugging Face describes building on NVIDIA's Nemotron 3.5 Parse with open data, fine-tuning and faster inference, with a community model derived from it listed on the Hub.
+- PyTorch Day China 2026 takes place December 12 in Beijing, co-hosted by Alibaba Cloud, AMD and the PyTorch Foundation, with sessions on AMD GPU acceleration with FlyDSL and on Mooncake's evolution beyond the KV cache.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
