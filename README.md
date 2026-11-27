@@ -78,10 +78,11 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 <!-- TECH-BRIEF:START -->
 #### 📰 Tech Brief — latest digest (2026-11-26)
 
-- The sqlite3_rsync tool copies a SQLite database snapshot over SSH to another machine without first making a full local copy, which the backup API and VACUUM INTO require. It can also resync an existing replica by sending only changes instead of the whole database.
 - Scott Aaronson argues that LLM-driven progress is opening a new continent of mathematical truth, comparable to early microscopy and telescopy, with complexity-theory results arriving one by one.
-- Hugging Face describes building on NVIDIA's Nemotron 3.5 Parse with open data, fine-tuning and faster inference, with a community model derived from it listed on the Hub.
-- PyTorch Day China 2026 takes place December 12 in Beijing, co-hosted by Alibaba Cloud, AMD and the PyTorch Foundation, with sessions on AMD GPU acceleration with FlyDSL and on Mooncake's evolution beyond the KV cache.
+- AI labs are reporting results on longstanding math problems, including matching upper and lower bounds for matrix multiplication and the Fourier transform, and Aaronson suggests a proof of P ≠ NP may soon be within reach.
+- OpenAI claims to have proven that ω, the exponent of matrix multiplication, is exactly 9/4.
+- A single GPT-6.2 Astra agent outperformed all human-designed software on open mathematical optimization problems across quadratic programming, mixed-integer non-linear programming, large-scale optimization and semidefinite programming, with internet search allowed.
+- Hugging Face grew a swarm to 1,000 DeepSeek agents over nine days to build PyBot, a pure Python chatbot that matched SmolLM-360M on everyday conversations, generating 175,000 messages and more than 8,500 merged pull requests and exposing bottlenecks in inference, tool calls and Git.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
