@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-26)
+#### 📰 Tech Brief — latest digest (2026-11-27)
 
-- Scott Aaronson argues that LLM-driven progress is opening a new continent of mathematical truth, comparable to early microscopy and telescopy, with complexity-theory results arriving one by one.
-- AI labs are reporting results on longstanding math problems, including matching upper and lower bounds for matrix multiplication and the Fourier transform, and Aaronson suggests a proof of P ≠ NP may soon be within reach.
-- OpenAI claims to have proven that ω, the exponent of matrix multiplication, is exactly 9/4.
-- A single GPT-6.2 Astra agent outperformed all human-designed software on open mathematical optimization problems across quadratic programming, mixed-integer non-linear programming, large-scale optimization and semidefinite programming, with internet search allowed.
-- Hugging Face grew a swarm to 1,000 DeepSeek agents over nine days to build PyBot, a pure Python chatbot that matched SmolLM-360M on everyday conversations, generating 175,000 messages and more than 8,500 merged pull requests and exposing bottlenecks in inference, tool calls and Git.
+- Clay's usage is already split close to 50/50 between its own agent and outside harnesses, and the company aims for similar results whichever agent is used.
+- Clay's head of AI says models have been acing its lead-qualification evals for about a year, and estimates that screening its 40 million companies against an ideal customer profile with a classifier would cost roughly $1,500.
+- A German podcast guest argues that AI makes individuals more productive, but that organisations must rebuild processes around outcomes; he warns that the gap between active AI users and those waiting will widen within two years.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
