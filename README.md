@@ -80,7 +80,9 @@ A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tec
 
 - Clay's usage is already split close to 50/50 between its own agent and outside harnesses, and the company aims for similar results whichever agent is used.
 - Clay's head of AI says models have been acing its lead-qualification evals for about a year, and estimates that screening its 40 million companies against an ideal customer profile with a classifier would cost roughly $1,500.
-- A German podcast guest argues that AI makes individuals more productive, but that organisations must rebuild processes around outcomes; he warns that the gap between active AI users and those waiting will widen within two years.
+- Multiagent coding is expected to have a seismic impact on software development and knowledge work, though labs have not yet shipped good multiagent coding products, and autonomous agent swarms interacting with infrastructure carry real dangers.
+- A main Claude Code session plans work and delegates implementation to agents in separate Git worktrees, with the developer approving plans and a manager checking commits, tests and Release builds; this produced 37 TestFlight builds in five days, up from nine in the previous five.
+- A production agent architecture of six layers (event triggers, workflow state, tools, trusted context, evaluation and runtime controls) recommends checkpointing runs in Postgres, putting deterministic logic behind typed tools, requiring human approval for high-impact actions, and using a shared model gateway for spend caps and traces.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
