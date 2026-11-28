@@ -76,13 +76,11 @@ litellm · LangGraph · Langfuse · RAG / GraphRAG / RAPTOR · Hybrid Search (BM
 A daily AI/ML · DevOps · Cloud digest I generate automatically from my own tech-watch — no human in the loop.
 
 <!-- TECH-BRIEF:START -->
-#### 📰 Tech Brief — latest digest (2026-11-27)
+#### 📰 Tech Brief — latest digest (2026-11-28)
 
-- Clay's usage is already split close to 50/50 between its own agent and outside harnesses, and the company aims for similar results whichever agent is used.
-- Clay's head of AI says models have been acing its lead-qualification evals for about a year, and estimates that screening its 40 million companies against an ideal customer profile with a classifier would cost roughly $1,500.
-- Multiagent coding is expected to have a seismic impact on software development and knowledge work, though labs have not yet shipped good multiagent coding products, and autonomous agent swarms interacting with infrastructure carry real dangers.
-- A main Claude Code session plans work and delegates implementation to agents in separate Git worktrees, with the developer approving plans and a manager checking commits, tests and Release builds; this produced 37 TestFlight builds in five days, up from nine in the previous five.
-- A production agent architecture of six layers (event triggers, workflow state, tools, trusted context, evaluation and runtime controls) recommends checkpointing runs in Postgres, putting deterministic logic behind typed tools, requiring human approval for high-impact actions, and using a shared model gateway for spend caps and traces.
+- A Latent Space episode with G2i's CEO covers the coding training-data market, where several roughly one-year-old startups reportedly make about $100m a year in data contracts with frontier labs. The episode walks through how engineers design the task, choose starting data, and build a verifier to grade results, and explains when and why labs pay extra for data competitors cannot buy.
+- Simon Willison released datasette-charts 0.4a0, which adds changes to the plugin hook that lets other plugins define new chart types. He built an experimental plugin with Claude to test the hook, and the release addresses the design friction points that exercise surfaced.
+- A new charts.datasette.io site accompanies the plugin, with a tutorial for plugin authors and a gallery of core charts and annotations, each linking to an interactive demo on Datasette Lite.
 
 ➡️ **[Full digest & archive](https://github.com/BaptisteBlouin/tech-brief)** · updated twice a day, no human in the loop.
 <!-- TECH-BRIEF:END -->
